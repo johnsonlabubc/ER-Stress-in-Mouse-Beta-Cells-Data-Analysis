@@ -1,0 +1,38 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1099442	Atxn3	ataxin 3	12		protein quality control for misfolded or incompletely synthesized proteins			IMP		J:183193 	
+MGI:107789	Aup1	ancient ubiquitous protein 1	6		ER-associated misfolded protein catabolic process			ISO	Q9Y679 	J:164563 	
+MGI:1919439	Bag6	BCL2-associated athanogene 6	17		ER-associated misfolded protein catabolic process			ISO	P46379 	J:164563 	
+MGI:1858213	Clpp	caseinolytic mitochondrial matrix peptidase proteolytic subunit	17		protein quality control for misfolded or incompletely synthesized proteins			IBA	PTN000043558 	J:265628 	
+MGI:1858213	Clpp	caseinolytic mitochondrial matrix peptidase proteolytic subunit	17		protein quality control for misfolded or incompletely synthesized proteins			ISA	P0A6G7 	J:61064 	
+MGI:1347360	Cul3	cullin 3	1		nuclear protein quality control by the ubiquitin-proteasome system			ISO	Q13618 	J:164563 	
+MGI:1915069	Derl1	Der1-like domain family, member 1	15		ER-associated misfolded protein catabolic process			ISO	Q9BUN8 	J:164563 	
+MGI:1354704	Fbxl17	F-box and leucine-rich repeat protein 17	17		protein quality control for misfolded or incompletely synthesized proteins			ISO	Q9UF56 	J:164563 	
+MGI:1333752	Hdac6	histone deacetylase 6	X		protein quality control for misfolded or incompletely synthesized proteins			ISO	Q9UBN7 	J:164563 	
+MGI:1923400	Klhl15	kelch-like 15	X		nuclear protein quality control by the ubiquitin-proteasome system			ISO	Q96M94 	J:164563 	
+MGI:1921392	Lonp1	lon peptidase 1, mitochondrial	17		protein quality control for misfolded or incompletely synthesized proteins			IBA	PTN002464028 	J:265628 	
+MGI:1914137	Lonp2	lon peptidase 2, peroxisomal	8		protein quality control for misfolded or incompletely synthesized proteins			IEA	IPR027501 	J:72247 	
+MGI:1913276	Ngly1	N-glycanase 1	14		ER-associated misfolded protein catabolic process			ISO	RGD:1308518 	J:155856 	
+MGI:1913276	Ngly1	N-glycanase 1	14		protein quality control for misfolded or incompletely synthesized proteins			IBA	PTN000254236 	J:265628 	
+MGI:1914263	Oma1	OMA1 zinc metallopeptidase	4		protein quality control for misfolded or incompletely synthesized proteins			IBA	PTN000506395 	J:265628 	
+MGI:1914263	Oma1	OMA1 zinc metallopeptidase	4		protein quality control for misfolded or incompletely synthesized proteins			ISO	Q96E52 	J:164563 	
+MGI:1860076	Rnf5	ring finger protein 5	17		ER-associated misfolded protein catabolic process			IBA	PTN000267874 	J:265628 	
+MGI:1860076	Rnf5	ring finger protein 5	17		ER-associated misfolded protein catabolic process			ISO	Q99942 	J:164563 	
+MGI:1917544	Rnf126	ring finger protein 126	10		cytoplasm protein quality control by the ubiquitin-proteasome system			ISO	Q9BV68 	J:164563 	
+MGI:1922078	Rnf185	ring finger protein 185	11		ER-associated misfolded protein catabolic process			IBA	PTN000267874 	J:265628 	
+MGI:2149842	Sdf2l1	stromal cell-derived factor 2-like 1	16		ER-associated misfolded protein catabolic process			ISO	D4A9Y0 	J:200660 	
+MGI:1891731	Stub1	STIP1 homology and U-Box containing protein 1	17		protein quality control for misfolded or incompletely synthesized proteins			IBA	PTN002929542 	J:265628 	
+MGI:1891731	Stub1	STIP1 homology and U-Box containing protein 1	17		protein quality control for misfolded or incompletely synthesized proteins			IMP		J:183193 	
+MGI:1891731	Stub1	STIP1 homology and U-Box containing protein 1	17		protein quality control for misfolded or incompletely synthesized proteins			ISO	Q9UNE7 	J:164563 	
+MGI:1353568	Tor1a	torsin family 1, member A (torsin A)	2		ER-associated misfolded protein catabolic process			IDA		J:121865 	
+MGI:1914049	Ube2w	ubiquitin-conjugating enzyme E2W (putative)	1		protein quality control for misfolded or incompletely synthesized proteins			IMP		J:183193 	
+MGI:109353	Ufd1	ubiquitin recognition factor in ER-associated degradation 1	16		ER-associated misfolded protein catabolic process			IBA	PTN000285104 	J:265628 	
+MGI:109353	Ufd1	ubiquitin recognition factor in ER-associated degradation 1	16		ER-associated misfolded protein catabolic process			ISO	Q92890 	J:164563 	
+MGI:2443162	Uggt1	UDP-glucose glycoprotein glucosyltransferase 1	1		ER-associated misfolded protein catabolic process			IBA	PTN000132051 	J:265628 	
+MGI:1913685	Uggt2	UDP-glucose glycoprotein glucosyltransferase 2	14		ER-associated misfolded protein catabolic process			IBA	PTN000132051 	J:265628 	
+MGI:99919	Vcp	valosin containing protein	4		ER-associated misfolded protein catabolic process			IBA	PTN000554506 	J:265628 	
+MGI:99919	Vcp	valosin containing protein	4		ER-associated misfolded protein catabolic process			ISO	P55072 	J:164563 	
+MGI:1351651	Yme1l1	YME1-like 1 (S. cerevisiae)	2		protein quality control for misfolded or incompletely synthesized proteins			IBA	PTN001130077 	J:265628 	
+MGI:1351651	Yme1l1	YME1-like 1 (S. cerevisiae)	2		protein quality control for misfolded or incompletely synthesized proteins			ISO	Q96TA2 	J:164563 	
+MGI:2442511	Zer1	zyg-11 related, cell cycle regulator	2		protein quality control for misfolded or incompletely synthesized proteins			ISO	Q7Z7L7 	J:164563 	
+MGI:2685277	Zyg11b	zyg-ll family member B, cell cycle regulator	4		protein quality control for misfolded or incompletely synthesized proteins			ISO	Q9C0D3 	J:164563 	
+

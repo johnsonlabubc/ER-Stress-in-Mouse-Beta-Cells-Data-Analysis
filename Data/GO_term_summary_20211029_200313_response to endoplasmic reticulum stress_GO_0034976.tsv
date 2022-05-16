@@ -1,0 +1,638 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1351646	Abca7	ATP-binding cassette, sub-family A (ABC1), member 7	10		negative regulation of PERK-mediated unfolded protein response	happens in neuron		IMP		J:231748 	
+MGI:87859	Abl1	c-abl oncogene 1, non-receptor tyrosine kinase	2		response to endoplasmic reticulum stress			ISO	RGD:1584969 	J:155856 	
+MGI:1344405	Agr2	anterior gradient 2	12		positive regulation of IRE1-mediated unfolded protein response			ISO	O95994 	J:164563 	
+MGI:1344405	Agr2	anterior gradient 2	12		positive regulation of PERK-mediated unfolded protein response			ISO	O95994 	J:164563 	
+MGI:1349419	Aifm1	apoptosis-inducing factor, mitochondrion-associated 1	X		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:131590 	
+MGI:87999	Alox5	arachidonate 5-lipoxygenase	6		negative regulation of response to endoplasmic reticulum stress			IMP		J:253033 	
+MGI:87997	Alox15	arachidonate 15-lipoxygenase	11		response to endoplasmic reticulum stress			IMP		J:184646 	
+MGI:1345634	Amfr	autocrine motility factor receptor	8		endoplasmic reticulum unfolded protein response			IBA	PTN000967651 	J:265628 	
+MGI:1345634	Amfr	autocrine motility factor receptor	8		endoplasmic reticulum unfolded protein response			ISO	Q9UKV5 	J:164563 	
+MGI:1345634	Amfr	autocrine motility factor receptor	8		ubiquitin-dependent ERAD pathway			ISO	Q9UKV5 	J:164563 	
+MGI:1919324	Anks4b	ankyrin repeat and sterile alpha motif domain containing 4B	7		response to endoplasmic reticulum stress			IMP		J:188369 	
+MGI:1098746	Ankzf1	ankyrin repeat and zinc finger domain containing 1	1		ubiquitin-dependent ERAD pathway			IBA	PTN000411325 	J:265628 	
+MGI:1306796	Apaf1	apoptotic peptidase activating factor 1	10		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:219625 	
+MGI:88059	App	amyloid beta (A4) precursor protein	16		positive regulation of response to endoplasmic reticulum stress			ISO	P05067 	J:164563 	
+MGI:1913583	Aqp11	aquaporin 11	7		negative regulation of ERAD pathway			IMP		J:140244 	
+MGI:1913583	Aqp11	aquaporin 11	7		negative regulation of response to endoplasmic reticulum stress			IMP		J:140244 	
+MGI:109384	Atf3	activating transcription factor 3	1		endoplasmic reticulum unfolded protein response			IMP		J:124910 	
+MGI:109384	Atf3	activating transcription factor 3	1		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			ISO	P18847 	J:164563 	
+MGI:88096	Atf4	activating transcription factor 4	15		endoplasmic reticulum unfolded protein response			IDA		J:198492 	
+MGI:88096	Atf4	activating transcription factor 4	15		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IDA		J:198492 	
+MGI:88096	Atf4	activating transcription factor 4	15		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:167725 	
+MGI:88096	Atf4	activating transcription factor 4	15		PERK-mediated unfolded protein response			IDA		J:137331 	
+MGI:88096	Atf4	activating transcription factor 4	15		PERK-mediated unfolded protein response			IMP		J:124910 	
+MGI:88096	Atf4	activating transcription factor 4	15		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	uses UniProtKB:P20029		IMP		J:217287 	
+MGI:88096	Atf4	activating transcription factor 4	15		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	uses UniProtKB:Q9WVS6,happens in primary neuron		IMP		J:186974 	
+MGI:88096	Atf4	activating transcription factor 4	15		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			ISO	P18848 	J:164563 	
+MGI:88096	Atf4	activating transcription factor 4	15		response to endoplasmic reticulum stress			IDA		J:99455 J:167725 	
+MGI:88096	Atf4	activating transcription factor 4	15		response to endoplasmic reticulum stress			ISO	P18848 	J:164563 	
+MGI:1926157	Atf6	activating transcription factor 6	1		endoplasmic reticulum unfolded protein response			IBA	PTN005284906 	J:265628 	
+MGI:1926157	Atf6	activating transcription factor 6	1		positive regulation of ATF6-mediated unfolded protein response			ISO	P18850 	J:164563 	
+MGI:1926157	Atf6	activating transcription factor 6	1		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			ISO	P18850 	J:164563 	
+MGI:105121	Atf6b	activating transcription factor 6 beta	17		endoplasmic reticulum unfolded protein response			IBA	PTN005284906 	J:265628 	
+MGI:105121	Atf6b	activating transcription factor 6 beta	17		negative regulation of ATF6-mediated unfolded protein response			ISO	Q99941 	J:164563 	
+MGI:105121	Atf6b	activating transcription factor 6 beta	17		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			ISO	Q99941 	J:164563 	
+MGI:1914045	Atg10	autophagy related 10	13		ER overload response			ISO	Q9H0Y0 	J:164563 	
+MGI:105058	Atp2a1	ATPase, Ca++ transporting, cardiac muscle, fast twitch 1	7		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISO	O14983 	J:164563 	
+MGI:105058	Atp2a1	ATPase, Ca++ transporting, cardiac muscle, fast twitch 1	7		response to endoplasmic reticulum stress			ISO	O14983 	J:164563 	
+MGI:1194503	Atp2a3	ATPase, Ca++ transporting, ubiquitous	11		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISO	Q93084 	J:164563 	
+MGI:107789	Aup1	ancient ubiquitous protein 1	6		ER-associated misfolded protein catabolic process			ISO	Q9Y679 	J:164563 	
+MGI:107789	Aup1	ancient ubiquitous protein 1	6		retrograde protein transport, ER to cytosol			ISO	Q9Y679 	J:164563 	
+MGI:107789	Aup1	ancient ubiquitous protein 1	6		ubiquitin-dependent ERAD pathway			IBA	PTN000397938 	J:265628 	
+MGI:107789	Aup1	ancient ubiquitous protein 1	6		ubiquitin-dependent ERAD pathway			ISO	Q9Y679 	J:164563 	
+MGI:1919439	Bag6	BCL2-associated athanogene 6	17		endoplasmic reticulum stress-induced pre-emptive quality control			ISO	P46379 	J:164563 	
+MGI:1919439	Bag6	BCL2-associated athanogene 6	17		ER-associated misfolded protein catabolic process			ISO	P46379 	J:164563 	
+MGI:1919439	Bag6	BCL2-associated athanogene 6	17		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:131590 	
+MGI:1919439	Bag6	BCL2-associated athanogene 6	17		maintenance of unfolded protein involved in ERAD pathway			ISO	P46379 	J:164563 	
+MGI:1919439	Bag6	BCL2-associated athanogene 6	17		positive regulation of ERAD pathway			ISO	P46379 	J:164563 	
+MGI:1919439	Bag6	BCL2-associated athanogene 6	17		ubiquitin-dependent ERAD pathway			IBA	PTN000390583 	J:265628 	
+MGI:1919439	Bag6	BCL2-associated athanogene 6	17		ubiquitin-dependent ERAD pathway			ISO	P46379 	J:164563 	
+MGI:1097161	Bak1	BCL2-antagonist/killer 1	17		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	happens in fibroblast		IGI	MGI:99702 	J:84272 	
+MGI:1097161	Bak1	BCL2-antagonist/killer 1	17		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	happens in fibroblast		IGI	MGI:99702 P10415 	J:97306 	
+MGI:1097161	Bak1	BCL2-antagonist/killer 1	17		positive regulation of endoplasmic reticulum unfolded protein response			ISO	Q16611 	J:164563 	
+MGI:99702	Bax	BCL2-associated X protein	7		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	happens in fibroblast		IGI	MGI:1097161 	J:84272 	
+MGI:99702	Bax	BCL2-associated X protein	7		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	happens in fibroblast		IGI	MGI:1097161 P10415 	J:97306 	
+MGI:99702	Bax	BCL2-associated X protein	7		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISO	Q07812 	J:164563 	
+MGI:99702	Bax	BCL2-associated X protein	7		positive regulation of endoplasmic reticulum unfolded protein response			ISO	Q07812 	J:164563 	
+MGI:2181667	Bbc3	BCL2 binding component 3	7		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IBA	PTN002008808 	J:265628 	
+MGI:2181667	Bbc3	BCL2 binding component 3	7		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:167725 J:190239 J:219625 	
+MGI:2181667	Bbc3	BCL2 binding component 3	7		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISO	Q9BXH1 	J:164563 	
+MGI:2181667	Bbc3	BCL2 binding component 3	7		response to endoplasmic reticulum stress			IDA		J:167725 	
+MGI:2181667	Bbc3	BCL2 binding component 3	7		response to endoplasmic reticulum stress			ISO	Q9BXH1 	J:164563 	
+MGI:1350933	Bcap31	B cell receptor associated protein 31	X		positive regulation of ER-associated ubiquitin-dependent protein catabolic process			ISO	P51572 	J:164563 	
+MGI:1350933	Bcap31	B cell receptor associated protein 31	X		positive regulation of retrograde protein transport, ER to cytosol			ISO	P51572 	J:164563 	
+MGI:1350933	Bcap31	B cell receptor associated protein 31	X		response to endoplasmic reticulum stress			ISO	P51572 	J:164563 	
+MGI:88138	Bcl2	B cell leukemia/lymphoma 2	1		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISS	P10415 	J:97306 	
+MGI:88139	Bcl2l1	BCL2-like 1	2		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	Q07817 	J:164563 	
+MGI:1197519	Bcl2l11	BCL2-like 11 (apoptosis facilitator)	2		positive regulation of autophagy in response to ER overload			ISO	RGD:628774 	J:155856 	
+MGI:1197519	Bcl2l11	BCL2-like 11 (apoptosis facilitator)	2		response to endoplasmic reticulum stress			IDA		J:167725 	
+MGI:1197519	Bcl2l11	BCL2-like 11 (apoptosis facilitator)	2		response to endoplasmic reticulum stress			ISO	O43521 	J:164563 	
+MGI:1914368	Bfar	bifunctional apoptosis regulator	16		negative regulation of IRE1-mediated unfolded protein response			ISO	Q9NZS9 	J:164563 	
+MGI:891976	Bhlha15	basic helix-loop-helix family, member a15	5		endoplasmic reticulum unfolded protein response			IDA		J:215889 	
+MGI:108093	Bid	BH3 interacting domain death agonist	6		positive regulation of autophagy in response to ER overload			ISO	RGD:620160 	J:155856 	
+MGI:1858494	Bok	BCL2-related ovarian killer	1		positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IDA		J:235310 	
+MGI:1858494	Bok	BCL2-related ovarian killer	1		positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IMP		J:223399 	
+MGI:1858494	Bok	BCL2-related ovarian killer	1		positive regulation of PERK-mediated unfolded protein response			IMP		J:223399 	
+MGI:1923020	Brsk2	BR serine/threonine kinase 2	7		ERAD pathway			ISO	Q8IWQ3 	J:164563 	
+MGI:1923020	Brsk2	BR serine/threonine kinase 2	7		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISO	Q8IWQ3 	J:164563 	
+MGI:88252	Calr	calreticulin	8		ubiquitin-dependent ERAD pathway			IBA	PTN000117401 	J:265628 	
+MGI:1920566	Calr3	calreticulin 3	8		ubiquitin-dependent ERAD pathway			IBA	PTN000117401 	J:265628 	
+MGI:2140435	Calr4	calreticulin 4	4		ubiquitin-dependent ERAD pathway			IBA	PTN000117401 	J:265628 	
+MGI:88261	Canx	calnexin	11		ubiquitin-dependent ERAD pathway			IBA	PTN000117401 	J:265628 	
+MGI:107739	Casp3	caspase 3	8		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			NAS		J:220516 	
+MGI:1277950	Casp9	caspase 9	4		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			NAS		J:220516 	
+MGI:1312922	Casp12	caspase 12	9		endoplasmic reticulum unfolded protein response			IDA		J:62257 	
+MGI:1312922	Casp12	caspase 12	9		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IDA		J:220516 	
+MGI:1312922	Casp12	caspase 12	9		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	happens in fibroblast		IGI	MGI:1097161 MGI:99702 	J:84272 	
+MGI:1312922	Casp12	caspase 12	9		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	happens in epithelial cell of proximal tubule		IMP		J:59337 	
+MGI:1312922	Casp12	caspase 12	9		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			TAS		J:180458 	
+MGI:102709	Cav1	caveolin 1, caveolae protein	6		positive regulation of ER-associated ubiquitin-dependent protein catabolic process			ISO	Q03135 	J:164563 	
+MGI:1914413	Ccdc47	coiled-coil domain containing 47	11		ER overload response			IMP		J:124441 	
+MGI:1914413	Ccdc47	coiled-coil domain containing 47	11		ERAD pathway			ISO	Q96A33 	J:164563 	
+MGI:1914413	Ccdc47	coiled-coil domain containing 47	11		ubiquitin-dependent ERAD pathway			IMP	MGI:3722141 	J:215393 	
+MGI:88313	Ccnd1	cyclin D1	7		endoplasmic reticulum unfolded protein response			IDA		J:107108 	
+MGI:1933126	Cdk5rap3	CDK5 regulatory subunit associated protein 3	11		endoplasmic reticulum unfolded protein response			ISO	Q96JB5 	J:164563 	
+MGI:1933126	Cdk5rap3	CDK5 regulatory subunit associated protein 3	11		response to endoplasmic reticulum stress			IMP		J:272566 	
+MGI:88373	Cebpb	CCAAT/enhancer binding protein (C/EBP), beta	2		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:52729 	
+MGI:88373	Cebpb	CCAAT/enhancer binding protein (C/EBP), beta	2		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			ISO	P17676 	J:164563 	
+MGI:88373	Cebpb	CCAAT/enhancer binding protein (C/EBP), beta	2		response to endoplasmic reticulum stress			ISO	P17676 	J:164563 	
+MGI:1915268	Cert1	ceramide transporter 1	13		response to endoplasmic reticulum stress			IMP	MGI:3837565 	J:146172 	
+MGI:88388	Cftr	cystic fibrosis transmembrane conductance regulator	6		response to endoplasmic reticulum stress			ISO	P13569 	J:164563 	
+MGI:1916315	Chac1	ChaC, cation transport regulator 1	2		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISO	Q9BUX1 	J:164563 	
+MGI:107472	Clgn	calmegin	8		ubiquitin-dependent ERAD pathway			IBA	PTN000117401 	J:265628 	
+MGI:88423	Clu	clusterin	14		negative regulation of response to endoplasmic reticulum stress			ISO	P10909 	J:164563 	
+MGI:1349415	Cops5	COP9 signalosome subunit 5	1		regulation of IRE1-mediated unfolded protein response			ISO	Q92905 	J:164563 	
+MGI:99946	Creb3	cAMP responsive element binding protein 3	4		endoplasmic reticulum unfolded protein response			IEA	IPR029808 	J:72247 	
+MGI:99946	Creb3	cAMP responsive element binding protein 3	4		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	O43889 	J:164563 	
+MGI:99946	Creb3	cAMP responsive element binding protein 3	4		positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response			ISO	O43889 	J:164563 	
+MGI:1347062	Creb3l1	cAMP responsive element binding protein 3-like 1	2		endoplasmic reticulum unfolded protein response			IDA		J:158242 	
+MGI:1347062	Creb3l1	cAMP responsive element binding protein 3-like 1	2		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	happens in glial cell		IDA		J:217998 	
+MGI:1347062	Creb3l1	cAMP responsive element binding protein 3-like 1	2		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	RGD:1359613 	J:155856 	
+MGI:1347062	Creb3l1	cAMP responsive element binding protein 3-like 1	2		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	uses UniProtKB:P20029		IDA		J:217998 	
+MGI:1347062	Creb3l1	cAMP responsive element binding protein 3-like 1	2		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			ISO	RGD:1359613 	J:155856 	
+MGI:2442695	Creb3l2	cAMP responsive element binding protein 3-like 2	6		endoplasmic reticulum unfolded protein response			IEA	IPR029804 	J:72247 	
+MGI:2384786	Creb3l3	cAMP responsive element binding protein 3-like 3	10		endoplasmic reticulum unfolded protein response			IEA	IPR029806 	J:72247 	
+MGI:2384786	Creb3l3	cAMP responsive element binding protein 3-like 3	10		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			IMP		J:217996 	
+MGI:2384786	Creb3l3	cAMP responsive element binding protein 3-like 3	10		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			ISO	Q68CJ9 	J:164563 	
+MGI:1916603	Creb3l4	cAMP responsive element binding protein 3-like 4	3		endoplasmic reticulum unfolded protein response			IEA	IPR029807 	J:72247 	
+MGI:1924378	Crebrf	CREB3 regulatory factor	17		negative regulation of endoplasmic reticulum unfolded protein response			ISO	Q8IUR6 	J:164563 	
+MGI:1924378	Crebrf	CREB3 regulatory factor	17		response to endoplasmic reticulum stress			ISO	Q8IUR6 	J:164563 	
+MGI:91842	D1Pas1	DNA segment, Chr 1, Pasteur Institute 1	1		positive regulation of translation in response to endoplasmic reticulum stress			ISO	O00571 	J:164563 	
+MGI:1916851	Dab2ip	disabled 2 interacting protein	2		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:136554 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		endoplasmic reticulum unfolded protein response			IDA		J:198492 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		endoplasmic reticulum unfolded protein response			IMP	MGI:2654034 	J:95320 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		endoplasmic reticulum unfolded protein response			IMP	MGI:5441015 	J:268046 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		ER overload response			IBA	PTN002703959 	J:265628 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		ER overload response			IMP	MGI:2179046 	J:74700 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		ER overload response			ISO	RGD:62391 	J:155856 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IBA	PTN002703959 	J:265628 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IDA		J:198492 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP	MGI:2179046 	J:74700 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	happens in epithelial cell of proximal tubule		IMP		J:52729 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:167725 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISO	P35638 	J:164563 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		positive regulation of autophagy in response to ER overload			ISO	RGD:62391 	J:155856 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			IBA	PTN002703959 	J:265628 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	uses UniProtKB:P17564		IMP		J:95320 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			ISO	RGD:62391 	J:155856 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			ISO	P35638 	J:164563 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	uses UniProtKB:Q8R180		NAS		J:95320 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		response to endoplasmic reticulum stress			IDA		J:153833 J:167725 	
+MGI:109247	Ddit3	DNA-damage inducible transcript 3	10		response to endoplasmic reticulum stress			ISO	P35638 	J:164563 	
+MGI:1924256	Ddrgk1	DDRGK domain containing 1	2		negative regulation of IRE1-mediated unfolded protein response			IMP		J:244198 	
+MGI:1924256	Ddrgk1	DDRGK domain containing 1	2		negative regulation of IRE1-mediated unfolded protein response			ISO	Q96HY6 	J:164563 	
+MGI:1924256	Ddrgk1	DDRGK domain containing 1	2		response to endoplasmic reticulum stress			IMP		J:217277 J:244198 	
+MGI:1924256	Ddrgk1	DDRGK domain containing 1	2		response to endoplasmic reticulum stress			ISO	Q96HY6 	J:164563 	
+MGI:103064	Ddx3x	DEAD box helicase 3, X-linked	X		positive regulation of translation in response to endoplasmic reticulum stress			ISO	O00571 	J:164563 	
+MGI:1915069	Derl1	Der1-like domain family, member 1	15		endoplasmic reticulum unfolded protein response			IBA	PTN000109990 	J:265628 	
+MGI:1915069	Derl1	Der1-like domain family, member 1	15		endoplasmic reticulum unfolded protein response			ISO	Q9BUN8 	J:164563 	
+MGI:1915069	Derl1	Der1-like domain family, member 1	15		ER-associated misfolded protein catabolic process			ISO	Q9BUN8 	J:164563 	
+MGI:1915069	Derl1	Der1-like domain family, member 1	15		ERAD pathway			ISO	Q9BUN8 	J:164563 	
+MGI:1915069	Derl1	Der1-like domain family, member 1	15		retrograde protein transport, ER to cytosol			ISO	Q9BUN8 	J:73065 	
+MGI:1915069	Derl1	Der1-like domain family, member 1	15		ubiquitin-dependent ERAD pathway			IBA	PTN000109990 	J:265628 	
+MGI:1915069	Derl1	Der1-like domain family, member 1	15		ubiquitin-dependent ERAD pathway			ISO	Q9BUN8 	J:164563 	
+MGI:2151483	Derl2	Der1-like domain family, member 2	11		endoplasmic reticulum unfolded protein response			IBA	PTN000109990 	J:265628 	
+MGI:2151483	Derl2	Der1-like domain family, member 2	11		endoplasmic reticulum unfolded protein response			ISO	Q9GZP9 	J:164563 	
+MGI:2151483	Derl2	Der1-like domain family, member 2	11		negative regulation of retrograde protein transport, ER to cytosol			ISO	Q9GZP9 	J:164563 	
+MGI:2151483	Derl2	Der1-like domain family, member 2	11		retrograde protein transport, ER to cytosol	happens in fibroblast		IMP	MGI:4947129 	J:170650 	
+MGI:2151483	Derl2	Der1-like domain family, member 2	11		retrograde protein transport, ER to cytosol			ISO	Q9GZP9 	J:164563 	
+MGI:2151483	Derl2	Der1-like domain family, member 2	11		ubiquitin-dependent ERAD pathway			IBA	PTN000109990 	J:265628 	
+MGI:2151483	Derl2	Der1-like domain family, member 2	11		ubiquitin-dependent ERAD pathway			ISO	Q9GZP9 	J:164563 	
+MGI:1917627	Derl3	Der1-like domain family, member 3	10		endoplasmic reticulum unfolded protein response			IBA	PTN000109990 	J:265628 	
+MGI:1917627	Derl3	Der1-like domain family, member 3	10		endoplasmic reticulum unfolded protein response			ISO	Q96Q80 	J:164563 	
+MGI:1917627	Derl3	Der1-like domain family, member 3	10		negative regulation of retrograde protein transport, ER to cytosol			ISO	Q96Q80 	J:164563 	
+MGI:1917627	Derl3	Der1-like domain family, member 3	10		ubiquitin-dependent ERAD pathway			IBA	PTN000109990 	J:265628 	
+MGI:1917627	Derl3	Der1-like domain family, member 3	10		ubiquitin-dependent ERAD pathway			ISO	Q96Q80 	J:164563 	
+MGI:1928739	Dnajb2	DnaJ heat shock protein family (Hsp40) member B2	1		ubiquitin-dependent ERAD pathway			IBA	PTN002376289 	J:265628 	
+MGI:1928739	Dnajb2	DnaJ heat shock protein family (Hsp40) member B2	1		ubiquitin-dependent ERAD pathway			ISO	P25686 	J:164563 	
+MGI:1351618	Dnajb9	DnaJ heat shock protein family (Hsp40) member B9	12		response to endoplasmic reticulum stress			IDA		J:76352 	
+MGI:1351618	Dnajb9	DnaJ heat shock protein family (Hsp40) member B9	12		ubiquitin-dependent ERAD pathway			IDA		J:198900 	
+MGI:1351618	Dnajb9	DnaJ heat shock protein family (Hsp40) member B9	12		ubiquitin-dependent ERAD pathway			ISO	Q9UBS3 	J:164563 	
+MGI:1931881	Dnajb12	DnaJ heat shock protein family (Hsp40) member B12	10		ERAD pathway			ISO	Q9NXW2 	J:164563 	
+MGI:1931881	Dnajb12	DnaJ heat shock protein family (Hsp40) member B12	10		ubiquitin-dependent ERAD pathway			IBA	PTN001940805 	J:265628 	
+MGI:1917854	Dnajb14	DnaJ heat shock protein family (Hsp40) member B14	3		ubiquitin-dependent ERAD pathway			IBA	PTN001940805 	J:265628 	
+MGI:107373	Dnajc3	DnaJ heat shock protein family (Hsp40) member C3	14		endoplasmic reticulum unfolded protein response			IC	GO:0051787 	J:156044 	
+MGI:107373	Dnajc3	DnaJ heat shock protein family (Hsp40) member C3	14		negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation			IDA		J:218404 	
+MGI:107373	Dnajc3	DnaJ heat shock protein family (Hsp40) member C3	14		negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation			ISO	Q13217 	J:164563 	
+MGI:107373	Dnajc3	DnaJ heat shock protein family (Hsp40) member C3	14		positive regulation of translation initiation in response to endoplasmic reticulum stress			IDA		J:218404 	
+MGI:107373	Dnajc3	DnaJ heat shock protein family (Hsp40) member C3	14		response to endoplasmic reticulum stress			IMP		J:115988 	
+MGI:1914111	Dnajc10	DnaJ heat shock protein family (Hsp40) member C10	2		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISO	Q8IXB1 	J:164563 	
+MGI:1914111	Dnajc10	DnaJ heat shock protein family (Hsp40) member C10	2		response to endoplasmic reticulum stress			ISO	Q8IXB1 	J:164563 	
+MGI:1914111	Dnajc10	DnaJ heat shock protein family (Hsp40) member C10	2		ubiquitin-dependent ERAD pathway			IDA		J:169878 J:170851 	
+MGI:1914111	Dnajc10	DnaJ heat shock protein family (Hsp40) member C10	2		ubiquitin-dependent ERAD pathway			ISO	Q8IXB1 	J:164563 	
+MGI:1923844	Dnajc18	DnaJ heat shock protein family (Hsp40) member C18	18		ubiquitin-dependent ERAD pathway			IBA	PTN001940805 	J:265628 	
+MGI:2140220	Ecpas	Ecm29 proteasome adaptor and scaffold	4		ubiquitin-dependent ERAD pathway			ISO	Q5VYK3 	J:164563 	
+MGI:2180139	Edem1	ER degradation enhancer, mannosidase alpha-like 1	6		mannose trimming involved in glycoprotein ERAD pathway			ISO	Q92611 	J:164563 	
+MGI:2180139	Edem1	ER degradation enhancer, mannosidase alpha-like 1	6		positive regulation of retrograde protein transport, ER to cytosol			IDA		J:208389 	
+MGI:2180139	Edem1	ER degradation enhancer, mannosidase alpha-like 1	6		positive regulation of retrograde protein transport, ER to cytosol			ISO	Q92611 	J:164563 	
+MGI:2180139	Edem1	ER degradation enhancer, mannosidase alpha-like 1	6		ubiquitin-dependent ERAD pathway			IDA		J:76183 	
+MGI:2180139	Edem1	ER degradation enhancer, mannosidase alpha-like 1	6		ubiquitin-dependent glycoprotein ERAD pathway			ISO	Q92611 	J:164563 	
+MGI:1915540	Edem2	ER degradation enhancer, mannosidase alpha-like 2	2		mannose trimming involved in glycoprotein ERAD pathway			ISO	Q9BV94 	J:164563 	
+MGI:1915540	Edem2	ER degradation enhancer, mannosidase alpha-like 2	2		positive regulation of retrograde protein transport, ER to cytosol	is a part of ubiquitin-dependent glycoprotein ERAD pathway		IDA		J:208389 	
+MGI:1915540	Edem2	ER degradation enhancer, mannosidase alpha-like 2	2		positive regulation of retrograde protein transport, ER to cytosol			ISO	Q9BV94 	J:164563 	
+MGI:1915540	Edem2	ER degradation enhancer, mannosidase alpha-like 2	2		ubiquitin-dependent glycoprotein ERAD pathway			ISO	Q9BV94 	J:164563 	
+MGI:1914217	Edem3	ER degradation enhancer, mannosidase alpha-like 3	1		mannose trimming involved in glycoprotein ERAD pathway			IDA		J:111585 	
+MGI:1914217	Edem3	ER degradation enhancer, mannosidase alpha-like 3	1		mannose trimming involved in glycoprotein ERAD pathway			ISO	Q9BZQ6 	J:164563 	
+MGI:1098684	Eif2a	eukaryotic translation initiation factor 2A	3		endoplasmic reticulum unfolded protein response	has the participant Eif2ak3		TAS		J:171795 	
+MGI:1353449	Eif2ak2	eukaryotic translation initiation factor 2-alpha kinase 2	17		endoplasmic reticulum unfolded protein response			IDA		J:94221 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		eiF2alpha phosphorylation in response to endoplasmic reticulum stress			IMP		J:296095 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		eiF2alpha phosphorylation in response to endoplasmic reticulum stress			ISO	Q9NZJ5 	J:164563 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		endoplasmic reticulum unfolded protein response			IDA		J:51759 J:85958 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		endoplasmic reticulum unfolded protein response			IMP	MGI:2177666 	J:62257 J:70005 J:94221 J:99655 J:107108 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		endoplasmic reticulum unfolded protein response			ISO	Q9NZJ5 	J:164563 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		endoplasmic reticulum unfolded protein response	has the participant Eif2a		TAS		J:171795 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		ER overload response			ISO	Q9NZJ5 	J:164563 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP	MGI:2177666 	J:70005 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		negative regulation of translation in response to endoplasmic reticulum stress			IDA		J:51759 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		PERK-mediated unfolded protein response			IMP		J:124910 J:296095 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IGI	MGI:1913418 	J:203180 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	uses UniProtKB:P35639|uses UniProtKB:Q60765		IMP		J:124910 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation			IMP		J:99455 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	Q9NZJ5 	J:164563 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		response to endoplasmic reticulum stress			IDA		J:99455 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		response to endoplasmic reticulum stress			IMP		J:218003 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		response to endoplasmic reticulum stress			ISO	Q9NZJ5 	J:164563 	
+MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	6		ubiquitin-dependent ERAD pathway			IMP		J:296095 	
+MGI:1353427	Eif2ak4	eukaryotic translation initiation factor 2 alpha kinase 4	2		eiF2alpha phosphorylation in response to endoplasmic reticulum stress			ISO	Q9P2K8 	J:164563 	
+MGI:1353427	Eif2ak4	eukaryotic translation initiation factor 2 alpha kinase 4	2		endoplasmic reticulum unfolded protein response			IMP	MGI:2387965 	J:107108 	
+MGI:1353427	Eif2ak4	eukaryotic translation initiation factor 2 alpha kinase 4	2		response to endoplasmic reticulum stress			IGI	Q9Z2B5 	J:124910 	
+MGI:2446176	Eif2b5	eukaryotic translation initiation factor 2B, subunit 5 epsilon	16		response to endoplasmic reticulum stress			ISO	Q13144 	J:164563 	
+MGI:95299	Eif2s1	eukaryotic translation initiation factor 2, subunit 1 alpha	12		PERK-mediated unfolded protein response			ISO	P05198 	J:164563 	
+MGI:95299	Eif2s1	eukaryotic translation initiation factor 2, subunit 1 alpha	12		response to endoplasmic reticulum stress			IDA		J:99455 	
+MGI:95299	Eif2s1	eukaryotic translation initiation factor 2, subunit 1 alpha	12		response to endoplasmic reticulum stress			ISO	P05198 	J:164563 	
+MGI:2384784	Eif4g1	eukaryotic translation initiation factor 4, gamma 1	16		positive regulation of translation in response to endoplasmic reticulum stress			ISO	Q04637 	J:164563 	
+MGI:1276116	Ep300	E1A binding protein p300	15		positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response			IDA		J:215876 	
+MGI:1914003	Erlec1	endoplasmic reticulum lectin 1	11		negative regulation of retrograde protein transport, ER to cytosol			ISO	Q96DZ1 	J:164563 	
+MGI:1914003	Erlec1	endoplasmic reticulum lectin 1	11		ubiquitin-dependent ERAD pathway			ISO	Q96DZ1 	J:164563 	
+MGI:2387613	Erlin1	ER lipid raft associated 1	19		ubiquitin-dependent ERAD pathway			ISO	O75477 	J:164563 	
+MGI:2387215	Erlin2	ER lipid raft associated 2	8		ubiquitin-dependent ERAD pathway			ISO	O94905 	J:164563 	
+MGI:106250	Ermp1	endoplasmic reticulum metallopeptidase 1	19		endoplasmic reticulum unfolded protein response			ISO	Q7Z2K6 	J:164563 	
+MGI:1930134	Ern1	endoplasmic reticulum (ER) to nucleus signalling 1	11		endoplasmic reticulum unfolded protein response			IDA		J:62257 J:70005 J:95320 	
+MGI:1930134	Ern1	endoplasmic reticulum (ER) to nucleus signalling 1	11		endoplasmic reticulum unfolded protein response			TAS		J:171795 	
+MGI:1930134	Ern1	endoplasmic reticulum (ER) to nucleus signalling 1	11		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IBA	PTN000359335 	J:265628 	
+MGI:1930134	Ern1	endoplasmic reticulum (ER) to nucleus signalling 1	11		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IDA		J:66969 	
+MGI:1930134	Ern1	endoplasmic reticulum (ER) to nucleus signalling 1	11		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:147348 	
+MGI:1930134	Ern1	endoplasmic reticulum (ER) to nucleus signalling 1	11		IRE1-mediated unfolded protein response			IBA	PTN000359335 	J:265628 	
+MGI:1930134	Ern1	endoplasmic reticulum (ER) to nucleus signalling 1	11		IRE1-mediated unfolded protein response			IDA		J:210646 J:255334 	
+MGI:1930134	Ern1	endoplasmic reticulum (ER) to nucleus signalling 1	11		IRE1-mediated unfolded protein response			ISO	O75460 	J:164563 	
+MGI:1930134	Ern1	endoplasmic reticulum (ER) to nucleus signalling 1	11		positive regulation of endoplasmic reticulum unfolded protein response			ISO	O75460 	J:164563 	
+MGI:1930134	Ern1	endoplasmic reticulum (ER) to nucleus signalling 1	11		response to endoplasmic reticulum stress			ISO	O75460 	J:164563 	
+MGI:1349436	Ern2	endoplasmic reticulum (ER) to nucleus signalling 2	7		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IBA	PTN000359335 	J:265628 	
+MGI:1349436	Ern2	endoplasmic reticulum (ER) to nucleus signalling 2	7		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IDA		J:57921 	
+MGI:1349436	Ern2	endoplasmic reticulum (ER) to nucleus signalling 2	7		IRE1-mediated unfolded protein response			IBA	PTN000359335 	J:265628 	
+MGI:1349436	Ern2	endoplasmic reticulum (ER) to nucleus signalling 2	7		response to endoplasmic reticulum stress			IDA		J:132966 	
+MGI:1349436	Ern2	endoplasmic reticulum (ER) to nucleus signalling 2	7		response to endoplasmic reticulum stress			IMP	MGI:2677494 	J:67934 	
+MGI:1354385	Ero1a	endoplasmic reticulum oxidoreductase 1 alpha	14		endoplasmic reticulum unfolded protein response			IDA		J:95320 	
+MGI:1354385	Ero1a	endoplasmic reticulum oxidoreductase 1 alpha	14		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:153833 	
+MGI:1354385	Ero1a	endoplasmic reticulum oxidoreductase 1 alpha	14		response to endoplasmic reticulum stress			IDA		J:153833 	
+MGI:1916437	Erp27	endoplasmic reticulum protein 27	6		response to endoplasmic reticulum stress			IBA	PTN000432607 	J:265628 	
+MGI:1914647	Erp29	endoplasmic reticulum protein 29	5		regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IMP		J:217253 	
+MGI:1923549	Erp44	endoplasmic reticulum protein 44	4		response to endoplasmic reticulum stress			ISO	Q9BS26 	J:164563 	
+MGI:1923827	Faf2	Fas associated factor family member 2	13		retrograde protein transport, ER to cytosol			ISO	Q96CS3 	J:164563 	
+MGI:1923827	Faf2	Fas associated factor family member 2	13		ubiquitin-dependent ERAD pathway			ISO	Q96CS3 	J:164563 	
+MGI:2446216	Fbxo2	F-box protein 2	4		ubiquitin-dependent ERAD pathway			IBA	PTN000252369 	J:265628 	
+MGI:2446216	Fbxo2	F-box protein 2	4		ubiquitin-dependent ERAD pathway			IDA		J:96950 	
+MGI:1354743	Fbxo6	F-box protein 6	4		ubiquitin-dependent ERAD pathway			IBA	PTN000252369 	J:265628 	
+MGI:1354743	Fbxo6	F-box protein 6	4		ubiquitin-dependent ERAD pathway			IMP		J:86383 	
+MGI:1354743	Fbxo6	F-box protein 6	4		ubiquitin-dependent glycoprotein ERAD pathway			IC	GO:0005515 	J:222147 	
+MGI:1354707	Fbxo17	F-box protein 17	7		ubiquitin-dependent ERAD pathway			IBA	PTN000252369 	J:265628 	
+MGI:2685007	Fbxo27	F-box protein 27	7		ubiquitin-dependent ERAD pathway			IBA	PTN000252369 	J:265628 	
+MGI:1354744	Fbxo44	F-box protein 44	4		ubiquitin-dependent ERAD pathway			IBA	PTN000252369 	J:265628 	
+MGI:95499	Fcgr2b	Fc receptor, IgG, low affinity IIb	1		positive regulation of response to endoplasmic reticulum stress	is a part of cellular response to amyloid-beta,happens in neuron of cerebral cortex		IMP		J:201623 	
+MGI:95499	Fcgr2b	Fc receptor, IgG, low affinity IIb	1		positive regulation of response to endoplasmic reticulum stress			ISO	RGD:631331 	J:155856 	
+MGI:1098550	Ficd	FIC domain containing	5		regulation of IRE1-mediated unfolded protein response			ISO	Q9BVA6 	J:164563 	
+MGI:1098550	Ficd	FIC domain containing	5		response to endoplasmic reticulum stress			ISO	Q9BVA6 	J:164563 	
+MGI:1100500	Flot1	flotillin 1	17		response to endoplasmic reticulum stress			ISO	O75955 	J:164563 	
+MGI:106315	Foxred2	FAD-dependent oxidoreductase domain containing 2	15		ubiquitin-dependent ERAD pathway			IBA	PTN001125207 	J:265628 	
+MGI:106315	Foxred2	FAD-dependent oxidoreductase domain containing 2	15		ubiquitin-dependent ERAD pathway			ISO	Q8IWF2 	J:164563 	
+MGI:1914854	Get4	golgi to ER traffic protein 4	5		maintenance of unfolded protein involved in ERAD pathway			ISO	Q7L5D6 	J:164563 	
+MGI:2135962	Gorasp2	golgi reassembly stacking protein 2	2		response to endoplasmic reticulum stress			ISO	Q9H8Y8 	J:164563 	
+MGI:1913418	Grina	glutamate receptor, ionotropic, N-methyl D-aspartate-associated protein 1 (glutamate binding)	15		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IDA		J:203180 	
+MGI:1913418	Grina	glutamate receptor, ionotropic, N-methyl D-aspartate-associated protein 1 (glutamate binding)	15		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IGI	MGI:1341830 MGI:99682 	J:203180 	
+MGI:1861437	Gsk3b	glycogen synthase kinase 3 beta	16		ER overload response	happens in fibroblast		IDA		J:88275 	
+MGI:1861437	Gsk3b	glycogen synthase kinase 3 beta	16		ER overload response			ISO	P49841 	J:73065 	
+MGI:1861437	Gsk3b	glycogen synthase kinase 3 beta	16		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IDA		J:219179 	
+MGI:95886	H13	histocompatibility 13	2		membrane protein proteolysis involved in retrograde protein transport, ER to cytosol			ISO	Q8TCT9 	J:164563 	
+MGI:1927406	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	8		endoplasmic reticulum unfolded protein response			IBA	PTN000986585 	J:265628 	
+MGI:1927406	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	8		endoplasmic reticulum unfolded protein response			IDA		J:65186 	
+MGI:1927406	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	8		endoplasmic reticulum unfolded protein response			ISO	RGD:620818 	J:155856 	
+MGI:1927406	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	8		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IBA	PTN002658458 	J:265628 	
+MGI:1927406	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	8		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	RGD:620818 	J:155856 	
+MGI:1927406	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	8		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	Q15011 	J:164563 	
+MGI:1927406	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	8		positive regulation of ER-associated ubiquitin-dependent protein catabolic process			ISO	Q15011 	J:164563 	
+MGI:1927406	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	8		regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IMP		J:217284 	
+MGI:1927406	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	8		regulation of ER-associated ubiquitin-dependent protein catabolic process			IBA	PTN002658458 	J:265628 	
+MGI:1927406	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	8		regulation of ER-associated ubiquitin-dependent protein catabolic process			IMP		J:217284 	
+MGI:1927406	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	8		response to endoplasmic reticulum stress			IDA		J:220017 	
+MGI:1927406	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	8		response to endoplasmic reticulum stress			ISO	RGD:620818 	J:155856 	
+MGI:1927406	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	8		retrograde protein transport, ER to cytosol			ISO	Q15011 	J:164563 	
+MGI:1927406	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	8		ubiquitin-dependent ERAD pathway			ISO	Q15011 	J:164563 	
+MGI:1915393	Herpud2	HERPUD family member 2	9		endoplasmic reticulum unfolded protein response			IBA	PTN000986585 	J:265628 	
+MGI:98817	Hsp90b1	heat shock protein 90, beta (Grp94), member 1	10		ubiquitin-dependent ERAD pathway			IBA	PTN000163530 	J:265628 	
+MGI:95835	Hspa5	heat shock protein 5	2		endoplasmic reticulum unfolded protein response			IBA	PTN001834223 	J:265628 	
+MGI:95835	Hspa5	heat shock protein 5	2		endoplasmic reticulum unfolded protein response			IMP		J:158036 	
+MGI:95835	Hspa5	heat shock protein 5	2		ER overload response			IDA		J:74700 	
+MGI:95835	Hspa5	heat shock protein 5	2		IRE1-mediated unfolded protein response			IEP		J:210646 	
+MGI:95835	Hspa5	heat shock protein 5	2		response to endoplasmic reticulum stress			ISO	P06761 	J:200660 	
+MGI:95835	Hspa5	heat shock protein 5	2		ubiquitin-dependent ERAD pathway			IBA	PTN001834223 	J:265628 	
+MGI:108030	Hyou1	hypoxia up-regulated 1	9		negative regulation of endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway			IMP		J:117737 	
+MGI:107656	Ifng	interferon gamma	10		endoplasmic reticulum unfolded protein response			IDA		J:99655 	
+MGI:1338074	Ikbkg	inhibitor of kappaB kinase gamma	X		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IMP		J:198144 	
+MGI:96573	Ins2	insulin II	7		ER overload response			IMP	MGI:1857572 	J:74700 	
+MGI:96573	Ins2	insulin II	7		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP	MGI:1857572 	J:74700 	
+MGI:96623	Itpr1	inositol 1,4,5-trisphosphate receptor 1	6		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:153833 	
+MGI:1915057	Jkamp	JNK1/MAPK8-associated membrane protein	12		ubiquitin-dependent ERAD pathway			IBA	PTN000978232 	J:265628 	
+MGI:1915057	Jkamp	JNK1/MAPK8-associated membrane protein	12		ubiquitin-dependent ERAD pathway			ISO	Q9P055 	J:164563 	
+MGI:1913990	Jkampl	JNK1/MAPK8 associated membrane protein like	6		ubiquitin-dependent ERAD pathway			IBA	PTN000978232 	J:265628 	
+MGI:1913990	Jkampl	JNK1/MAPK8 associated membrane protein like	6		ubiquitin-dependent ERAD pathway			ISO	Q9P055 	J:164563 	
+MGI:96646	Jun	jun proto-oncogene	4		negative regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			ISO	P05412 	J:164563 	
+MGI:1315211	Lpcat3	lysophosphatidylcholine acyltransferase 3	6		negative regulation of response to endoplasmic reticulum stress			IDA		J:206173 	
+MGI:1913975	Lrrk2	leucine-rich repeat kinase 2	15		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	Q5S007 	J:164563 	
+MGI:104677	Man1a	mannosidase 1, alpha	10		mannose trimming involved in glycoprotein ERAD pathway			ISO	P33908 	J:164563 	
+MGI:104677	Man1a	mannosidase 1, alpha	10		ubiquitin-dependent ERAD pathway			ISO	P33908 	J:164563 	
+MGI:2684954	Man1b1	mannosidase, alpha, class 1B, member 1	2		mannose trimming involved in glycoprotein ERAD pathway			ISO	Q9UKM7 	J:164563 	
+MGI:2684954	Man1b1	mannosidase, alpha, class 1B, member 1	2		ubiquitin-dependent ERAD pathway			IBA	PTN002482736 	J:265628 	
+MGI:2684954	Man1b1	mannosidase, alpha, class 1B, member 1	2		ubiquitin-dependent ERAD pathway			IMP		J:92692 	
+MGI:2684954	Man1b1	mannosidase, alpha, class 1B, member 1	2		ubiquitin-dependent ERAD pathway			ISO	Q9UKM7 	J:164563 	
+MGI:1922090	Manf	mesencephalic astrocyte-derived neurotrophic factor	9		regulation of response to endoplasmic reticulum stress			ISO	P55145 	J:164563 	
+MGI:1346876	Map3k5	mitogen-activated protein kinase kinase kinase 5	10		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:218004 	
+MGI:1346876	Map3k5	mitogen-activated protein kinase kinase kinase 5	10		response to endoplasmic reticulum stress			IMP		J:218004 	
+MGI:1346876	Map3k5	mitogen-activated protein kinase kinase kinase 5	10		response to endoplasmic reticulum stress			ISO	Q99683 	J:164563 	
+MGI:2442773	Marchf6	membrane associated ring-CH-type finger 6	15		ubiquitin-dependent ERAD pathway			IBA	PTN000322018 	J:265628 	
+MGI:2444506	Mbtps2	membrane-bound transcription factor peptidase, site 2	X		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			IBA	PTN000330396 	J:265628 	
+MGI:2444506	Mbtps2	membrane-bound transcription factor peptidase, site 2	X		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			ISO	O43462 	J:164563 	
+MGI:2444506	Mbtps2	membrane-bound transcription factor peptidase, site 2	X		regulation of response to endoplasmic reticulum stress			IBA	PTN000330396 	J:265628 	
+MGI:2685009	Nccrp1	non-specific cytotoxic cell receptor protein 1 homolog (zebrafish)	7		ubiquitin-dependent ERAD pathway			IBA	PTN000252369 	J:265628 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation			IBA	PTN000517518 	J:265628 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	is upstream of negative regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress		IGI	O55033 	J:217282 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation			IGI	O55033 	J:217285 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation			ISO	P16333 	J:164563 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		negative regulation of PERK-mediated unfolded protein response			IBA	PTN000517518 	J:265628 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		negative regulation of PERK-mediated unfolded protein response			IGI	O55033 	J:217285 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		negative regulation of PERK-mediated unfolded protein response			ISO	P16333 	J:164563 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		negative regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	uses UniProtKB:P17564|uses UniProtKB:P08113		IGI	O55033 	J:217282 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		negative regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress			ISO	P16333 	J:164563 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IBA	PTN000517518 	J:265628 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IGI	O55033 	J:217282 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	P16333 	J:164563 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		positive regulation of translation in response to endoplasmic reticulum stress			IBA	PTN000517518 	J:265628 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		positive regulation of translation in response to endoplasmic reticulum stress			IGI	O55033 	J:217285 	
+MGI:109601	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	9		positive regulation of translation in response to endoplasmic reticulum stress			ISO	P16333 	J:164563 	
+MGI:1306821	Nck2	non-catalytic region of tyrosine kinase adaptor protein 2	1		negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation			IBA	PTN000517518 	J:265628 	
+MGI:1306821	Nck2	non-catalytic region of tyrosine kinase adaptor protein 2	1		negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	is upstream of negative regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress		IGI	Q99M51 	J:217282 	
+MGI:1306821	Nck2	non-catalytic region of tyrosine kinase adaptor protein 2	1		negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation			IGI	Q99M51 	J:217285 	
+MGI:1306821	Nck2	non-catalytic region of tyrosine kinase adaptor protein 2	1		negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation			ISO	O43639 	J:164563 	
+MGI:1306821	Nck2	non-catalytic region of tyrosine kinase adaptor protein 2	1		negative regulation of PERK-mediated unfolded protein response			IBA	PTN000517518 	J:265628 	
+MGI:1306821	Nck2	non-catalytic region of tyrosine kinase adaptor protein 2	1		negative regulation of PERK-mediated unfolded protein response			IGI	Q99M51 	J:217285 	
+MGI:1306821	Nck2	non-catalytic region of tyrosine kinase adaptor protein 2	1		negative regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	uses UniProtKB:P17564|uses UniProtKB:P08113		IGI	Q99M51 	J:217282 	
+MGI:1306821	Nck2	non-catalytic region of tyrosine kinase adaptor protein 2	1		positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IBA	PTN000517518 	J:265628 	
+MGI:1306821	Nck2	non-catalytic region of tyrosine kinase adaptor protein 2	1		positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IGI	Q99M51 	J:217282 	
+MGI:1306821	Nck2	non-catalytic region of tyrosine kinase adaptor protein 2	1		positive regulation of translation in response to endoplasmic reticulum stress			IBA	PTN000517518 	J:265628 	
+MGI:1306821	Nck2	non-catalytic region of tyrosine kinase adaptor protein 2	1		positive regulation of translation in response to endoplasmic reticulum stress			IGI	Q99M51 	J:217285 	
+MGI:99421	Nfe2l1	nuclear factor, erythroid derived 2,-like 1	11		regulation of response to endoplasmic reticulum stress			IMP	MGI:6101514 	J:265034 	
+MGI:99421	Nfe2l1	nuclear factor, erythroid derived 2,-like 1	11		response to endoplasmic reticulum stress			IDA		J:220017 	
+MGI:99421	Nfe2l1	nuclear factor, erythroid derived 2,-like 1	11		response to endoplasmic reticulum stress			IMP	MGI:2385929 	J:214539 	
+MGI:108420	Nfe2l2	nuclear factor, erythroid derived 2, like 2	2		endoplasmic reticulum unfolded protein response			IDA		J:85958 	
+MGI:108420	Nfe2l2	nuclear factor, erythroid derived 2, like 2	2		PERK-mediated unfolded protein response			IDA		J:85958 	
+MGI:108420	Nfe2l2	nuclear factor, erythroid derived 2, like 2	2		response to endoplasmic reticulum stress			IMP		J:218003 	
+MGI:1913276	Ngly1	N-glycanase 1	14		ER-associated misfolded protein catabolic process			ISO	RGD:1308518 	J:155856 	
+MGI:2145264	Nhlrc1	NHL repeat containing 1	13		response to endoplasmic reticulum stress			IMP	MGI:2182627 	J:150197 	
+MGI:2137237	Niban1	niban apoptosis regulator 1	1		response to endoplasmic reticulum stress			IDA		J:123035 	
+MGI:2679787	Nploc4	NPL4 homolog, ubiquitin recognition factor	11		retrograde protein transport, ER to cytosol			ISO	Q8TAT6 	J:164563 	
+MGI:1352463	Nr1h2	nuclear receptor subfamily 1, group H, member 2	7		negative regulation of response to endoplasmic reticulum stress			IDA		J:206173 	
+MGI:1352462	Nr1h3	nuclear receptor subfamily 1, group H, member 3	2		negative regulation of response to endoplasmic reticulum stress			IDA		J:206173 	
+MGI:1354950	Nrbf2	nuclear receptor binding factor 2	10		response to endoplasmic reticulum stress			IMP		J:220500 	
+MGI:2445095	Nrros	negative regulator of reactive oxygen species	16		ubiquitin-dependent ERAD pathway			TAS		J:209569 	
+MGI:1891834	Nupr1	nuclear protein transcription regulator 1	7		regulation of response to endoplasmic reticulum stress			ISO	RGD:69363 	J:155856 	
+MGI:1891834	Nupr1	nuclear protein transcription regulator 1	7		regulation of response to endoplasmic reticulum stress			ISO	O60356 	J:164563 	
+MGI:1921393	Opa1	OPA1, mitochondrial dynamin like GTPase	16		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IMP		J:198144 	
+MGI:1921393	Opa1	OPA1, mitochondrial dynamin like GTPase	16		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	O60313 	J:164563 	
+MGI:1924301	Os9	amplified in osteosarcoma	10		negative regulation of retrograde protein transport, ER to cytosol			ISO	Q13438 	J:164563 	
+MGI:1924301	Os9	amplified in osteosarcoma	10		response to endoplasmic reticulum stress			ISO	Q13438 	J:164563 	
+MGI:1924301	Os9	amplified in osteosarcoma	10		retrograde protein transport, ER to cytosol			IBA	PTN000395729 	J:265628 	
+MGI:1924301	Os9	amplified in osteosarcoma	10		ubiquitin-dependent ERAD pathway			IBA	PTN000395729 	J:265628 	
+MGI:1924301	Os9	amplified in osteosarcoma	10		ubiquitin-dependent ERAD pathway			ISO	Q13438 	J:164563 	
+MGI:97464	P4hb	prolyl 4-hydroxylase, beta polypeptide	11		response to endoplasmic reticulum stress			IBA	PTN000432607 	J:265628 	
+MGI:97464	P4hb	prolyl 4-hydroxylase, beta polypeptide	11		response to endoplasmic reticulum stress			ISO	P07237 	J:164563 	
+MGI:2135637	Park7	Parkinson disease (autosomal recessive, early onset) 7	4		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IMP		J:217286 	
+MGI:2135637	Park7	Parkinson disease (autosomal recessive, early onset) 7	4		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	Q99497 	J:164563 	
+MGI:2446133	Parp16	poly (ADP-ribose) polymerase family, member 16	9		endoplasmic reticulum unfolded protein response			IBA	PTN001084720 	J:265628 	
+MGI:2446133	Parp16	poly (ADP-ribose) polymerase family, member 16	9		endoplasmic reticulum unfolded protein response			ISO	Q8N5Y8 	J:164563 	
+MGI:2446133	Parp16	poly (ADP-ribose) polymerase family, member 16	9		IRE1-mediated unfolded protein response			ISO	Q8N5Y8 	J:164563 	
+MGI:1916441	Pdia2	protein disulfide isomerase associated 2	17		response to endoplasmic reticulum stress			IBA	PTN000432607 	J:265628 	
+MGI:95834	Pdia3	protein disulfide isomerase associated 3	2		response to endoplasmic reticulum stress			IBA	PTN000432607 	J:265628 	
+MGI:104864	Pdia4	protein disulfide isomerase associated 4	6		response to endoplasmic reticulum stress			IBA	PTN000432607 	J:265628 	
+MGI:1919103	Pdia6	protein disulfide isomerase associated 6	12		negative regulation of IRE1-mediated unfolded protein response			IMP		J:210646 	
+MGI:102851	Pdx1	pancreatic and duodenal homeobox 1	5		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	regulates a function/process that happens in endocrine pancreas,regulates a function/process that happens in type B pancreatic cell		IMP	MGI:2181360 	J:165268 	
+MGI:97583	Pik3r1	phosphoinositide-3-kinase regulatory subunit 1	13		positive regulation of endoplasmic reticulum unfolded protein response			ISO	P27986 	J:164563 	
+MGI:97583	Pik3r1	phosphoinositide-3-kinase regulatory subunit 1	13		response to endoplasmic reticulum stress			IDA		J:159304 	
+MGI:97583	Pik3r1	phosphoinositide-3-kinase regulatory subunit 1	13		response to endoplasmic reticulum stress			ISO	P27986 	J:164563 	
+MGI:1098772	Pik3r2	phosphoinositide-3-kinase regulatory subunit 2	8		response to endoplasmic reticulum stress			IDA		J:159304 	
+MGI:1859152	Pla2g6	phospholipase A2, group VI	15		response to endoplasmic reticulum stress			ISO	RGD:628867 	J:155856 	
+MGI:1930146	Pmaip1	phorbol-12-myristate-13-acetate-induced protein 1	18		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:219625 	
+MGI:104662	Pml	promyelocytic leukemia	9		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:166717 	
+MGI:97631	Pmp22	peripheral myelin protein 22	11		response to endoplasmic reticulum stress			IMP	MGI:1856217 	J:202239 	
+MGI:1927072	Ppp1r15a	protein phosphatase 1, regulatory subunit 15A	7		endoplasmic reticulum unfolded protein response			IMP	MGI:2652765 	J:95320 	
+MGI:1927072	Ppp1r15a	protein phosphatase 1, regulatory subunit 15A	7		negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation			IDA		J:217282 	
+MGI:1927072	Ppp1r15a	protein phosphatase 1, regulatory subunit 15A	7		negative regulation of response to endoplasmic reticulum stress			IDA		J:215662 	
+MGI:1927072	Ppp1r15a	protein phosphatase 1, regulatory subunit 15A	7		negative regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	uses UniProtKB:P35639		IDA		J:215662 	
+MGI:1927072	Ppp1r15a	protein phosphatase 1, regulatory subunit 15A	7		positive regulation of endoplasmic reticulum stress-induced eIF2 alpha dephosphorylation			ISO	O75807 	J:164563 	
+MGI:1927072	Ppp1r15a	protein phosphatase 1, regulatory subunit 15A	7		regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation			IDA		J:215662 	
+MGI:1927072	Ppp1r15a	protein phosphatase 1, regulatory subunit 15A	7		response to endoplasmic reticulum stress			IBA	PTN001046909 	J:265628 	
+MGI:1927072	Ppp1r15a	protein phosphatase 1, regulatory subunit 15A	7		response to endoplasmic reticulum stress			IMP		J:95320 	
+MGI:1927072	Ppp1r15a	protein phosphatase 1, regulatory subunit 15A	7		response to endoplasmic reticulum stress			ISO	O75807 	J:164563 	
+MGI:2444211	Ppp1r15b	protein phosphatase 1, regulatory subunit 15B	1		ER overload response			IDA		J:86710 	
+MGI:2444211	Ppp1r15b	protein phosphatase 1, regulatory subunit 15B	1		ER overload response			IMP		J:86710 	
+MGI:2444211	Ppp1r15b	protein phosphatase 1, regulatory subunit 15B	1		negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation			IDA		J:217282 	
+MGI:2444211	Ppp1r15b	protein phosphatase 1, regulatory subunit 15B	1		response to endoplasmic reticulum stress			IBA	PTN001046909 	J:265628 	
+MGI:2444211	Ppp1r15b	protein phosphatase 1, regulatory subunit 15B	1		response to endoplasmic reticulum stress			IMP		J:86710 	
+MGI:1321161	Ppp2cb	protein phosphatase 2 (formerly 2A), catalytic subunit, beta isoform	8		response to endoplasmic reticulum stress			IMP		J:116445 	
+MGI:1355296	Prkn	parkin RBR E3 ubiquitin protein ligase	17		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IMP		J:186974 	
+MGI:1355296	Prkn	parkin RBR E3 ubiquitin protein ligase	17		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	O60260 	J:164563 	
+MGI:1355296	Prkn	parkin RBR E3 ubiquitin protein ligase	17		negative regulation of endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway			IGI	O15354 	J:117737 	
+MGI:1355296	Prkn	parkin RBR E3 ubiquitin protein ligase	17		negative regulation of endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway			IMP		J:198144 	
+MGI:1355296	Prkn	parkin RBR E3 ubiquitin protein ligase	17		response to endoplasmic reticulum stress			IMP		J:186974 	
+MGI:1355296	Prkn	parkin RBR E3 ubiquitin protein ligase	17		response to endoplasmic reticulum stress			ISO	O60260 	J:164563 	
+MGI:1914339	Psmc6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	14		ubiquitin-dependent ERAD pathway			IBA	PTN000553116 	J:265628 	
+MGI:97805	Ptpn1	protein tyrosine phosphatase, non-receptor type 1	2		endoplasmic reticulum unfolded protein response			ISO	P18031 	J:164563 	
+MGI:97805	Ptpn1	protein tyrosine phosphatase, non-receptor type 1	2		IRE1-mediated unfolded protein response			IMP		J:217999 	
+MGI:97805	Ptpn1	protein tyrosine phosphatase, non-receptor type 1	2		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	happens in pancreas		IMP		J:219081 	
+MGI:97805	Ptpn1	protein tyrosine phosphatase, non-receptor type 1	2		negative regulation of PERK-mediated unfolded protein response	happens in pancreas		IMP		J:219081 	
+MGI:97805	Ptpn1	protein tyrosine phosphatase, non-receptor type 1	2		negative regulation of PERK-mediated unfolded protein response			ISO	P18031 	J:164563 	
+MGI:97805	Ptpn1	protein tyrosine phosphatase, non-receptor type 1	2		response to endoplasmic reticulum stress			IMP		J:217999 	
+MGI:97806	Ptpn2	protein tyrosine phosphatase, non-receptor type 2	18		positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	happens in pancreas		IMP		J:219081 	
+MGI:97806	Ptpn2	protein tyrosine phosphatase, non-receptor type 2	18		positive regulation of PERK-mediated unfolded protein response	happens in pancreas		IMP		J:219081 	
+MGI:1916482	Qrich1	glutamine-rich 1	9		endoplasmic reticulum unfolded protein response			ISO	Q2TAL8 	J:164563 	
+MGI:1916482	Qrich1	glutamine-rich 1	9		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISO	Q2TAL8 	J:164563 	
+MGI:1916482	Qrich1	glutamine-rich 1	9		PERK-mediated unfolded protein response			ISO	Q2TAL8 	J:164563 	
+MGI:1916482	Qrich1	glutamine-rich 1	9		response to endoplasmic reticulum stress			IDA		J:305998 	
+MGI:1916482	Qrich1	glutamine-rich 1	9		response to endoplasmic reticulum stress			ISO	Q2TAL8 	J:164563 	
+MGI:99694	Rasgrf1	RAS protein-specific guanine nucleotide-releasing factor 1	9		response to endoplasmic reticulum stress			ISO	Q13972 	J:164563 	
+MGI:109137	Rasgrf2	RAS protein-specific guanine nucleotide-releasing factor 2	13		response to endoplasmic reticulum stress			ISO	O14827 	J:164563 	
+MGI:1277122	Rcn3	reticulocalbin 3, EF-hand calcium binding domain	7		ERAD pathway			IMP		J:265611 	
+MGI:1924117	Rhbdd1	rhomboid domain containing 1	1		ERAD pathway			IDA		J:187613 	
+MGI:1924117	Rhbdd1	rhomboid domain containing 1	1		membrane protein proteolysis involved in retrograde protein transport, ER to cytosol			IDA		J:187613 	
+MGI:1860076	Rnf5	ring finger protein 5	17		ER-associated misfolded protein catabolic process			IBA	PTN000267874 	J:265628 	
+MGI:1860076	Rnf5	ring finger protein 5	17		ER-associated misfolded protein catabolic process			ISO	Q99942 	J:164563 	
+MGI:1860076	Rnf5	ring finger protein 5	17		ERAD pathway			ISO	Q99942 	J:164563 	
+MGI:1860076	Rnf5	ring finger protein 5	17		ubiquitin-dependent ERAD pathway			ISO	Q99942 	J:164563 	
+MGI:109483	Rnf103	ring finger protein 103	6		ubiquitin-dependent ERAD pathway			IBA	PTN004473870 	J:265628 	
+MGI:109483	Rnf103	ring finger protein 103	6		ubiquitin-dependent ERAD pathway			ISO	O00237 	J:164563 	
+MGI:1922462	Rnf121	ring finger protein 121	7		ubiquitin-dependent ERAD pathway			IBA	PTN000334121 	J:265628 	
+MGI:1923091	Rnf139	ring finger protein 139	15		ERAD pathway			IBA	PTN000967628 	J:265628 	
+MGI:1923091	Rnf139	ring finger protein 139	15		ERAD pathway			ISO	Q8WU17 	J:164563 	
+MGI:1923322	Rnf183	ring finger protein 183	4		positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IBA	PTN002735848 	J:265628 	
+MGI:1923322	Rnf183	ring finger protein 183	4		positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	Q96D59 	J:164563 	
+MGI:1923322	Rnf183	ring finger protein 183	4		response to endoplasmic reticulum stress			IBA	PTN002735848 	J:265628 	
+MGI:1923322	Rnf183	ring finger protein 183	4		response to endoplasmic reticulum stress			ISO	Q96D59 	J:164563 	
+MGI:1922078	Rnf185	ring finger protein 185	11		ER-associated misfolded protein catabolic process			IBA	PTN000267874 	J:265628 	
+MGI:1922078	Rnf185	ring finger protein 185	11		ERAD pathway			ISO	Q96GF1 	J:164563 	
+MGI:1922078	Rnf185	ring finger protein 185	11		positive regulation of ERAD pathway			ISO	Q96GF1 	J:164563 	
+MGI:1922078	Rnf185	ring finger protein 185	11		ubiquitin-dependent ERAD pathway			ISO	Q96GF1 	J:164563 	
+MGI:1914075	Rnf186	ring finger protein 186	4		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IBA	PTN000419843 	J:265628 	
+MGI:1914075	Rnf186	ring finger protein 186	4		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISO	Q9NXI6 	J:164563 	
+MGI:1924142	Rnft1	ring finger protein, transmembrane 1	11		positive regulation of ERAD pathway			IBA	PTN002697527 	J:265628 	
+MGI:1924142	Rnft1	ring finger protein, transmembrane 1	11		positive regulation of ERAD pathway			ISO	Q5M7Z0 	J:164563 	
+MGI:2442859	Rnft2	ring finger protein, transmembrane 2	5		positive regulation of ERAD pathway			IEA	IPR044235 	J:72247 	
+MGI:1928948	Scamp5	secretory carrier membrane protein 5	9		response to endoplasmic reticulum stress			ISO	Q8TAC9 	J:164563 	
+MGI:2149842	Sdf2l1	stromal cell-derived factor 2-like 1	16		ER-associated misfolded protein catabolic process			ISO	D4A9Y0 	J:200660 	
+MGI:2149842	Sdf2l1	stromal cell-derived factor 2-like 1	16		response to endoplasmic reticulum stress			ISO	D4A9Y0 	J:200660 	
+MGI:2139207	Sec16a	SEC16 homolog A, endoplasmic reticulum export factor	2		response to endoplasmic reticulum stress			ISO	O15027 	J:164563 	
+MGI:1913462	Sec61b	Sec61 beta subunit	4		retrograde protein transport, ER to cytosol			ISO	P60468 	J:164563 	
+MGI:1913462	Sec61b	Sec61 beta subunit	4		ubiquitin-dependent ERAD pathway			ISO	P60468 	J:164563 	
+MGI:1329016	Sel1l	sel-1 suppressor of lin-12-like (C. elegans)	12		ERAD pathway			IMP		J:215786 	
+MGI:1329016	Sel1l	sel-1 suppressor of lin-12-like (C. elegans)	12		ERAD pathway			ISO	Q9UBV2 	J:164563 	
+MGI:1329016	Sel1l	sel-1 suppressor of lin-12-like (C. elegans)	12		response to endoplasmic reticulum stress			IMP	MGI:3864670 	J:162595 	
+MGI:1329016	Sel1l	sel-1 suppressor of lin-12-like (C. elegans)	12		retrograde protein transport, ER to cytosol			ISO	Q9UBV2 	J:164563 	
+MGI:1329016	Sel1l	sel-1 suppressor of lin-12-like (C. elegans)	12		ubiquitin-dependent ERAD pathway			IBA	PTN002595486 	J:265628 	
+MGI:2684964	Sel1l2	sel-1 suppressor of lin-12-like 2 (C. elegans)	2		ubiquitin-dependent ERAD pathway			IBA	PTN002595486 	J:265628 	
+MGI:1931466	Selenok	selenoprotein K	14		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISO	Q9Y6D0 	J:164563 	
+MGI:95994	Selenos	selenoprotein S	7		endoplasmic reticulum unfolded protein response			IBA	PTN002007460 	J:265628 	
+MGI:95994	Selenos	selenoprotein S	7		endoplasmic reticulum unfolded protein response			ISO	Q9BQE4 	J:164563 	
+MGI:95994	Selenos	selenoprotein S	7		ER overload response			ISO	Q9BQE4 	J:164563 	
+MGI:95994	Selenos	selenoprotein S	7		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	Q9BQE4 	J:164563 	
+MGI:95994	Selenos	selenoprotein S	7		retrograde protein transport, ER to cytosol			IBA	PTN002007460 	J:265628 	
+MGI:95994	Selenos	selenoprotein S	7		retrograde protein transport, ER to cytosol			ISO	Q9BQE4 	J:164563 	
+MGI:95994	Selenos	selenoprotein S	7		ubiquitin-dependent ERAD pathway			IBA	PTN002007460 	J:265628 	
+MGI:95994	Selenos	selenoprotein S	7		ubiquitin-dependent ERAD pathway			ISO	Q9BQE4 	J:164563 	
+MGI:1349457	Serinc3	serine incorporator 3	2		positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IDA		J:84965 	
+MGI:92638	Serp1	stress-associated endoplasmic reticulum protein 1	3		endoplasmic reticulum unfolded protein response			IBA	PTN000400928 	J:265628 	
+MGI:92638	Serp1	stress-associated endoplasmic reticulum protein 1	3		endoplasmic reticulum unfolded protein response	happens in pancreas		IMP	MGI:3652355 	J:106619 	
+MGI:1919911	Serp2	stress-associated endoplasmic reticulum protein family member 2	14		endoplasmic reticulum unfolded protein response			IBA	PTN000400928 	J:265628 	
+MGI:2651874	Sesn2	sestrin 2	4		negative regulation of translation in response to endoplasmic reticulum stress			IMP		J:224583 	
+MGI:2651874	Sesn2	sestrin 2	4		negative regulation of translation in response to endoplasmic reticulum stress			ISO	P58004 	J:164563 	
+MGI:1098703	Sgta	small glutamine-rich tetratricopeptide repeat (TPR)-containing, alpha	10		negative regulation of ER-associated ubiquitin-dependent protein catabolic process			ISO	O43765 	J:164563 	
+MGI:1098703	Sgta	small glutamine-rich tetratricopeptide repeat (TPR)-containing, alpha	10		positive regulation of ER-associated ubiquitin-dependent protein catabolic process			ISO	O43765 	J:164563 	
+MGI:1098703	Sgta	small glutamine-rich tetratricopeptide repeat (TPR)-containing, alpha	10		ubiquitin-dependent ERAD pathway			IBA	PTN001876327 	J:265628 	
+MGI:1098703	Sgta	small glutamine-rich tetratricopeptide repeat (TPR)-containing, alpha	10		ubiquitin-dependent ERAD pathway			ISO	O43765 	J:164563 	
+MGI:2444615	Sgtb	small glutamine-rich tetratricopeptide repeat (TPR)-containing, beta	13		ubiquitin-dependent ERAD pathway			IBA	PTN001876327 	J:265628 	
+MGI:2135607	Sirt1	sirtuin 1	10		positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IMP		J:215876 	
+MGI:1343085	Spop	speckle-type BTB/POZ protein	11		positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	regulates a function/process that happens in endocrine pancreas,regulates a function/process that happens in type B pancreatic cell		IGI	MGI:102851 	J:165268 	
+MGI:1858306	Srpx	sushi-repeat-containing protein	X		response to endoplasmic reticulum stress			IMP	MGI:3706175 	J:119999 	
+MGI:1316731	Stc2	stanniocalcin 2	11		endoplasmic reticulum unfolded protein response			IMP		J:94132 	
+MGI:1316731	Stc2	stanniocalcin 2	11		response to endoplasmic reticulum stress	happens in fibroblast		IMP	MGI:5285561 	J:175075 	
+MGI:1915542	Stt3b	STT3, subunit of the oligosaccharyltransferase complex, homolog B (S. cerevisiae)	9		ubiquitin-dependent ERAD pathway			ISO	Q8TCJ2 	J:164563 	
+MGI:1891731	Stub1	STIP1 homology and U-Box containing protein 1	17		endoplasmic reticulum unfolded protein response			IDA		J:212816 	
+MGI:1891731	Stub1	STIP1 homology and U-Box containing protein 1	17		ubiquitin-dependent ERAD pathway			ISO	Q9UNE7 	J:164563 	
+MGI:1922994	Svip	small VCP/p97-interacting protein	7		negative regulation of ER-associated ubiquitin-dependent protein catabolic process			IBA	PTN002173988 	J:265628 	
+MGI:1922994	Svip	small VCP/p97-interacting protein	7		negative regulation of ER-associated ubiquitin-dependent protein catabolic process			ISO	Q8NHG7 	J:164563 	
+MGI:1922994	Svip	small VCP/p97-interacting protein	7		negative regulation of retrograde protein transport, ER to cytosol			IBA	PTN002173988 	J:265628 	
+MGI:1922994	Svip	small VCP/p97-interacting protein	7		negative regulation of retrograde protein transport, ER to cytosol			ISO	Q8NHG7 	J:164563 	
+MGI:1921376	Syvn1	synovial apoptosis inhibitor 1, synoviolin	19		ERAD pathway			IDA		J:222676 	
+MGI:1921376	Syvn1	synovial apoptosis inhibitor 1, synoviolin	19		ERAD pathway			ISO	Q86TM6 	J:164563 	
+MGI:1921376	Syvn1	synovial apoptosis inhibitor 1, synoviolin	19		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	regulates a function/process that happens in liver,regulates a function/process that happens in hepatocyte		IMP	MGI:2679656 	J:97254 	
+MGI:1921376	Syvn1	synovial apoptosis inhibitor 1, synoviolin	19		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	Q86TM6 	J:164563 	
+MGI:1921376	Syvn1	synovial apoptosis inhibitor 1, synoviolin	19		retrograde protein transport, ER to cytosol			ISO	Q86TM6 	J:164563 	
+MGI:1921376	Syvn1	synovial apoptosis inhibitor 1, synoviolin	19		ubiquitin-dependent ERAD pathway			ISO	Q86TM6 	J:73065 	
+MGI:1351652	Tbl2	transducin (beta)-like 2	5		endoplasmic reticulum unfolded protein response			ISO	Q9Y4P3 	J:164563 	
+MGI:98737	Thbs1	thrombospondin 1	2		response to endoplasmic reticulum stress			IMP		J:186160 	
+MGI:1101779	Thbs4	thrombospondin 4	13		response to endoplasmic reticulum stress			IBA	PTN000023701 	J:265628 	
+MGI:1101779	Thbs4	thrombospondin 4	13		response to endoplasmic reticulum stress			IMP		J:186160 	
+MGI:99682	Tmbim6	transmembrane BAX inhibitor motif containing 6	15		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IDA		J:91831 	
+MGI:99682	Tmbim6	transmembrane BAX inhibitor motif containing 6	15		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	happens in fibroblast|happens in neuron of cerebral cortex|happens in hepatocyte		IMP	MGI:3052422 	J:91831 	
+MGI:99682	Tmbim6	transmembrane BAX inhibitor motif containing 6	15		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IGI	MGI:1913418 	J:203180 	
+MGI:99682	Tmbim6	transmembrane BAX inhibitor motif containing 6	15		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	P55061 	J:164563 	
+MGI:99682	Tmbim6	transmembrane BAX inhibitor motif containing 6	15		negative regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	uses UniProtKB:Q925U4		IMP		J:147348 	
+MGI:99682	Tmbim6	transmembrane BAX inhibitor motif containing 6	15		response to endoplasmic reticulum stress	happens in brain		IMP		J:219082 	
+MGI:1921173	Tmco1	transmembrane and coiled-coil domains 1	1		ER overload response			ISO	Q9UM00 	J:164563 	
+MGI:1929269	Tmed2	transmembrane p24 trafficking protein 2	5		negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	happens in liver		IMP	MGI:4456438 	J:246024 	
+MGI:1929269	Tmed2	transmembrane p24 trafficking protein 2	5		PERK-mediated unfolded protein response	happens in liver		IMP	MGI:4456438 	J:246024 	
+MGI:1915128	Tmem33	transmembrane protein 33	5		positive regulation of IRE1-mediated unfolded protein response			ISO	P57088 	J:164563 	
+MGI:1915128	Tmem33	transmembrane protein 33	5		positive regulation of PERK-mediated unfolded protein response			ISO	P57088 	J:164563 	
+MGI:1915128	Tmem33	transmembrane protein 33	5		response to endoplasmic reticulum stress			ISO	P57088 	J:164563 	
+MGI:1923928	Tmem67	transmembrane protein 67	4		positive regulation of ERAD pathway			ISO	RGD:1586167 	J:155856 	
+MGI:1923928	Tmem67	transmembrane protein 67	4		ubiquitin-dependent ERAD pathway			ISO	Q5HYA8 	J:164563 	
+MGI:2444580	Tmem117	transmembrane protein 117	15		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IBA	PTN001261326 	J:265628 	
+MGI:2444580	Tmem117	transmembrane protein 117	15		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISO	Q9H0C3 	J:164563 	
+MGI:1915616	Tmem129	transmembrane protein 129	5		retrograde protein transport, ER to cytosol			ISO	A0AVI4 	J:164563 	
+MGI:1915616	Tmem129	transmembrane protein 129	5		ubiquitin-dependent ERAD pathway			ISO	A0AVI4 	J:164563 	
+MGI:2177957	Tmem259	transmembrane protein 259	10		positive regulation of ERAD pathway			IBA	PTN000493835 	J:265628 	
+MGI:2177957	Tmem259	transmembrane protein 259	10		positive regulation of ERAD pathway			IDA		J:223306 	
+MGI:2177957	Tmem259	transmembrane protein 259	10		response to endoplasmic reticulum stress			IBA	PTN000493835 	J:265628 	
+MGI:2177957	Tmem259	transmembrane protein 259	10		response to endoplasmic reticulum stress			IMP		J:223306 	
+MGI:3036255	Tmtc3	transmembrane and tetratricopeptide repeat containing 3	10		response to endoplasmic reticulum stress			ISO	Q6ZXV5 	J:164563 	
+MGI:1921050	Tmtc4	transmembrane and tetratricopeptide repeat containing 4	14		endoplasmic reticulum unfolded protein response	happens in cochlea		IMP	MGI:5008116 	J:268046 	
+MGI:1923764	Tmub1	transmembrane and ubiquitin-like domain containing 1	5		ubiquitin-dependent ERAD pathway			IBA	PTN002684562 	J:265628 	
+MGI:1923764	Tmub1	transmembrane and ubiquitin-like domain containing 1	5		ubiquitin-dependent ERAD pathway			ISO	Q9BVT8 	J:164563 	
+MGI:1919303	Tmub2	transmembrane and ubiquitin-like domain containing 2	11		ubiquitin-dependent ERAD pathway			IBA	PTN002684562 	J:265628 	
+MGI:1919986	Tmx1	thioredoxin-related transmembrane protein 1	12		response to endoplasmic reticulum stress			ISO	Q9H3N1 	J:164563 	
+MGI:1353568	Tor1a	torsin family 1, member A (torsin A)	2		ER-associated misfolded protein catabolic process			IDA		J:121865 	
+MGI:1345675	Trib3	tribbles pseudokinase 3	2		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISO	Q96RU7 	J:164563 	
+MGI:1345675	Trib3	tribbles pseudokinase 3	2		response to endoplasmic reticulum stress			ISO	Q96RU7 	J:164563 	
+MGI:1913847	Trim13	tripartite motif-containing 13	14		ubiquitin-dependent ERAD pathway			IBA	PTN002788960 	J:265628 	
+MGI:102749	Trim25	tripartite motif-containing 25	11		ubiquitin-dependent ERAD pathway			ISO	Q14258 	J:164563 	
+MGI:98834	Trp53	transformation related protein 53	11		ER overload response			ISO	P04637 	J:73065 	
+MGI:98834	Trp53	transformation related protein 53	11		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:219625 	
+MGI:98834	Trp53	transformation related protein 53	11		positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	uses UniProtKB:Q99ML1|uses UniProtKB:Q9JM54		IMP		J:219625 	
+MGI:1913323	Txndc12	thioredoxin domain containing 12 (endoplasmic reticulum)	4		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	O95881 	J:141845 	
+MGI:1913913	Uba5	ubiquitin-like modifier activating enzyme 5	9		response to endoplasmic reticulum stress			ISO	Q9GZZ9 	J:164563 J:195351 	
+MGI:1916139	Ubac2	ubiquitin associated domain containing 2	14		negative regulation of retrograde protein transport, ER to cytosol			ISO	Q8NBM4 	J:164563 	
+MGI:1343188	Ube2g2	ubiquitin-conjugating enzyme E2G 2	10		negative regulation of retrograde protein transport, ER to cytosol			ISO	P60604 	J:164563 	
+MGI:1343188	Ube2g2	ubiquitin-conjugating enzyme E2G 2	10		ubiquitin-dependent ERAD pathway			IBA	PTN000629877 	J:265628 	
+MGI:1343188	Ube2g2	ubiquitin-conjugating enzyme E2G 2	10		ubiquitin-dependent ERAD pathway			IDA		J:73054 	
+MGI:1343188	Ube2g2	ubiquitin-conjugating enzyme E2G 2	10		ubiquitin-dependent ERAD pathway			ISO	P60604 	J:164563 	
+MGI:1926245	Ube2j1	ubiquitin-conjugating enzyme E2J 1	4		negative regulation of retrograde protein transport, ER to cytosol			ISO	Q9Y385 	J:164563 	
+MGI:1926245	Ube2j1	ubiquitin-conjugating enzyme E2J 1	4		ubiquitin-dependent ERAD pathway			IBA	PTN002784031 	J:265628 	
+MGI:1926245	Ube2j1	ubiquitin-conjugating enzyme E2J 1	4		ubiquitin-dependent ERAD pathway			IDA		J:204512 	
+MGI:1926245	Ube2j1	ubiquitin-conjugating enzyme E2J 1	4		ubiquitin-dependent ERAD pathway			ISO	Q9Y385 	J:73065 	
+MGI:2153608	Ube2j2	ubiquitin-conjugating enzyme E2J 2	4		ubiquitin-dependent ERAD pathway			IBA	PTN000630005 	J:265628 	
+MGI:2153608	Ube2j2	ubiquitin-conjugating enzyme E2J 2	4		ubiquitin-dependent ERAD pathway			ISO	Q8N2K1 	J:164563 	
+MGI:1858216	Ube2k	ubiquitin-conjugating enzyme E2K	5		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			ISO	D3ZXS8 	J:73065 	
+MGI:2154580	Ube4a	ubiquitination factor E4A	9		ubiquitin-dependent ERAD pathway			IBA	PTN000358161 	J:265628 	
+MGI:1927086	Ube4b	ubiquitination factor E4B	4		response to endoplasmic reticulum stress	happens in brain,happens in CNS neuron (sensu Vertebrata)		IMP	MGI:3611069 	J:103761 	
+MGI:1927086	Ube4b	ubiquitination factor E4B	4		ubiquitin-dependent ERAD pathway			IBA	PTN000358161 	J:265628 	
+MGI:1860276	Ubqln1	ubiquilin 1	13		positive regulation of ER-associated ubiquitin-dependent protein catabolic process			ISO	Q9UMX0 	J:164563 	
+MGI:1860276	Ubqln1	ubiquilin 1	13		response to endoplasmic reticulum stress			ISO	Q9UMX0 	J:164563 	
+MGI:1860276	Ubqln1	ubiquilin 1	13		ubiquitin-dependent ERAD pathway			IBA	PTN000073487 	J:265628 	
+MGI:1860276	Ubqln1	ubiquilin 1	13		ubiquitin-dependent ERAD pathway			ISO	Q9UMX0 	J:164563 	
+MGI:1860283	Ubqln2	ubiquilin 2	X		positive regulation of ER-associated ubiquitin-dependent protein catabolic process			ISO	Q9UHD9 	J:164563 	
+MGI:1860283	Ubqln2	ubiquilin 2	X		ubiquitin-dependent ERAD pathway			IBA	PTN000073487 	J:265628 	
+MGI:1860283	Ubqln2	ubiquilin 2	X		ubiquitin-dependent ERAD pathway			ISO	Q9UHD9 	J:164563 	
+MGI:1289301	Ubxn1	UBX domain protein 1	19		negative regulation of ERAD pathway			ISO	Q04323 	J:164563 	
+MGI:1915062	Ubxn4	UBX domain protein 4	1		ubiquitin-dependent ERAD pathway			ISO	Q92575 	J:164563 	
+MGI:1913780	Ubxn6	UBX domain protein 6	17		ERAD pathway			ISO	Q9BZV1 	J:164563 	
+MGI:1337129	Ubxn8	UBX domain protein 8	8		ubiquitin-dependent ERAD pathway			ISO	O00124 	J:164563 	
+MGI:1913405	Ufc1	ubiquitin-fold modifier conjugating enzyme 1	1		response to endoplasmic reticulum stress			ISO	Q9Y3C8 	J:164563 J:195351 	
+MGI:109353	Ufd1	ubiquitin recognition factor in ER-associated degradation 1	16		ER-associated misfolded protein catabolic process			IBA	PTN000285104 	J:265628 	
+MGI:109353	Ufd1	ubiquitin recognition factor in ER-associated degradation 1	16		ER-associated misfolded protein catabolic process			ISO	Q92890 	J:164563 	
+MGI:109353	Ufd1	ubiquitin recognition factor in ER-associated degradation 1	16		retrograde protein transport, ER to cytosol			ISO	Q92890 	J:164563 	
+MGI:109353	Ufd1	ubiquitin recognition factor in ER-associated degradation 1	16		ubiquitin-dependent ERAD pathway			IBA	PTN000285104 	J:265628 	
+MGI:1914740	Ufl1	UFM1 specific ligase 1	4		negative regulation of IRE1-mediated unfolded protein response			ISO	O94874 	J:164563 	
+MGI:1914740	Ufl1	UFM1 specific ligase 1	4		response to endoplasmic reticulum stress			IBA	PTN000775177 	J:265628 	
+MGI:1914740	Ufl1	UFM1 specific ligase 1	4		response to endoplasmic reticulum stress			IMP		J:238253 	
+MGI:1914740	Ufl1	UFM1 specific ligase 1	4		response to endoplasmic reticulum stress			ISO	O94874 	J:164563 J:195351 	
+MGI:1915140	Ufm1	ubiquitin-fold modifier 1	3		response to endoplasmic reticulum stress			IMP		J:217277 	
+MGI:1915140	Ufm1	ubiquitin-fold modifier 1	3		response to endoplasmic reticulum stress			ISO	P61960 	J:164563 J:195351 	
+MGI:2443162	Uggt1	UDP-glucose glycoprotein glucosyltransferase 1	1		ER-associated misfolded protein catabolic process			IBA	PTN000132051 	J:265628 	
+MGI:1913685	Uggt2	UDP-glucose glycoprotein glucosyltransferase 2	14		ER-associated misfolded protein catabolic process			IBA	PTN000132051 	J:265628 	
+MGI:102674	Umod	uromodulin	7		response to endoplasmic reticulum stress			IMP		J:252597 	
+MGI:102674	Umod	uromodulin	7		ubiquitin-dependent ERAD pathway			IMP		J:289677 	
+MGI:1919857	Usp13	ubiquitin specific peptidase 13 (isopeptidase T-3)	3		maintenance of unfolded protein involved in ERAD pathway			ISO	Q92995 	J:164563 	
+MGI:1919857	Usp13	ubiquitin specific peptidase 13 (isopeptidase T-3)	3		positive regulation of ERAD pathway			ISO	Q92995 	J:164563 	
+MGI:1928898	Usp14	ubiquitin specific peptidase 14	18		negative regulation of ER-associated ubiquitin-dependent protein catabolic process			ISO	P54578 	J:164563 	
+MGI:1918722	Usp19	ubiquitin specific peptidase 19	9		regulation of ERAD pathway			ISO	O94966 	J:164563 	
+MGI:1918722	Usp19	ubiquitin specific peptidase 19	9		ubiquitin-dependent ERAD pathway			IBA	PTN000608257 	J:265628 	
+MGI:1918722	Usp19	ubiquitin specific peptidase 19	9		ubiquitin-dependent ERAD pathway			ISO	O94966 	J:164563 	
+MGI:1353655	Usp25	ubiquitin specific peptidase 25	16		negative regulation of ERAD pathway			ISO	Q9UHP3 	J:164563 	
+MGI:1928744	Vapb	vesicle-associated membrane protein, associated protein B and C	2		endoplasmic reticulum unfolded protein response			ISO	O95292 	J:164563 	
+MGI:1928744	Vapb	vesicle-associated membrane protein, associated protein B and C	2		IRE1-mediated unfolded protein response			ISO	O95292 	J:164563 	
+MGI:99919	Vcp	valosin containing protein	4		endoplasmic reticulum stress-induced pre-emptive quality control			ISO	P55072 	J:164563 	
+MGI:99919	Vcp	valosin containing protein	4		ER-associated misfolded protein catabolic process			IBA	PTN000554506 	J:265628 	
+MGI:99919	Vcp	valosin containing protein	4		ER-associated misfolded protein catabolic process			ISO	P55072 	J:164563 	
+MGI:99919	Vcp	valosin containing protein	4		ERAD pathway			ISO	P55072 	J:164563 	
+MGI:99919	Vcp	valosin containing protein	4		retrograde protein transport, ER to cytosol			IBA	PTN000554506 	J:265628 	
+MGI:99919	Vcp	valosin containing protein	4		retrograde protein transport, ER to cytosol			IMP		J:220515 	
+MGI:99919	Vcp	valosin containing protein	4		retrograde protein transport, ER to cytosol			ISO	P55072 	J:164563 	
+MGI:99919	Vcp	valosin containing protein	4		ubiquitin-dependent ERAD pathway			IBA	PTN000554506 	J:265628 	
+MGI:99919	Vcp	valosin containing protein	4		ubiquitin-dependent ERAD pathway			ISO	P55072 	J:164563 	
+MGI:1328355	Wfs1	wolframin ER transmembrane glycoprotein	5		endoplasmic reticulum unfolded protein response			IBA	PTN000991855 	J:265628 	
+MGI:1328355	Wfs1	wolframin ER transmembrane glycoprotein	5		endoplasmic reticulum unfolded protein response	happens in type B pancreatic cell,has the participant transcription regulator complex,has the participant nuclear protein-containing complex		IMP		J:171795 	
+MGI:1328355	Wfs1	wolframin ER transmembrane glycoprotein	5		endoplasmic reticulum unfolded protein response			IMP		J:109537 J:171795 	
+MGI:1328355	Wfs1	wolframin ER transmembrane glycoprotein	5		negative regulation of ATF6-mediated unfolded protein response			ISO	RGD:68954 	J:155856 	
+MGI:1328355	Wfs1	wolframin ER transmembrane glycoprotein	5		negative regulation of ATF6-mediated unfolded protein response			ISO	O76024 	J:164563 	
+MGI:1328355	Wfs1	wolframin ER transmembrane glycoprotein	5		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			IMP		J:109537 	
+MGI:1328355	Wfs1	wolframin ER transmembrane glycoprotein	5		negative regulation of response to endoplasmic reticulum stress			ISO	O76024 	J:164563 	
+MGI:1328355	Wfs1	wolframin ER transmembrane glycoprotein	5		response to endoplasmic reticulum stress			IDA		J:173000 	
+MGI:1328355	Wfs1	wolframin ER transmembrane glycoprotein	5		response to endoplasmic reticulum stress			ISO	O76024 	J:164563 	
+MGI:1328355	Wfs1	wolframin ER transmembrane glycoprotein	5		ubiquitin-dependent ERAD pathway	uses UniProtKB:F6VAN0		IMP		J:172947 	
+MGI:1328355	Wfs1	wolframin ER transmembrane glycoprotein	5		ubiquitin-dependent ERAD pathway			ISO	O76024 	J:164563 	
+MGI:98970	Xbp1	X-box binding protein 1	11		endoplasmic reticulum unfolded protein response			IDA		J:211083 J:215889 	
+MGI:98970	Xbp1	X-box binding protein 1	11		endoplasmic reticulum unfolded protein response			ISO	RGD:1303073 	J:155856 	
+MGI:98970	Xbp1	X-box binding protein 1	11		intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress			IMP		J:147348 	
+MGI:98970	Xbp1	X-box binding protein 1	11		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	RGD:1303073 	J:155856 	
+MGI:98970	Xbp1	X-box binding protein 1	11		negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway			ISO	P17861 	J:164563 	
+MGI:98970	Xbp1	X-box binding protein 1	11		negative regulation of endoplasmic reticulum unfolded protein response			ISO	P17861 	J:164563 	
+MGI:98970	Xbp1	X-box binding protein 1	11		positive regulation of endoplasmic reticulum unfolded protein response			ISO	P17861 	J:164563 	
+MGI:98970	Xbp1	X-box binding protein 1	11		positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response			IBA	PTN000999262 	J:265628 	
+MGI:98970	Xbp1	X-box binding protein 1	11		positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response			IDA		J:215876 J:215890 	
+MGI:98970	Xbp1	X-box binding protein 1	11		positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response	uses UniProtKB:Q9QYI6|uses UniProtKB:Q91YW3|uses UniProtKB:F6VAN0|uses UniProtKB:P20029|uses UniProtKB:Q9QUS4|uses UniProtKB:Q9CXI5|uses UniProtKB:P19182		IMP		J:215656 	
+MGI:98970	Xbp1	X-box binding protein 1	11		positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response			ISO	P17861 	J:164563 	
+MGI:98970	Xbp1	X-box binding protein 1	11		response to endoplasmic reticulum stress			IDA		J:159304 J:215658 J:215876 	
+MGI:98970	Xbp1	X-box binding protein 1	11		response to endoplasmic reticulum stress			ISO	P17861 	J:164563 	
+MGI:2442596	Yod1	YOD1 deubiquitinase	1		endoplasmic reticulum unfolded protein response			IBA	PTN000329911 	J:265628 	
+MGI:2442596	Yod1	YOD1 deubiquitinase	1		endoplasmic reticulum unfolded protein response			ISO	Q5VVQ6 	J:164563 	
+MGI:2442596	Yod1	YOD1 deubiquitinase	1		negative regulation of retrograde protein transport, ER to cytosol			ISO	Q5VVQ6 	J:164563 	
+MGI:2442596	Yod1	YOD1 deubiquitinase	1		ubiquitin-dependent ERAD pathway			IBA	PTN000329911 	J:265628 	
+MGI:2442596	Yod1	YOD1 deubiquitinase	1		ubiquitin-dependent ERAD pathway			ISO	Q5VVQ6 	J:164563 	
+

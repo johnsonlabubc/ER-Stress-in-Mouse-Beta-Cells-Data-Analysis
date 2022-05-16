@@ -1,0 +1,428 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1922258	4930486L24Rik	RIKEN cDNA 4930486L24 gene	13		protein autoprocessing			ISO	P07711 	J:164563 	
+MGI:1922258	4930486L24Rik	RIKEN cDNA 4930486L24 gene	13		zymogen activation			ISO	P07711 	J:164563 	
+MGI:3644563	Acp4	acid phosphatase 4	7		negative regulation of protein processing			ISO	Q9BZG2 	J:164563 	
+MGI:105376	Adam9	a disintegrin and metallopeptidase domain 9 (meltrin gamma)	8		protein processing			ISO	Q13443 	J:164563 	
+MGI:109548	Adam10	a disintegrin and metallopeptidase domain 10	9		protein processing			IDA		J:160170 	
+MGI:1096335	Adam17	a disintegrin and metallopeptidase domain 17	12		protein processing			ISO	P78536 	J:164563 	
+MGI:105377	Adam19	a disintegrin and metallopeptidase domain 19 (meltrin beta)	11		protein processing			ISO	Q9H013 	J:164563 	
+MGI:1347356	Adamts2	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 2	11		protein processing	has the participant Col3a1|has the participant Col1a1|has the participant Col1a2		IMP	MGI:2388161 	J:107394 	
+MGI:3045353	Adamts3	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 3	5		protein processing	has the participant Col1a1|has the participant Col1a2		IDA		J:107394 	
+MGI:3045353	Adamts3	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 3	5		protein processing			ISO	O15072 	J:164563 	
+MGI:1197012	Aebp1	AE binding protein 1	11	NOT	protein processing			IBA	PTN000164240 PTN002609584 	J:265628 	
+MGI:1928277	Afg3l1	AFG3-like AAA ATPase 1	8		mitochondrial protein processing			IBA	PTN000554085 	J:265628 	
+MGI:1928277	Afg3l1	AFG3-like AAA ATPase 1	8		mitochondrial protein processing			IDA		J:164484 	
+MGI:1928277	Afg3l1	AFG3-like AAA ATPase 1	8		mitochondrial protein processing			IGI	MGI:1916847 	J:156874 	
+MGI:1928277	Afg3l1	AFG3-like AAA ATPase 1	8		protein processing			IDA		J:164484 	
+MGI:1916847	Afg3l2	AFG3-like AAA ATPase 2	18		mitochondrial protein processing			IBA	PTN000554085 	J:265628 	
+MGI:1916847	Afg3l2	AFG3-like AAA ATPase 2	18		mitochondrial protein processing			IDA		J:164484 	
+MGI:1916847	Afg3l2	AFG3-like AAA ATPase 2	18		mitochondrial protein processing			IGI	MGI:1928277 	J:156874 	
+MGI:1916847	Afg3l2	AFG3-like AAA ATPase 2	18		protein autoprocessing			IMP		J:164484 	
+MGI:1916847	Afg3l2	AFG3-like AAA ATPase 2	18		protein processing			IDA		J:164484 	
+MGI:3643534	Angptl8	angiopoietin-like 8	9		positive regulation of protein processing			ISO	Q6UXH0 	J:73065 	
+MGI:2385110	Aph1a	aph1 homolog A, gamma secretase subunit	3		protein processing			IBA	PTN000306732 	J:265628 	
+MGI:2385110	Aph1a	aph1 homolog A, gamma secretase subunit	3		protein processing			ISA	Q96B13 	J:80170 	
+MGI:2385110	Aph1a	aph1 homolog A, gamma secretase subunit	3		protein processing			ISO	Q96BI3 	J:164563 	
+MGI:3522097	Aph1b	aph1 homolog B, gamma secretase subunit	9		protein processing			IBA	PTN000306732 	J:265628 	
+MGI:3522097	Aph1b	aph1 homolog B, gamma secretase subunit	9		protein processing			ISO	Q8WW43 	J:164563 	
+MGI:1915568	Aph1c	aph1 homolog C, gamma secretase subunit	9		protein processing			IBA	PTN000306732 	J:265628 	
+MGI:1915568	Aph1c	aph1 homolog C, gamma secretase subunit	9		protein processing			IGI	MGI:2385110 	J:95769 	
+MGI:1915568	Aph1c	aph1 homolog C, gamma secretase subunit	9		protein processing			ISA	Q8WW43 	J:80170 	
+MGI:1915568	Aph1c	aph1 homolog C, gamma secretase subunit	9		protein processing			ISO	Q8WW43 	J:164563 	
+MGI:88058	Apoh	apolipoprotein H	11		plasminogen activation			ISO	P02749 	J:164563 	
+MGI:1923469	Arxes1	adipocyte-related X-chromosome expressed sequence 1	X		signal peptide processing			IBA	PTN000301433 	J:265628 	
+MGI:1924226	Arxes2	adipocyte-related X-chromosome expressed sequence 2	X		signal peptide processing			IBA	PTN000301433 	J:265628 	
+MGI:1914186	Asph	aspartate-beta-hydroxylase	4		activation of cysteine-type endopeptidase activity			ISO	Q12797 	J:164563 	
+MGI:1915105	Asprv1	aspartic peptidase, retroviral-like 1	6		protein processing			IDA		J:116504 	
+MGI:1915105	Asprv1	aspartic peptidase, retroviral-like 1	6		protein processing			ISO	Q53RT3 	J:164563 	
+MGI:3046414	Astl	astacin-like metalloendopeptidase (M12 family)	2		positive regulation of protein processing			IDA		J:185161 	
+MGI:1917745	Atp6ap2	ATPase, H+ transporting, lysosomal accessory protein 2	X		angiotensin maturation			ISO	O75787 	J:164563 	
+MGI:1916984	Atp23	ATP23 metallopeptidase and ATP synthase assembly factor homolog	10		mitochondrial protein processing			IBA	PTN000496388 	J:265628 	
+MGI:1346542	Bace1	beta-site APP cleaving enzyme 1	9		protein processing			ISO	P56817 	J:164563 	
+MGI:1096330	Bad	BCL2-associated agonist of cell death	19		activation of cysteine-type endopeptidase activity			IBA	PTN002004008 	J:265628 	
+MGI:1096330	Bad	BCL2-associated agonist of cell death	19		activation of cysteine-type endopeptidase activity			ISO	Q92934 	J:164563 	
+MGI:1891254	Bag2	BCL2-associated athanogene 2	1		positive regulation of protein processing			ISO	O95816 	J:164563 	
+MGI:1097161	Bak1	BCL2-antagonist/killer 1	17		activation of cysteine-type endopeptidase activity			ISO	Q16611 	J:164563 	
+MGI:2682300	BC051665	cDNA sequence BC051665	13		protein autoprocessing			ISO	P07711 	J:164563 	
+MGI:2682300	BC051665	cDNA sequence BC051665	13		zymogen activation			ISO	P07711 	J:164563 	
+MGI:1922986	Bcl2l12	BCL2-like 12 (proline rich)	7		inhibition of cysteine-type endopeptidase activity involved in apoptotic process			ISO	Q9HB09 	J:164563 	
+MGI:1355313	C1ra	complement component 1, r subcomponent A	6		zymogen activation			IBA	PTN002799295 	J:265628 	
+MGI:1355313	C1ra	complement component 1, r subcomponent A	6		zymogen activation			ISO	P00736 	J:164563 	
+MGI:3779804	C1rb	complement component 1, r subcomponent B	6		zymogen activation			IBA	PTN002799295 	J:265628 	
+MGI:3779804	C1rb	complement component 1, r subcomponent B	6		zymogen activation			ISO	P00736 	J:164563 	
+MGI:2660692	C1rl	complement component 1, r subcomponent-like	6		zymogen activation			IBA	PTN002799295 	J:265628 	
+MGI:2142166	C2cd3	C2 calcium-dependent domain containing 3	7		protein processing			IMP		J:142506 	
+MGI:88263	Capn1	calpain 1	19		protein autoprocessing			ISO	RGD:2267 	J:155856 	
+MGI:88264	Capn2	calpain 2	1		protein autoprocessing			ISO	RGD:2268 	J:155856 	
+MGI:96544	Casp1	caspase 1	9		cytokine precursor processing			ISO	P29466 	J:164563 	
+MGI:96544	Casp1	caspase 1	9		protein autoprocessing			IDA		J:306581 	
+MGI:96544	Casp1	caspase 1	9		protein autoprocessing			ISO	P29466 	J:164563 	
+MGI:96544	Casp1	caspase 1	9		protein processing	happens in peritoneal macrophage		IDA		J:66835 	
+MGI:96544	Casp1	caspase 1	9		protein processing			IDA		J:91292 	
+MGI:96544	Casp1	caspase 1	9		protein processing			IMP	MGI:1927822 	J:88212 	
+MGI:96544	Casp1	caspase 1	9		protein processing	has the participant Il1b		IMP		J:122152 	
+MGI:96544	Casp1	caspase 1	9		signaling receptor ligand precursor processing			ISO	P29466 	J:164563 	
+MGI:97295	Casp2	caspase 2	6		protein processing			ISO	P42575 	J:164563 	
+MGI:107739	Casp3	caspase 3	8		protein processing	has the participant Bcl2l1		IDA		J:93470 	
+MGI:107700	Casp4	caspase 4, apoptosis-related cysteine peptidase	9		protein autoprocessing			IDA		J:296118 	
+MGI:109383	Casp7	caspase 7	19		protein processing	happens in neuron,has the participant Bcl2l1		IDA		J:93470 	
+MGI:1261423	Casp8	caspase 8	1		activation of cysteine-type endopeptidase activity			ISO	Q14790 	J:164563 	
+MGI:1261423	Casp8	caspase 8	1		protein processing			IDA		J:268622 	
+MGI:1312922	Casp12	caspase 12	9		protein autoprocessing			ISO	RGD:621758 	J:155856 	
+MGI:1098236	Cast	calpastatin	13		inhibition of cysteine-type endopeptidase activity			IBA	PTN002560636 	J:265628 	
+MGI:1098236	Cast	calpastatin	13		inhibition of cysteine-type endopeptidase activity			ISO	P20810 	J:164563 	
+MGI:2445053	Ccbe1	collagen and calcium binding EGF domains 1	18		positive regulation of protein processing			ISO	Q6UXH8 	J:164563 	
+MGI:1334419	Cd5l	CD5 antigen-like	3		zymogen activation			IBA	PTN002499857 	J:265628 	
+MGI:88354	Cdh1	cadherin 1	8		negative regulation of protein processing			IMP		J:127491 	
+MGI:1916315	Chac1	ChaC, cation transport regulator 1	2		negative regulation of protein processing			ISO	Q9BUX1 	J:164563 	
+MGI:1916197	Chst8	carbohydrate sulfotransferase 8	7		peptide hormone processing			TAS		J:66120 	
+MGI:1270844	Cideb	cell death-inducing DNA fragmentation factor, alpha subunit-like effector B	14		activation of cysteine-type endopeptidase activity			ISO	Q9UHD4 	J:164563 	
+MGI:104540	Clec3b	C-type lectin domain family 3, member b	9		positive regulation of plasminogen activation	has the participant UniProtKB:P00750		IDA		J:190000 	
+MGI:107537	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	7		protein processing	happens in cerebellum,happens in granule cell,has the participant Ctsd		IMP	MGI:2388887 	J:95873 	
+MGI:107537	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	7		regulation of protein processing			ISO	Q13286 	J:164563 	
+MGI:2442253	Cln5	ceroid-lipofuscinosis, neuronal 5	14		signal peptide processing			ISO	O75503 	J:164563 	
+MGI:96941	Cma1	chymase 1, mast cell	14		cytokine precursor processing			ISO	P23946 	J:164563 	
+MGI:104518	Cntn2	contactin 2	1		positive regulation of protein processing	regulates a function/process that happens in fibroblast,regulates a function/process that uses App		IDA		J:145671 	
+MGI:88469	Comp	cartilage oligomeric matrix protein	8		protein processing			IMP	MGI:2180787 	J:225913 	
+MGI:1349451	Corin	corin, serine peptidase	5		peptide hormone processing			IMP		J:96458 J:183869 J:183978 	
+MGI:1349451	Corin	corin, serine peptidase	5		peptide hormone processing			ISO	Q9Y5Q5 	J:164563 	
+MGI:1891837	Cpb2	carboxypeptidase B2 (plasma)	14		negative regulation of plasminogen activation			ISO	RGD:71035 	J:155856 	
+MGI:107265	Cpd	carboxypeptidase D	11		protein processing			IBA	PTN000164240 	J:265628 	
+MGI:101932	Cpe	carboxypeptidase E	8		enkephalin processing			ISO	RGD:2394 	J:155856 	
+MGI:101932	Cpe	carboxypeptidase E	8		insulin processing	happens in pancreas		IMP	MGI:1856395 	J:24436 	
+MGI:101932	Cpe	carboxypeptidase E	8		insulin processing			ISO	RGD:2394 	J:155856 	
+MGI:101932	Cpe	carboxypeptidase E	8		protein processing			IBA	PTN000164240 	J:265628 	
+MGI:101932	Cpe	carboxypeptidase E	8		protein processing			ISO	RGD:2394 	J:155856 	
+MGI:1917824	Cpm	carboxypeptidase M	10		protein processing			IBA	PTN000164240 	J:265628 	
+MGI:2135874	Cpn1	carboxypeptidase N, polypeptide 1	19		protein processing			IBA	PTN000164240 	J:265628 	
+MGI:1934569	Cpxm1	carboxypeptidase X 1 (M14 family)	2		protein processing			IBA	PTN000164240 	J:265628 	
+MGI:1926006	Cpxm2	carboxypeptidase X 2 (M14 family)	7		protein processing			IBA	PTN000164240 	J:265628 	
+MGI:88487	Cpz	carboxypeptidase Z	5		protein processing			IBA	PTN000164240 	J:265628 	
+MGI:88487	Cpz	carboxypeptidase Z	5		protein processing			TAS		J:69384 	
+MGI:1298217	Cst7	cystatin F (leukocystatin)	2		inhibition of cysteine-type endopeptidase activity			IBA	PTN002932287 	J:265628 	
+MGI:1298217	Cst7	cystatin F (leukocystatin)	2		inhibition of cysteine-type endopeptidase activity	happens in microglial cell		IMP	MGI:5910746 	J:242069 	
+MGI:88554	Ctla2a	cytotoxic T lymphocyte-associated protein 2 alpha	13		negative regulation of protein processing	regulates Ctsl		IMP		J:153812 	
+MGI:105100	Ctnnd1	catenin (cadherin associated protein), delta 1	2		positive regulation of protein processing	uses PR:Q8VDL9-1		IGI	MGI:98397 	J:127491 	
+MGI:105100	Ctnnd1	catenin (cadherin associated protein), delta 1	2		positive regulation of protein processing	uses PR:Q8VDL9-1		IMP		J:127491 	
+MGI:2151929	Cts3	cathepsin 3	13		protein autoprocessing			ISO	P07711 	J:164563 	
+MGI:2151929	Cts3	cathepsin 3	13		zymogen activation			ISO	P07711 	J:164563 	
+MGI:1889619	Cts6	cathepsin 6	13		protein autoprocessing			ISO	P07711 	J:164563 	
+MGI:1889619	Cts6	cathepsin 6	13		zymogen activation			ISO	P07711 	J:164563 	
+MGI:1860262	Cts7	cathepsin 7	13		protein autoprocessing			ISO	P07711 	J:164563 	
+MGI:1860262	Cts7	cathepsin 7	13		zymogen activation			ISO	P07711 	J:164563 	
+MGI:1860275	Cts8	cathepsin 8	13		protein autoprocessing			ISO	P07711 	J:164563 	
+MGI:1860275	Cts8	cathepsin 8	13		zymogen activation			ISO	P07711 	J:164563 	
+MGI:107361	Ctse	cathepsin E	1		protein autoprocessing			ISO	RGD:2446 	J:155856 	
+MGI:107285	Ctsh	cathepsin H	9		zymogen activation			IMP		J:165930 	
+MGI:107285	Ctsh	cathepsin H	9		zymogen activation			ISO	P09668 	J:164563 	
+MGI:1349426	Ctsj	cathepsin J	13		protein autoprocessing			ISO	P07711 	J:164563 	
+MGI:1349426	Ctsj	cathepsin J	13		zymogen activation			ISO	P07711 	J:164563 	
+MGI:88564	Ctsl	cathepsin L	13		protein autoprocessing		PR:P06797-1	IDA		J:201393 	
+MGI:88564	Ctsl	cathepsin L	13		protein autoprocessing			ISO	P07711 	J:164563 	
+MGI:88564	Ctsl	cathepsin L	13		protein processing		PR:000037136	IDA		J:90511 	
+MGI:88564	Ctsl	cathepsin L	13		protein processing		PR:000037136	IMP	MGI:2136432 	J:90511 	
+MGI:88564	Ctsl	cathepsin L	13		zymogen activation			ISO	P07711 	J:164563 	
+MGI:1917452	Ctsll3	cathepsin L-like 3	13		protein autoprocessing			ISO	P07711 	J:164563 	
+MGI:1917452	Ctsll3	cathepsin L-like 3	13		zymogen activation			ISO	P07711 	J:164563 	
+MGI:1927229	Ctsm	cathepsin M	13		protein autoprocessing			ISO	P07711 	J:164563 	
+MGI:1927229	Ctsm	cathepsin M	13		zymogen activation			ISO	P07711 	J:164563 	
+MGI:2137385	Ctsq	cathepsin Q	13		protein autoprocessing			ISO	P07711 	J:164563 	
+MGI:2137385	Ctsq	cathepsin Q	13		zymogen activation			ISO	P07711 	J:164563 	
+MGI:1861723	Ctsr	cathepsin R	13		protein autoprocessing			ISO	P07711 	J:164563 	
+MGI:1861723	Ctsr	cathepsin R	13		zymogen activation			ISO	P07711 	J:164563 	
+MGI:107341	Ctss	cathepsin S	3		protein processing			ISO	P25774 	J:164563 	
+MGI:1891190	Ctsz	cathepsin Z	2		negative regulation of plasminogen activation			ISO	Q9UBR2 	J:164563 	
+MGI:1202881	Cuzd1	CUB and zona pellucida-like domains 1	7		trypsinogen activation			IMP		J:80980 	
+MGI:1924134	Cyfip2	cytoplasmic FMR1 interacting protein 2	11		activation of cysteine-type endopeptidase activity			IBA	PTN002638922 	J:265628 	
+MGI:1924134	Cyfip2	cytoplasmic FMR1 interacting protein 2	11		activation of cysteine-type endopeptidase activity			ISO	Q96F07 	J:164563 	
+MGI:1913936	Dcbld1	discoidin, CUB  and LCCL domain containing 1	10		zymogen activation			IBA	PTN002799295 	J:265628 	
+MGI:1917244	Ddi2	DNA-damage inducible protein 2	4		protein processing			ISO	Q5TDH0 	J:164563 	
+MGI:1917244	Ddi2	DNA-damage inducible protein 2	4		protein processing			ISS	Q5TDH0 	J:276391 J:297195 	
+MGI:1922004	Dhcr24	24-dehydrocholesterol reductase	4		plasminogen activation	happens in brain,regulates Plg		IMP	MGI:3027024 	J:105158 	
+MGI:94891	Dhh	desert hedgehog	15		intein-mediated protein splicing			IEA	IPR006141 	J:72247 	
+MGI:94891	Dhh	desert hedgehog	15		protein autoprocessing			IEA	IPR001767 	J:72247 	
+MGI:1916147	Disp1	dispatched RND transporter family member 1	1		patched ligand maturation			IDA		J:79831 	
+MGI:1916147	Disp1	dispatched RND transporter family member 1	1		patched ligand maturation			IMP	MGI:2429759 	J:79831 	
+MGI:107736	Dync2h1	dynein cytoplasmic 2 heavy chain 1	9		protein processing	happens in embryo,has the participant Gli3		IMP	MGI:3578144 	J:100466 	
+MGI:107736	Dync2h1	dynein cytoplasmic 2 heavy chain 1	9		protein processing	happens in embryo,has the participant Gli3		IMP		J:103514 	
+MGI:1101357	Ece1	endothelin converting enzyme 1	4		endothelin maturation			ISO	P42892 	J:164563 	
+MGI:1101357	Ece1	endothelin converting enzyme 1	4		peptide hormone processing			IBA	PTN002620889 	J:265628 	
+MGI:1101357	Ece1	endothelin converting enzyme 1	4		peptide hormone processing			ISO	P42892 	J:164563 	
+MGI:1101357	Ece1	endothelin converting enzyme 1	4		peptide hormone processing			ISS		J:40232 	
+MGI:1101357	Ece1	endothelin converting enzyme 1	4		protein processing			IBA	PTN000199753 	J:265628 	
+MGI:1101357	Ece1	endothelin converting enzyme 1	4		protein processing			ISO	RGD:620293 	J:155856 	
+MGI:1101357	Ece1	endothelin converting enzyme 1	4		protein processing			ISO	P42892 	J:164563 	
+MGI:1101356	Ece2	endothelin converting enzyme 2	16		peptide hormone processing			ISO	P0DPD6 	J:164563 	
+MGI:1101356	Ece2	endothelin converting enzyme 2	16		peptide hormone processing			ISS		J:42648 	
+MGI:1101356	Ece2	endothelin converting enzyme 2	16		protein processing			IBA	PTN000199753 	J:265628 	
+MGI:1343461	Ecel1	endothelin converting enzyme-like 1	1		protein processing			IBA	PTN000199753 	J:265628 	
+MGI:95292	Egfbp2	epidermal growth factor binding protein type B	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:95292	Egfbp2	epidermal growth factor binding protein type B	7		zymogen activation			IDA		J:2320 J:40296 J:46117 	
+MGI:95393	Eno1	enolase 1, alpha non-neuron	4		positive regulation of plasminogen activation			ISO	P06733 	J:164563 	
+MGI:3648653	Eno1b	enolase 1B, retrotransposed	18		positive regulation of plasminogen activation			ISO	P06733 	J:164563 	
+MGI:1914725	Ero1b	endoplasmic reticulum oxidoreductase 1 beta	13		insulin processing			IMP	MGI:3864866 	J:158805 	
+MGI:88381	F3	coagulation factor III	3		activation of plasma proteins involved in acute inflammatory response			ISO	P13726 	J:164563 	
+MGI:88381	F3	coagulation factor III	3		protein processing			ISO	P13726 	J:164563 	
+MGI:109325	F7	coagulation factor VII	8		protein processing			ISO	P08709 	J:164563 	
+MGI:88384	F9	coagulation factor IX	X		zymogen activation			IBA	PTN000667592 	J:265628 	
+MGI:88384	F9	coagulation factor IX	X		zymogen activation			ISO	P00740 	J:164563 	
+MGI:99481	F11	coagulation factor XI	8		plasminogen activation			ISO	P03951 	J:164563 	
+MGI:1891012	F12	coagulation factor XII (Hageman factor)	13		Factor XII activation			ISO	P00748 	J:164563 	
+MGI:1891012	F12	coagulation factor XII (Hageman factor)	13		positive regulation of plasminogen activation			ISO	P00748 	J:164563 	
+MGI:1891012	F12	coagulation factor XII (Hageman factor)	13		protein autoprocessing			ISO	P00748 	J:164563 	
+MGI:1891012	F12	coagulation factor XII (Hageman factor)	13		protein processing			ISO	P00748 	J:164563 	
+MGI:1891012	F12	coagulation factor XII (Hageman factor)	13		zymogen activation			IBA	PTN002800021 	J:265628 	
+MGI:1891012	F12	coagulation factor XII (Hageman factor)	13		zymogen activation			ISO	P00748 	J:164563 	
+MGI:109324	Fadd	Fas (TNFRSF6)-associated via death domain	7		activation of cysteine-type endopeptidase activity			ISO	Q13158 	J:164563 	
+MGI:1915508	Fam111a	family with sequence similarity 111, member A	19		protein autoprocessing			ISO	Q96PZ2 	J:164563 	
+MGI:1916419	Fcmr	Fc fragment of IgM receptor	1		inhibition of cysteine-type endopeptidase activity involved in apoptotic process	regulates Casp8		IDA		J:97777 	
+MGI:1316726	Fga	fibrinogen alpha chain	3		plasminogen activation			ISO	P02671 	J:164563 	
+MGI:99501	Fgb	fibrinogen beta chain	3		plasminogen activation			ISO	P02675 	J:164563 	
+MGI:95526	Fgg	fibrinogen gamma chain	3		plasminogen activation			ISO	P02679 	J:164563 	
+MGI:2447586	Fkrp	fukutin related protein	7		protein processing			IDA		J:80808 	
+MGI:95564	Fmr1	FMRP translational regulator 1	X		negative regulation of protein processing			ISO	RGD:2623 	J:155856 	
+MGI:97513	Furin	furin (paired basic amino acid cleaving enzyme)	7		dibasic protein processing			ISO	P09958 	J:164563 	
+MGI:97513	Furin	furin (paired basic amino acid cleaving enzyme)	7		peptide hormone processing			IBA	PTN000082901 	J:265628 	
+MGI:97513	Furin	furin (paired basic amino acid cleaving enzyme)	7		peptide hormone processing			ISO	P09958 	J:164563 	
+MGI:97513	Furin	furin (paired basic amino acid cleaving enzyme)	7		protein processing			IBA	PTN002451026 	J:265628 	
+MGI:97513	Furin	furin (paired basic amino acid cleaving enzyme)	7		protein processing	has the participant Furin		IDA		J:163721 	
+MGI:97513	Furin	furin (paired basic amino acid cleaving enzyme)	7		protein processing			IMP	MGI:3700008 	J:169483 J:203527 	
+MGI:97513	Furin	furin (paired basic amino acid cleaving enzyme)	7		protein processing			ISO	RGD:3274 	J:155856 	
+MGI:97513	Furin	furin (paired basic amino acid cleaving enzyme)	7		protein processing			ISO	P09958 	J:95653 J:164563 	
+MGI:97513	Furin	furin (paired basic amino acid cleaving enzyme)	7		signal peptide processing			ISO	P09958 	J:164563 	
+MGI:97513	Furin	furin (paired basic amino acid cleaving enzyme)	7		zymogen activation			ISO	P09958 	J:164563 	
+MGI:97513	Furin	furin (paired basic amino acid cleaving enzyme)	7		zymogen inhibition			ISO	P09958 	J:164563 	
+MGI:1917550	Fuz	fuzzy planar cell polarity protein	7		positive regulation of protein processing	uses PR:000037267,generates PR:000037268,happens in forelimb bud		IMP	MGI:4346364 	J:154370 	
+MGI:1096879	Fxn	frataxin	19		protein autoprocessing			ISO	Q16595 	J:164563 	
+MGI:95655	Gas1	growth arrest specific 1	13		negative regulation of protein processing			ISO	P54826 	J:164563 	
+MGI:104967	Glg1	golgi apparatus protein 1	8		negative regulation of protein processing	regulates a function/process that uses Tgfb2		IGI	MGI:97513 	J:163721 	
+MGI:104967	Glg1	golgi apparatus protein 1	8		negative regulation of protein processing	regulates a function/process that happens in long bone epiphyseal plate,regulates a function/process that happens in chondrocyte,regulates a function/process that uses Tgfb2|regulates a function/process that happens in femur,regulates a function/process that happens in chondrocyte,regulates a function/process that uses Tgfb2		IMP	MGI:4829764 	J:163721 	
+MGI:95729	Gli3	GLI-Kruppel family member GLI3	13		protein processing			IDA		J:142500 	
+MGI:95851	Gsn	gelsolin	2		positive regulation of protein processing in phagocytic vesicle	uses collagen type I trimer		IMP		J:219057 	
+MGI:2448375	H2bc1	H2B clustered histone 1	13		plasminogen activation			IMP		J:149113 	
+MGI:95886	H13	histocompatibility 13	2		signal peptide processing			IBA	PTN000256133 	J:265628 	
+MGI:1859281	Hgfac	hepatocyte growth factor activator	5		zymogen activation			IBA	PTN002800021 	J:265628 	
+MGI:1916835	Hjv	hemojuvelin BMP co-receptor	3		protein autoprocessing			ISO	Q6ZVN8 	J:164563 	
+MGI:96211	Hp	haptoglobin	8		zymogen activation			IBA	PTN002799295 	J:265628 	
+MGI:1196620	Hpn	hepsin	7		positive regulation of plasminogen activation			ISO	P05981 	J:164563 	
+MGI:96429	Ifi204	interferon activated gene 204	1		activation of cysteine-type endopeptidase activity			ISO	Q16666 	J:164563 	
+MGI:3646410	Ifi206	interferon activated gene 206	1		activation of cysteine-type endopeptidase activity			ISO	Q16666 	J:164563 	
+MGI:2138302	Ifi207	interferon activated gene 207	1		activation of cysteine-type endopeptidase activity			ISO	Q16666 	J:164563 	
+MGI:2387217	Ift52	intraflagellar transport 52	2		regulation of protein processing	regulates a function/process that happens in future spinal cord,regulates PR:Q61602-1|regulates a function/process that happens in limb,regulates PR:Q61602-1		IMP		J:98800 	
+MGI:98715	Ift88	intraflagellar transport 88	14		regulation of protein processing	uses UniProtKB:Q61602		IMP	MGI:1859153 	J:115756 	
+MGI:98715	Ift88	intraflagellar transport 88	14		regulation of protein processing	regulates a function/process that happens in future spinal cord,regulates PR:Q61602-1|regulates a function/process that happens in limb,regulates PR:Q61602-1		IMP	MGI:3027342 	J:98800 	
+MGI:2682064	Ift172	intraflagellar transport 172	5		protein processing	happens in embryo,has the participant Gli3		IMP	MGI:2682066 	J:100466 	
+MGI:96533	Ihh	Indian hedgehog	1		intein-mediated protein splicing			IEA	IPR006141 	J:72247 	
+MGI:96533	Ihh	Indian hedgehog	1		protein autoprocessing			IEA	IPR001767 	J:72247 	
+MGI:96546	Il1r2	interleukin 1 receptor, type II	1		negative regulation of protein processing	regulates a function/process that uses PR:000045525		IMP		J:193599 	
+MGI:1913791	Immp1l	IMP1 inner mitochondrial membrane peptidase-like (S. cerevisiae)	2		protein processing involved in protein targeting to mitochondrion			IBA	PTN000272699 	J:265628 	
+MGI:2135611	Immp2l	IMP2 inner mitochondrial membrane peptidase-like (S. cerevisiae)	12		protein processing involved in protein targeting to mitochondrion			IBA	PTN000962786 	J:265628 	
+MGI:2135611	Immp2l	IMP2 inner mitochondrial membrane peptidase-like (S. cerevisiae)	12		protein processing involved in protein targeting to mitochondrion	has the participant Diablo		IGI	S000004638 	J:100749 	
+MGI:2135611	Immp2l	IMP2 inner mitochondrial membrane peptidase-like (S. cerevisiae)	12		signal peptide processing			IEA	IPR037730 	J:72247 	
+MGI:103257	Inpp5b	inositol polyphosphate-5-phosphatase B	4		regulation of protein processing			IMP	MGI:2159609 	J:73678 	
+MGI:1346053	Kel	Kell blood group	6		protein processing			IBA	PTN000199753 	J:265628 	
+MGI:102850	Klk1	kallikrein 1	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:892019	Klk1b1	kallikrein 1-related peptidase b1	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:97322	Klk1b3	kallikrein 1-related peptidase b3	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:97320	Klk1b4	kallikrein 1-related pepidase b4	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:892020	Klk1b5	kallikrein 1-related peptidase b5	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:892018	Klk1b8	kallikrein 1-related peptidase b8	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:95293	Klk1b9	kallikrein 1-related peptidase b9	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:95293	Klk1b9	kallikrein 1-related peptidase b9	7		zymogen activation			IDA		J:40296 	
+MGI:892023	Klk1b11	kallikrein 1-related peptidase b11	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:891982	Klk1b16	kallikrein 1-related peptidase b16	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:892022	Klk1b21	kallikrein 1-related peptidase b21	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:95291	Klk1b22	kallikrein 1-related peptidase b22	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:95291	Klk1b22	kallikrein 1-related peptidase b22	7		zymogen activation			IDA		J:46117 	
+MGI:892021	Klk1b24	kallikrein 1-related peptidase b24	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:891981	Klk1b26	kallikrein 1-related petidase b26	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:891981	Klk1b26	kallikrein 1-related petidase b26	7		zymogen activation			IDA		J:2320 J:46117 	
+MGI:891980	Klk1b27	kallikrein 1-related peptidase b27	7		zymogen activation			IBA	PTN000668785 	J:265628 	
+MGI:3615275	Klk13	kallikrein related-peptidase 13	7		protein processing	has the participant Il1b		IDA		J:110582 	
+MGI:102849	Klkb1	kallikrein B, plasma 1	8		plasminogen activation			ISO	P03952 	J:164563 	
+MGI:2138856	Ldlrad3	low density lipoprotein receptor class A domain containing 3	2		regulation of protein processing	regulates a function/process that has the participant App		IDA		J:174507 	
+MGI:1330838	Lgmn	legumain	12		activation of cysteine-type endopeptidase activity			ISO	Q99538 	J:164563 	
+MGI:1330838	Lgmn	legumain	12		vacuolar protein processing			IBA	PTN000243183 	J:265628 	
+MGI:1914137	Lonp2	lon peptidase 2, peroxisomal	8		protein processing			IBA	PTN000005559 	J:265628 	
+MGI:1914137	Lonp2	lon peptidase 2, peroxisomal	8		protein processing			ISO	Q86WA8 	J:164563 	
+MGI:1315211	Lpcat3	lysophosphatidylcholine acyltransferase 3	6		positive regulation of sterol regulatory element binding protein cleavage			IMP		J:252691 	
+MGI:1913975	Lrrk2	leucine-rich repeat kinase 2	15		negative regulation of protein processing			ISO	Q5S007 	J:164563 	
+MGI:96952	Mdm2	transformed mouse 3T3 cell double minute 2	10		negative regulation of protein processing			ISO	RGD:1305332 	J:155856 	
+MGI:1353421	Meltf	melanotransferrin	16		positive regulation of plasminogen activation			ISO	P08582 	J:164563 	
+MGI:1929701	Metap2	methionine aminopeptidase 2	10		protein processing			ISO	P50579 	J:164563 	
+MGI:1917728	Mipep	mitochondrial intermediate peptidase	14		protein processing involved in protein targeting to mitochondrion			IBA	PTN000928390 	J:265628 	
+MGI:97004	Mme	membrane metallo endopeptidase	3		neuropeptide processing			ISO	P08473 	J:164563 	
+MGI:97004	Mme	membrane metallo endopeptidase	3		protein processing			IBA	PTN000199753 	J:265628 	
+MGI:1351603	Mmel1	membrane metallo-endopeptidase-like 1	4		protein processing			IBA	PTN000199753 	J:265628 	
+MGI:101900	Mmp14	matrix metallopeptidase 14 (membrane-inserted)	14		positive regulation of protein processing			ISO	RGD:620198 	J:155856 	
+MGI:101900	Mmp14	matrix metallopeptidase 14 (membrane-inserted)	14		zymogen activation			IBA	PTN002565544 	J:265628 	
+MGI:101900	Mmp14	matrix metallopeptidase 14 (membrane-inserted)	14		zymogen activation			IMP	MGI:2386246 	J:95881 	
+MGI:101900	Mmp14	matrix metallopeptidase 14 (membrane-inserted)	14		zymogen activation			ISO	P50281 	J:164563 	
+MGI:1276107	Mmp16	matrix metallopeptidase 16	4		protein processing			ISO	P51512 	J:164563 	
+MGI:97250	Myc	myelocytomatosis oncogene	15		protein processing	happens in spleen,happens in B cell,has the participant Parp1		IMP	MGI:1931143 	J:115648 	
+MGI:107717	Myh9	myosin, heavy polypeptide 9, non-muscle	15		positive regulation of protein processing in phagocytic vesicle	uses collagen type I trimer		IMP		J:219057 	
+MGI:2684944	Myrf	myelin regulatory factor	19		protein autoprocessing			IBA	PTN000989688 	J:265628 	
+MGI:2684944	Myrf	myelin regulatory factor	19		protein autoprocessing			IDA		J:267268 	
+MGI:2685085	Myrfl	myelin regulatory factor-like	10		protein autoprocessing			IBA	PTN000989688 	J:265628 	
+MGI:1891700	Ncstn	nicastrin	1		protein processing			IBA	PTN000473190 	J:265628 	
+MGI:1891700	Ncstn	nicastrin	1		protein processing			ISO	Q92542 	J:164563 	
+MGI:1919543	Nkd2	naked cuticle 2	13		positive regulation of protein processing			ISO	Q969F2 	J:164563 	
+MGI:3036243	Nlrc4	NLR family, CARD domain containing 4	17		activation of cysteine-type endopeptidase activity			ISO	Q9NPP4 	J:164563 	
+MGI:3036243	Nlrc4	NLR family, CARD domain containing 4	17		positive regulation of protein processing			ISO	Q9NPP4 	J:164563 	
+MGI:2141990	Nlrp6	NLR family, pyrin domain containing 6	7		activation of cysteine-type endopeptidase activity	happens in macrophage		IMP		J:295244 	
+MGI:1925938	Nol3	nucleolar protein 3 (apoptosis repressor with CARD domain)	8		inhibition of cysteine-type endopeptidase activity			ISO	RGD:708558 	J:155856 	
+MGI:1925938	Nol3	nucleolar protein 3 (apoptosis repressor with CARD domain)	8		inhibition of cysteine-type endopeptidase activity involved in apoptotic process			IBA	PTN002736142 	J:265628 	
+MGI:1925938	Nol3	nucleolar protein 3 (apoptosis repressor with CARD domain)	8		inhibition of cysteine-type endopeptidase activity involved in apoptotic process			ISO	O60936 	J:164563 	
+MGI:107471	Notch4	notch 4	17		regulation of protein processing			IDA		J:212472 	
+MGI:1339639	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	X		protein processing			ISO	O15294 	J:164563 	
+MGI:1914263	Oma1	OMA1 zinc metallopeptidase	4		mitochondrial protein processing			IBA	PTN000506395 	J:265628 	
+MGI:1914263	Oma1	OMA1 zinc metallopeptidase	4		mitochondrial protein processing			IDA		J:208034 J:289068 	
+MGI:1914263	Oma1	OMA1 zinc metallopeptidase	4		mitochondrial protein processing			IMP		J:156874 	
+MGI:1914263	Oma1	OMA1 zinc metallopeptidase	4		mitochondrial protein processing			ISO	Q96E52 	J:164563 	
+MGI:1914263	Oma1	OMA1 zinc metallopeptidase	4		protein autoprocessing			IDA		J:208034 J:289068 	
+MGI:1914263	Oma1	OMA1 zinc metallopeptidase	4		zymogen activation			IDA		J:208034 J:289068 	
+MGI:1339957	P2rx7	purinergic receptor P2X, ligand-gated ion channel, 7	5		protein processing	happens in peritoneal macrophage		IMP	MGI:2386080 	J:66835 	
+MGI:1277152	Parl	presenilin associated, rhomboid-like	16		signal peptide processing			IBA	PTN001292090 	J:265628 	
+MGI:1340806	Parp1	poly (ADP-ribose) polymerase family, member 1	1		protein autoprocessing			ISO	RGD:2053 	J:155856 	
+MGI:2149961	Pawr	PRKC, apoptosis, WT1, regulator	10		activation of cysteine-type endopeptidase activity			ISO	RGD:69065 	J:155856 	
+MGI:97511	Pcsk1	proprotein convertase subtilisin/kexin type 1	13		peptide hormone processing			IBA	PTN002451042 	J:265628 	
+MGI:97511	Pcsk1	proprotein convertase subtilisin/kexin type 1	13		peptide hormone processing			IDA		J:131459 J:139345 	
+MGI:97511	Pcsk1	proprotein convertase subtilisin/kexin type 1	13		peptide hormone processing			ISO	RGD:3272 	J:155856 	
+MGI:97511	Pcsk1	proprotein convertase subtilisin/kexin type 1	13		protein autoprocessing			ISO	RGD:3272 	J:155856 	
+MGI:97511	Pcsk1	proprotein convertase subtilisin/kexin type 1	13		protein processing			IBA	PTN002451026 	J:265628 	
+MGI:97511	Pcsk1	proprotein convertase subtilisin/kexin type 1	13		protein processing			IDA		J:139345 	
+MGI:1353431	Pcsk1n	proprotein convertase subtilisin/kexin type 1 inhibitor	X		peptide hormone processing			IDA		J:59330 	
+MGI:97512	Pcsk2	proprotein convertase subtilisin/kexin type 2	2		enkephalin processing			IDA		J:131459 	
+MGI:97512	Pcsk2	proprotein convertase subtilisin/kexin type 2	2		insulin processing			ISO	P16519 	J:164563 	
+MGI:97512	Pcsk2	proprotein convertase subtilisin/kexin type 2	2		islet amyloid polypeptide processing			ISO	RGD:3273 	J:155856 	
+MGI:97512	Pcsk2	proprotein convertase subtilisin/kexin type 2	2		peptide hormone processing			IBA	PTN002451042 	J:265628 	
+MGI:97512	Pcsk2	proprotein convertase subtilisin/kexin type 2	2		peptide hormone processing			IDA		J:139345 	
+MGI:97512	Pcsk2	proprotein convertase subtilisin/kexin type 2	2		peptide hormone processing			IMP	MGI:1857445 	J:84637 	
+MGI:97512	Pcsk2	proprotein convertase subtilisin/kexin type 2	2		peptide hormone processing			ISO	RGD:3273 	J:155856 	
+MGI:97512	Pcsk2	proprotein convertase subtilisin/kexin type 2	2		peptide hormone processing			ISO	P16519 	J:164563 	
+MGI:97512	Pcsk2	proprotein convertase subtilisin/kexin type 2	2		protein autoprocessing			IDA		J:117471 	
+MGI:97512	Pcsk2	proprotein convertase subtilisin/kexin type 2	2		protein processing			IBA	PTN002451026 	J:265628 	
+MGI:97512	Pcsk2	proprotein convertase subtilisin/kexin type 2	2		protein processing			IDA		J:139345 	
+MGI:97514	Pcsk4	proprotein convertase subtilisin/kexin type 4	10		peptide hormone processing			IBA	PTN000082901 	J:265628 	
+MGI:97514	Pcsk4	proprotein convertase subtilisin/kexin type 4	10		protein processing			IBA	PTN002451026 	J:265628 	
+MGI:97514	Pcsk4	proprotein convertase subtilisin/kexin type 4	10		protein processing			ISO	Q6UW60 	J:164563 	
+MGI:97515	Pcsk5	proprotein convertase subtilisin/kexin type 5	19		cytokine precursor processing	uses UniProtKB:Q9Z1W4		IDA		J:136243 	
+MGI:97515	Pcsk5	proprotein convertase subtilisin/kexin type 5	19		peptide hormone processing			IBA	PTN000082901 	J:265628 	
+MGI:97515	Pcsk5	proprotein convertase subtilisin/kexin type 5	19		peptide hormone processing			IDA		J:27310 J:136243 J:139345 	
+MGI:97515	Pcsk5	proprotein convertase subtilisin/kexin type 5	19		peptide hormone processing			ISO	Q92824 	J:164563 	
+MGI:97515	Pcsk5	proprotein convertase subtilisin/kexin type 5	19		protein processing			IBA	PTN002451026 	J:265628 	
+MGI:97515	Pcsk5	proprotein convertase subtilisin/kexin type 5	19		protein processing			IDA		J:27310 J:136243 J:139345 J:169483 	
+MGI:97515	Pcsk5	proprotein convertase subtilisin/kexin type 5	19		protein processing			ISO	Q92824 	J:95653 J:164563 	
+MGI:97515	Pcsk5	proprotein convertase subtilisin/kexin type 5	19		signal peptide processing			ISO	Q92824 	J:164563 	
+MGI:102897	Pcsk6	proprotein convertase subtilisin/kexin type 6	7		peptide hormone processing			IBA	PTN000082901 	J:265628 	
+MGI:102897	Pcsk6	proprotein convertase subtilisin/kexin type 6	7		peptide hormone processing			ISO	P29122 	J:164563 	
+MGI:102897	Pcsk6	proprotein convertase subtilisin/kexin type 6	7		protein processing			IBA	PTN002451026 	J:265628 	
+MGI:102897	Pcsk6	proprotein convertase subtilisin/kexin type 6	7		protein processing			IMP		J:203527 	
+MGI:102897	Pcsk6	proprotein convertase subtilisin/kexin type 6	7		protein processing			ISO	P29122 	J:164563 	
+MGI:107421	Pcsk7	proprotein convertase subtilisin/kexin type 7	9		protein processing			IBA	PTN002451026 	J:265628 	
+MGI:107421	Pcsk7	proprotein convertase subtilisin/kexin type 7	9		protein processing			ISO	Q16549 	J:95653 	
+MGI:2140260	Pcsk9	proprotein convertase subtilisin/kexin type 9	4		protein autoprocessing			ISO	RGD:728909 	J:155856 	
+MGI:2140260	Pcsk9	proprotein convertase subtilisin/kexin type 9	4		protein autoprocessing			ISO	Q8NBP7 	J:164563 	
+MGI:2140260	Pcsk9	proprotein convertase subtilisin/kexin type 9	4		protein autoprocessing			ISS	Q8NBP7 	J:81825 	
+MGI:2140260	Pcsk9	proprotein convertase subtilisin/kexin type 9	4		protein processing			ISO	RGD:728909 	J:155856 	
+MGI:1929938	Perp	PERP, TP53 apoptosis effector	10		activation of cysteine-type endopeptidase activity			ISO	Q96FX8 	J:164563 	
+MGI:97555	Pgk1	phosphoglycerate kinase 1	X		plasminogen activation			ISO	P00558 	J:164563 	
+MGI:107489	Phex	phosphate regulating endopeptidase homolog, X-linked	X		protein processing			IBA	PTN000199753 	J:265628 	
+MGI:1889507	Pidd1	p53 induced death domain protein 1	7		protein autoprocessing			ISO	Q9HB75 	J:164563 	
+MGI:2445019	Pik3c3	phosphatidylinositol 3-kinase catalytic subunit type 3	18		protein processing			ISO	RGD:620899 	J:155856 	
+MGI:1916867	Pitrm1	pitrilysin metallepetidase 1	13		protein processing			IBA	PTN000220482 	J:265628 	
+MGI:97610	Plat	plasminogen activator, tissue	8		plasminogen activation			IBA	PTN002799995 	J:265628 	
+MGI:97610	Plat	plasminogen activator, tissue	8		plasminogen activation			ISO	RGD:3342 	J:155856 	
+MGI:97610	Plat	plasminogen activator, tissue	8		plasminogen activation			ISO	P00750 	J:164563 	
+MGI:97611	Plau	plasminogen activator, urokinase	14		plasminogen activation			IBA	PTN002800003 	J:265628 	
+MGI:97611	Plau	plasminogen activator, urokinase	14		plasminogen activation			ISO	P00749 	J:164563 	
+MGI:1915009	Plgrkt	plasminogen receptor, C-terminal lysine transmembrane protein	19		positive regulation of plasminogen activation			IBA	PTN002667864 	J:265628 	
+MGI:1915009	Plgrkt	plasminogen receptor, C-terminal lysine transmembrane protein	19		positive regulation of plasminogen activation			IDA		J:157880 	
+MGI:1918568	Pmpca	peptidase (mitochondrial processing) alpha	2		protein processing involved in protein targeting to mitochondrion			IBA	PTN002274973 	J:265628 	
+MGI:1918568	Pmpca	peptidase (mitochondrial processing) alpha	2		protein processing involved in protein targeting to mitochondrion			ISO	Q10713 	J:164563 	
+MGI:1920328	Pmpcb	peptidase (mitochondrial processing) beta	5		protein processing			ISO	RGD:621297 	J:155856 	
+MGI:1920328	Pmpcb	peptidase (mitochondrial processing) beta	5		protein processing involved in protein targeting to mitochondrion			IBA	PTN000220293 	J:265628 	
+MGI:1920328	Pmpcb	peptidase (mitochondrial processing) beta	5		protein processing involved in protein targeting to mitochondrion			ISO	RGD:621297 	J:155856 	
+MGI:1920328	Pmpcb	peptidase (mitochondrial processing) beta	5		protein processing involved in protein targeting to mitochondrion			ISO	O75439 	J:164563 	
+MGI:1927072	Ppp1r15a	protein phosphatase 1, regulatory subunit 15A	7		negative regulation of protein processing			ISO	RGD:621526 	J:155856 	
+MGI:97592	Prkaca	protein kinase, cAMP dependent, catalytic, alpha	8		regulation of protein processing	uses PR:Q61602-1		IGI	MGI:97760 	J:181006 	
+MGI:97594	Prkacb	protein kinase, cAMP dependent, catalytic, beta	3		regulation of protein processing	uses PR:Q61602-1		IGI	MGI:97592 	J:181006 	
+MGI:1100881	Prss12	protease, serine 12 neurotrypsin (motopsin)	3		zymogen activation			IBA	PTN002499857 	J:265628 	
+MGI:1100881	Prss12	protease, serine 12 neurotrypsin (motopsin)	3		zymogen activation			IDA		J:118192 	
+MGI:1914940	Prss37	protease, serine 37	6		regulation of protein processing			ISO	A4D1T9 	J:164563 	
+MGI:1202717	Psen1	presenilin 1	12		protein processing	has the participant App|has the participant Notch1		IMP	MGI:2149116 	J:54336 	
+MGI:1202717	Psen1	presenilin 1	12		protein processing	happens in cerebral cortex,has the participant App		IMP	MGI:2179062 MGI:2449304 	J:71606 	
+MGI:1202717	Psen1	presenilin 1	12		protein processing			ISO	RGD:3425 	J:155856 	
+MGI:1202717	Psen1	presenilin 1	12		protein processing			ISO	P49768 	J:164563 	
+MGI:109284	Psen2	presenilin 2	1		protein processing	happens in embryo,happens in early embryonic cell (metazoa),has the participant Nradd		IGI	MGI:1202717 	J:92071 	
+MGI:109284	Psen2	presenilin 2	1		protein processing			ISO	P49810 	J:164563 	
+MGI:1913590	Psenen	presenilin enhancer gamma secretase subunit	7		protein processing	uses UniProtKB:P49769		IMP		J:284995 J:297314 	
+MGI:1913590	Psenen	presenilin enhancer gamma secretase subunit	7		protein processing			ISO	Q9NZ42 	J:164563 	
+MGI:105373	Ptch1	patched 1	13		protein processing	happens in embryo,has the participant Gli3		IMP	MGI:1857447 	J:100466 	
+MGI:97800	Pthlh	parathyroid hormone-like peptide	6		protein processing			IDA		J:121301 	
+MGI:1931465	Pycard	PYD and CARD domain containing	7		activation of cysteine-type endopeptidase activity			IMP		J:197219 	
+MGI:1336895	Rce1	Ras converting CAAX endopeptidase 1	19		CAAX-box protein processing			IBA	PTN000316030 	J:265628 	
+MGI:1336895	Rce1	Ras converting CAAX endopeptidase 1	19		CAAX-box protein processing			ISO	Q9Y256 	J:164563 	
+MGI:97898	Ren1	renin 1 structural	1		angiotensin maturation			IBA	PTN002671446 	J:265628 	
+MGI:97898	Ren1	renin 1 structural	1		angiotensin maturation	has the participant plasma		IMP	MGI:2136642 	J:59299 	
+MGI:97898	Ren1	renin 1 structural	1		angiotensin maturation			ISO	RGD:3554 	J:155856 	
+MGI:97898	Ren1	renin 1 structural	1		angiotensin maturation			ISO	P00797 	J:164563 	
+MGI:97899	Ren2	renin 2 tandem duplication of Ren1	1		angiotensin maturation			IBA	PTN002671446 	J:265628 	
+MGI:97899	Ren2	renin 2 tandem duplication of Ren1	1		angiotensin maturation			ISO	RGD:3554 	J:155856 	
+MGI:97899	Ren2	renin 2 tandem duplication of Ren1	1		angiotensin maturation			ISO	P00797 	J:164563 	
+MGI:1918387	Rfx4	regulatory factor X, 4 (influences HLA class II expression)	10		regulation of protein processing	uses PR:Q61602-1		IMP	MGI:3799278 	J:186055 	
+MGI:1924117	Rhbdd1	rhomboid domain containing 1	1		positive regulation of protein processing			IDA		J:187613 	
+MGI:1891456	Ripk2	receptor (TNFRSF)-interacting serine-threonine kinase 2	4		activation of cysteine-type endopeptidase activity			ISO	O43353 	J:164563 	
+MGI:1923091	Rnf139	ring finger protein 139	15		regulation of protein processing			ISO	Q8WU17 	J:164563 	
+MGI:1342290	Rps6ka2	ribosomal protein S6 kinase, polypeptide 2	17		regulation of protein processing	regulates a function/process that has the participant Klk1b26		IMP		J:121666 	
+MGI:1928760	Ruvbl1	RuvB-like protein 1	6		positive regulation of plasminogen activation			ISO	RGD:68373 	J:155856 	
+MGI:98289	Scg5	secretogranin V	2		peptide hormone processing			IDA		J:53349 	
+MGI:2384788	Sde2	SDE2 telomere maintenance homolog (S. pombe)	1		protein processing			ISO	Q6IQ49 	J:164563 	
+MGI:1929464	Sec11a	SEC11 homolog A, signal peptidase complex subunit	7		signal peptide processing			IBA	PTN000086749 	J:265628 	
+MGI:1913536	Sec11c	SEC11 homolog C, signal peptidase complex subunit	18		signal peptide processing			IBA	PTN000086749 	J:265628 	
+MGI:97608	Serpine1	serine (or cysteine) peptidase inhibitor, clade E, member 1	5		negative regulation of plasminogen activation			IBA	PTN002606950 	J:265628 	
+MGI:97608	Serpine1	serine (or cysteine) peptidase inhibitor, clade E, member 1	5		negative regulation of plasminogen activation			IMP		J:155899 	
+MGI:97608	Serpine1	serine (or cysteine) peptidase inhibitor, clade E, member 1	5		negative regulation of plasminogen activation			ISO	P05121 	J:164563 	
+MGI:101780	Serpine2	serine (or cysteine) peptidase inhibitor, clade E, member 2	1		negative regulation of plasminogen activation			IBA	PTN002606944 	J:265628 	
+MGI:101780	Serpine2	serine (or cysteine) peptidase inhibitor, clade E, member 2	1		negative regulation of plasminogen activation			IMP		J:155899 	
+MGI:101780	Serpine2	serine (or cysteine) peptidase inhibitor, clade E, member 2	1		negative regulation of plasminogen activation			ISO	P07093 	J:164563 	
+MGI:101780	Serpine2	serine (or cysteine) peptidase inhibitor, clade E, member 2	1		negative regulation of protein processing			IC	GO:0004867 	J:155899 	
+MGI:107173	Serpinf2	serine (or cysteine) peptidase inhibitor, clade F, member 2	11		negative regulation of plasminogen activation			ISO	P08697 	J:164563 	
+MGI:98297	Shh	sonic hedgehog	5		intein-mediated protein splicing			IEA	IPR006141 	J:72247 	
+MGI:98297	Shh	sonic hedgehog	5		protein autoprocessing			IEA	IPR001767 	J:72247 	
+MGI:1922637	Sirt4	sirtuin 4	5		negative regulation of protein processing involved in protein targeting to mitochondrion			ISO	RGD:1310413 	J:155856 	
+MGI:1919331	Snx12	sorting nexin 12	X		negative regulation of protein processing			ISO	Q9UMY4 	J:164563 	
+MGI:1916269	Spcs1	signal peptidase complex subunit 1 homolog (S. cerevisiae)	14		signal peptide processing			IBA	PTN000324614 	J:265628 	
+MGI:1913874	Spcs2	signal peptidase complex subunit 2 homolog (S. cerevisiae)	7		signal peptide processing			IBA	PTN000317824 	J:265628 	
+MGI:1923937	Spcs3	signal peptidase complex subunit 3 homolog (S. cerevisiae)	8		signal peptide processing			IBA	PTN000301433 	J:265628 	
+MGI:2385906	Spg7	SPG7, paraplegin matrix AAA peptidase subunit	8		mitochondrial protein processing			IBA	PTN000554085 	J:265628 	
+MGI:2385287	Spon1	spondin 1, (f-spondin) extracellular matrix protein	7		positive regulation of protein processing	regulates a function/process that uses App|regulates a function/process that uses Lrp8		IDA		J:102174 	
+MGI:1891433	Sppl3	signal peptide peptidase 3	5		signal peptide processing			IBA	PTN000256094 	J:265628 	
+MGI:2685351	Sprtn	SprT-like N-terminal domain	8		protein autoprocessing			ISO	Q9H040 	J:164563 	
+MGI:98397	Src	Rous sarcoma oncogene	2		positive regulation of protein processing	uses PR:Q8VDL9-1		IGI	MGI:105100 	J:127491 	
+MGI:97756	Srgn	serglycin	10		protein processing			IDA		J:122887 	
+MGI:1913842	Stoml2	stomatin (Epb7.2)-like 2	4		mitochondrial protein processing			IMP		J:149906 	
+MGI:2144164	Tbc1d10a	TBC1 domain family, member 10a	11		activation of cysteine-type endopeptidase activity			ISO	Q9BXI6 	J:164563 	
+MGI:98737	Thbs1	thrombospondin 1	2		negative regulation of plasminogen activation			ISO	P07996 	J:164563 	
+MGI:1343131	Timm17a	translocase of inner mitochondrial membrane 17a	1		positive regulation of protein processing			ISO	RGD:3862 	J:155856 	
+MGI:1929278	Tmem59	transmembrane protein 59	4		negative regulation of protein processing			ISO	Q9BXS4 	J:164563 	
+MGI:1923457	Tmem98	transmembrane protein 98	11		negative regulation of protein processing			IDA		J:267268 	
+MGI:1913570	Tmem208	transmembrane protein 208	8		vacuolar protein processing			IBA	PTN000337666 	J:265628 	
+MGI:1354381	Tmprss2	transmembrane protease, serine 2	16		protein autoprocessing			IBA	PTN000666447 	J:265628 	
+MGI:1354381	Tmprss2	transmembrane protease, serine 2	16		protein autoprocessing			ISO	O15393 	J:164563 	
+MGI:2384877	Tmprss4	transmembrane protease, serine 4	9		protein processing			ISO	Q9NRS4 	J:164563 	
+MGI:3612246	Tmprss9	transmembrane protease, serine 9	10		plasminogen activation			IDA		J:116522 	
+MGI:1922252	Tmprss12	transmembrane (C-terminal) protease, serine 12	15		protein processing	uses PR:F8VQ03		IMP	MGI:6455010 	J:293874 	
+MGI:98784	Tnp1	transition protein 1	1		positive regulation of protein processing			IMP		J:241000 	
+MGI:98785	Tnp2	transition protein 2	16		positive regulation of protein processing			IMP		J:241000 	
+MGI:1919017	Tysnd1	trypsin domain containing 1	10		protein processing			IBA	PTN000470278 	J:265628 	
+MGI:1919017	Tysnd1	trypsin domain containing 1	10		protein processing			ISO	Q2T9J0 	J:164563 	
+MGI:1890467	Vps35	VPS35 retromer complex component	8		vacuolar protein processing			ISA	S42186 	J:66223 	
+MGI:1921298	Vsir	V-set immunoregulatory receptor	10		zymogen activation			ISO	Q9H7M9 	J:164563 	
+MGI:107572	Xiap	X-linked inhibitor of apoptosis	X		inhibition of cysteine-type endopeptidase activity involved in apoptotic process			IMP		J:86711 	
+MGI:2445217	Xpnpep3	X-prolyl aminopeptidase 3, mitochondrial	15		protein processing			ISO	Q9NQH7 	J:73065 	
+MGI:1351651	Yme1l1	YME1-like 1 (S. cerevisiae)	2		mitochondrial protein processing			IMP		J:235613 	
+MGI:1351651	Yme1l1	YME1-like 1 (S. cerevisiae)	2		mitochondrial protein processing			ISO	Q96TA2 	J:164563 	
+MGI:1890508	Zmpste24	zinc metallopeptidase, STE24	4		CAAX-box protein processing			IBA	PTN000012712 	J:265628 	
+MGI:1890508	Zmpste24	zinc metallopeptidase, STE24	4		protein processing			IMP	MGI:2180033 	J:76209 	
+

@@ -1,0 +1,267 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1922264	4930503B20Rik	RIKEN cDNA 4930503B20 gene	3		chaperone-mediated protein folding			IBA	PTN002889875 	J:265628 	
+MGI:2387603	Ahsa1	AHA1, activator of heat shock protein ATPase 1	12		protein folding			IBA	PTN000313827 	J:265628 	
+MGI:1916133	Ahsa2	AHA1, activator of heat shock protein ATPase 2	11		protein folding			IBA	PTN000313827 	J:265628 	
+MGI:2158492	Ahsp	alpha hemoglobin stabilizing protein	7		protein folding			IBA	PTN000408386 	J:265628 	
+MGI:2158492	Ahsp	alpha hemoglobin stabilizing protein	7		protein folding			IDA		J:77038 	
+MGI:109622	Aip	aryl-hydrocarbon receptor-interacting protein	19		protein maturation by protein folding			ISO	O00170 	J:164563 	
+MGI:1928393	Arl2	ADP-ribosylation factor-like 2	19		protein folding			IBA	PTN000195421 	J:265628 	
+MGI:2147954	AU015836	expressed sequence AU015836	X		protein maturation by protein folding			IBA	PTN000492699 	J:265628 	
+MGI:88127	B2m	beta-2 microglobulin	2		protein refolding	uses Mill1|uses Mill2		IDA		J:139545 	
+MGI:108047	Bag1	BCL2-associated athanogene 1	4		chaperone cofactor-dependent protein refolding			ISO	Q99933 	J:164563 	
+MGI:1917619	Bag5	BCL2-associated athanogene 5	12		negative regulation of protein refolding			ISS	Q5QJC9 	J:157888 	
+MGI:88252	Calr	calreticulin	8		protein folding			IBA	PTN000117401 	J:265628 	
+MGI:1920566	Calr3	calreticulin 3	8		protein folding			IBA	PTN000117401 	J:265628 	
+MGI:2140435	Calr4	calreticulin 4	4		protein folding			IBA	PTN000117401 	J:265628 	
+MGI:88261	Canx	calnexin	11		protein folding			IBA	PTN000117401 	J:265628 	
+MGI:107186	Cct2	chaperonin containing Tcp1, subunit 2 (beta)	10		chaperone mediated protein folding independent of cofactor			ISO	P78371 	J:164563 	
+MGI:107186	Cct2	chaperonin containing Tcp1, subunit 2 (beta)	10		protein folding			IBA	PTN004253040 	J:265628 	
+MGI:107186	Cct2	chaperonin containing Tcp1, subunit 2 (beta)	10		protein folding			ISO	P78371 	J:164563 	
+MGI:104708	Cct3	chaperonin containing Tcp1, subunit 3 (gamma)	3		protein folding			IBA	PTN004253040 	J:265628 	
+MGI:104708	Cct3	chaperonin containing Tcp1, subunit 3 (gamma)	3		protein folding			ISO	P49368 	J:164563 	
+MGI:104689	Cct4	chaperonin containing Tcp1, subunit 4 (delta)	11		protein folding			IBA	PTN004253040 	J:265628 	
+MGI:104689	Cct4	chaperonin containing Tcp1, subunit 4 (delta)	11		protein folding			ISO	P50991 	J:164563 	
+MGI:107185	Cct5	chaperonin containing Tcp1, subunit 5 (epsilon)	15		protein folding			IBA	PTN004253040 	J:265628 	
+MGI:107185	Cct5	chaperonin containing Tcp1, subunit 5 (epsilon)	15		protein folding			ISO	P48643 	J:164563 	
+MGI:107943	Cct6a	chaperonin containing Tcp1, subunit 6a (zeta)	5		protein folding			IBA	PTN004253040 	J:265628 	
+MGI:107943	Cct6a	chaperonin containing Tcp1, subunit 6a (zeta)	5		protein folding			ISO	P40227 	J:164563 	
+MGI:1329013	Cct6b	chaperonin containing Tcp1, subunit 6b (zeta)	11		protein folding			IBA	PTN004253040 	J:265628 	
+MGI:1329013	Cct6b	chaperonin containing Tcp1, subunit 6b (zeta)	11		protein folding			ISO	Q92526 	J:164563 	
+MGI:107184	Cct7	chaperonin containing Tcp1, subunit 7 (eta)	6		protein folding			IBA	PTN004253040 	J:265628 	
+MGI:107184	Cct7	chaperonin containing Tcp1, subunit 7 (eta)	6		protein folding			ISO	Q99832 	J:164563 	
+MGI:107183	Cct8	chaperonin containing Tcp1, subunit 8 (theta)	16		protein folding			IBA	PTN004253040 	J:265628 	
+MGI:107183	Cct8	chaperonin containing Tcp1, subunit 8 (theta)	16		protein folding			ISO	P50990 	J:164563 	
+MGI:2685289	Cct8l1	chaperonin containing TCP1, subunit 8 (theta)-like 1	5		protein folding			IBA	PTN004253040 	J:265628 	
+MGI:96534	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)	18		chaperone cofactor-dependent protein refolding			IDA		J:88528 	
+MGI:96534	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)	18		chaperone cofactor-dependent protein refolding			IMP	MGI:1927205 	J:4119 	
+MGI:109531	Cdc37	cell division cycle 37	9		protein folding			IBA	PTN000980613 	J:265628 	
+MGI:1914322	Cdc37l1	cell division cycle 37-like 1	19		protein folding			IBA	PTN000980613 	J:265628 	
+MGI:1919420	Chchd4	coiled-coil-helix-coiled-coil-helix domain containing 4	6		'de novo' posttranslational protein folding			ISO	Q8N4Q1 	J:164563 	
+MGI:1919420	Chchd4	coiled-coil-helix-coiled-coil-helix domain containing 4	6		protein maturation by protein folding			IBA	PTN000492699 	J:265628 	
+MGI:1919420	Chchd4	coiled-coil-helix-coiled-coil-helix domain containing 4	6		protein maturation by protein folding			ISO	Q8N4Q1 	J:164563 	
+MGI:1914167	Chordc1	cysteine and histidine-rich domain (CHORD)-containing, zinc-binding protein 1	9		chaperone-mediated protein folding			IDA		J:165357 	
+MGI:107472	Clgn	calmegin	8		protein folding			IBA	PTN000117401 	J:265628 	
+MGI:1346017	Clpx	caseinolytic mitochondrial matrix peptidase chaperone subunit	9		protein folding			IEA	IPR004487 	J:72247 	
+MGI:88423	Clu	clusterin	14		chaperone-mediated protein folding			ISO	P10909 	J:164563 	
+MGI:88515	Cryaa	crystallin, alpha A	17		protein folding			ISO	RGD:2413 	J:155856 	
+MGI:88516	Cryab	crystallin, alpha B	9		protein folding			ISO	RGD:2414 	J:155856 	
+MGI:1914535	Cwc27	CWC27 spliceosome-associated protein	13		protein folding			IEA	IPR020892 	J:72247 	
+MGI:1196227	Dffa	DNA fragmentation factor, alpha subunit	4		chaperone-mediated protein folding			ISO	O00273 	J:164563 	
+MGI:1270129	Dnaja1	DnaJ heat shock protein family (Hsp40) member A1	4		protein folding			IEA	IPR008971 IPR012724 	J:72247 	
+MGI:1931882	Dnaja2	DnaJ heat shock protein family (Hsp40) member A2	8		protein folding			IEA	IPR008971 IPR012724 	J:72247 	
+MGI:1931882	Dnaja2	DnaJ heat shock protein family (Hsp40) member A2	8		protein refolding			ISO	O60884 	J:164563 	
+MGI:1933786	Dnaja3	DnaJ heat shock protein family (Hsp40) member A3	16		protein folding			ISO	Q96EY1 	J:164563 	
+MGI:1927638	Dnaja4	DnaJ heat shock protein family (Hsp40) member A4	9		protein folding			IEA	IPR008971 IPR012724 	J:72247 	
+MGI:1927638	Dnaja4	DnaJ heat shock protein family (Hsp40) member A4	9		protein refolding			ISO	Q8WW22 	J:164563 	
+MGI:1931874	Dnajb1	DnaJ heat shock protein family (Hsp40) member B1	8		chaperone cofactor-dependent protein refolding			IBA	PTN001180662 	J:265628 	
+MGI:1931874	Dnajb1	DnaJ heat shock protein family (Hsp40) member B1	8		chaperone cofactor-dependent protein refolding			IGI	MGI:105384 	J:86751 	
+MGI:1931874	Dnajb1	DnaJ heat shock protein family (Hsp40) member B1	8		chaperone cofactor-dependent protein refolding			ISO	P25685 	J:164563 	
+MGI:1931874	Dnajb1	DnaJ heat shock protein family (Hsp40) member B1	8		protein folding			IDA		J:276383 	
+MGI:1928739	Dnajb2	DnaJ heat shock protein family (Hsp40) member B2	1		chaperone-mediated protein folding			IBA	PTN002376289 	J:265628 	
+MGI:1928739	Dnajb2	DnaJ heat shock protein family (Hsp40) member B2	1		chaperone-mediated protein folding			ISO	P25686 	J:164563 	
+MGI:1928739	Dnajb2	DnaJ heat shock protein family (Hsp40) member B2	1		protein refolding			IBA	PTN002376289 	J:265628 	
+MGI:1928739	Dnajb2	DnaJ heat shock protein family (Hsp40) member B2	1		protein refolding			ISO	P25686 	J:164563 	
+MGI:1928739	Dnajb2	DnaJ heat shock protein family (Hsp40) member B2	1		regulation of chaperone-mediated protein folding			ISO	P25686 	J:164563 	
+MGI:1306822	Dnajb3	DnaJ heat shock protein family (Hsp40) member B3	1		chaperone-mediated protein folding			IBA	PTN002889875 	J:265628 	
+MGI:1914285	Dnajb4	DnaJ heat shock protein family (Hsp40) member B4	3		chaperone cofactor-dependent protein refolding			IBA	PTN001180662 	J:265628 	
+MGI:1914285	Dnajb4	DnaJ heat shock protein family (Hsp40) member B4	3		protein folding			IEA	IPR008971 	J:72247 	
+MGI:1930018	Dnajb5	DnaJ heat shock protein family (Hsp40) member B5	4		chaperone cofactor-dependent protein refolding			IBA	PTN001180662 	J:265628 	
+MGI:1930018	Dnajb5	DnaJ heat shock protein family (Hsp40) member B5	4		protein folding			IEA	IPR008971 	J:72247 	
+MGI:1344381	Dnajb6	DnaJ heat shock protein family (Hsp40) member B6	5		chaperone-mediated protein folding			IBA	PTN002889875 	J:265628 	
+MGI:1344381	Dnajb6	DnaJ heat shock protein family (Hsp40) member B6	5		chaperone-mediated protein folding			ISO	Q8NHS0 	J:73065 	
+MGI:1344381	Dnajb6	DnaJ heat shock protein family (Hsp40) member B6	5		protein folding			ISO	O75190 	J:164563 	
+MGI:1914012	Dnajb7	DnaJ heat shock protein family (Hsp40) member B7	15		chaperone-mediated protein folding			IBA	PTN002889875 	J:265628 	
+MGI:1922801	Dnajb8	DnaJ heat shock protein family (Hsp40) member B8	6		chaperone-mediated protein folding			IBA	PTN002889875 	J:265628 	
+MGI:1922801	Dnajb8	DnaJ heat shock protein family (Hsp40) member B8	6		chaperone-mediated protein folding			ISO	Q8NHS0 	J:73065 	
+MGI:1922801	Dnajb8	DnaJ heat shock protein family (Hsp40) member B8	6		protein folding			IBA	PTN002889875 Q8NHS0 	J:265628 	
+MGI:1915088	Dnajb11	DnaJ heat shock protein family (Hsp40) member B11	16		protein folding			IEA	IPR008971 	J:72247 	
+MGI:1931881	Dnajb12	DnaJ heat shock protein family (Hsp40) member B12	10		chaperone cofactor-dependent protein refolding			IBA	PTN001940805 	J:265628 	
+MGI:1931881	Dnajb12	DnaJ heat shock protein family (Hsp40) member B12	10		chaperone cofactor-dependent protein refolding			ISO	Q9NXW2 	J:164563 	
+MGI:1916637	Dnajb13	DnaJ heat shock protein family (Hsp40) member B13	7		chaperone cofactor-dependent protein refolding			IBA	PTN001180662 	J:265628 	
+MGI:1916637	Dnajb13	DnaJ heat shock protein family (Hsp40) member B13	7		protein folding			IEA	IPR008971 	J:72247 	
+MGI:1917854	Dnajb14	DnaJ heat shock protein family (Hsp40) member B14	3		chaperone cofactor-dependent protein refolding			IBA	PTN001940805 	J:265628 	
+MGI:1917854	Dnajb14	DnaJ heat shock protein family (Hsp40) member B14	3		chaperone cofactor-dependent protein refolding			ISO	Q8TBM8 	J:164563 	
+MGI:103268	Dnajc1	DnaJ heat shock protein family (Hsp40) member C1	2		protein folding			IDA		J:77390 	
+MGI:99470	Dnajc2	DnaJ heat shock protein family (Hsp40) member C2	5		'de novo' cotranslational protein folding			IBA	PTN001181375 	J:265628 	
+MGI:107373	Dnajc3	DnaJ heat shock protein family (Hsp40) member C3	14		protein folding in endoplasmic reticulum			IBA	PTN001941043 	J:265628 	
+MGI:892995	Dnajc5	DnaJ heat shock protein family (Hsp40) member C5	2		chaperone-mediated protein folding			IBA	PTN002890626 	J:265628 	
+MGI:892995	Dnajc5	DnaJ heat shock protein family (Hsp40) member C5	2		chaperone-mediated protein folding	happens in presynapse,happens in cerebral cortex		IDA		J:169031 	
+MGI:892995	Dnajc5	DnaJ heat shock protein family (Hsp40) member C5	2		chaperone-mediated protein folding	happens in presynapse,happens in cerebral cortex		IEP		J:169031 	
+MGI:892995	Dnajc5	DnaJ heat shock protein family (Hsp40) member C5	2		chaperone-mediated protein folding	happens in presynapse,happens in cerebral cortex		IMP		J:169031 	
+MGI:1928373	Dnajc7	DnaJ heat shock protein family (Hsp40) member C7	11		chaperone cofactor-dependent protein refolding			ISO	Q99615 	J:164563 	
+MGI:1914111	Dnajc10	DnaJ heat shock protein family (Hsp40) member C10	2		protein folding in endoplasmic reticulum			ISO	Q8IXB1 	J:164563 	
+MGI:1923844	Dnajc18	DnaJ heat shock protein family (Hsp40) member C18	18		chaperone cofactor-dependent protein refolding			IBA	PTN001940805 	J:265628 	
+MGI:1919679	Dnajc25	DnaJ heat shock protein family (Hsp40) member C25	4		protein folding			IBA	PTN002544518 	J:265628 	
+MGI:106559	Dnlz	DNL-type zinc finger	2		protein folding			IBA	PTN000467874 	J:265628 	
+MGI:1321385	Entpd5	ectonucleoside triphosphate diphosphohydrolase 5	12		'de novo' posttranslational protein folding			IMP		J:167903 	
+MGI:1354385	Ero1a	endoplasmic reticulum oxidoreductase 1 alpha	14		chaperone cofactor-dependent protein refolding			ISO	Q96HE7 	J:164563 	
+MGI:1354385	Ero1a	endoplasmic reticulum oxidoreductase 1 alpha	14		protein folding			IDA		J:95320 	
+MGI:1354385	Ero1a	endoplasmic reticulum oxidoreductase 1 alpha	14		protein folding			ISO	AF081886 	J:60564 	
+MGI:1354385	Ero1a	endoplasmic reticulum oxidoreductase 1 alpha	14		protein folding in endoplasmic reticulum			IBA	PTN000289179 	J:265628 	
+MGI:1354385	Ero1a	endoplasmic reticulum oxidoreductase 1 alpha	14		protein maturation by protein folding			IGI	MGI:1859815 MGI:1914725 	J:191281 	
+MGI:1914725	Ero1b	endoplasmic reticulum oxidoreductase 1 beta	13		protein folding in endoplasmic reticulum			IBA	PTN000289179 	J:265628 	
+MGI:1914725	Ero1b	endoplasmic reticulum oxidoreductase 1 beta	13		protein folding in endoplasmic reticulum			ISO	Q86YB8 	J:164563 	
+MGI:1914725	Ero1b	endoplasmic reticulum oxidoreductase 1 beta	13		protein maturation by protein folding			IGI	MGI:1354385 MGI:1859815 	J:191281 	
+MGI:1914725	Ero1b	endoplasmic reticulum oxidoreductase 1 beta	13		protein maturation by protein folding			IMP	MGI:3864866 	J:158805 	
+MGI:1916437	Erp27	endoplasmic reticulum protein 27	6		protein folding			IBA	PTN000432607 	J:265628 	
+MGI:1923549	Erp44	endoplasmic reticulum protein 44	4		protein folding			ISO	Q9BS26 	J:164563 	
+MGI:95541	Fkbp1a	FK506 binding protein 1a	2		chaperone-mediated protein folding			IBA	PTN000054102 	J:265628 	
+MGI:1336205	Fkbp1b	FK506 binding protein 1b	12		chaperone-mediated protein folding			IBA	PTN000054102 	J:265628 	
+MGI:95543	Fkbp4	FK506 binding protein 4	6		chaperone-mediated protein folding			IBA	PTN000054102 	J:265628 	
+MGI:95543	Fkbp4	FK506 binding protein 4	6		chaperone-mediated protein folding			ISO	Q02790 	J:164563 	
+MGI:104670	Fkbp5	FK506 binding protein 5	17		chaperone-mediated protein folding			IBA	PTN000054102 	J:265628 	
+MGI:104670	Fkbp5	FK506 binding protein 5	17		chaperone-mediated protein folding			ISO	Q13451 	J:164563 	
+MGI:2137612	Fkbp6	FK506 binding protein 6	5		protein folding			IMP		J:188133 	
+MGI:1341070	Fkbp8	FK506 binding protein 8	8		protein folding			IMP		J:272245 	
+MGI:1341070	Fkbp8	FK506 binding protein 8	8		protein folding			ISO	Q14318 	J:272245 	
+MGI:1350921	Fkbp9	FK506 binding protein 9	6		protein folding			IDA		J:57457 	
+MGI:95832	Grn	granulin	11		positive regulation of protein folding			IMP		J:269546 	
+MGI:1334417	Grpel1	GrpE-like 1, mitochondrial	5		protein folding			IEA	IPR000740 IPR009012 	J:72247 	
+MGI:1334416	Grpel2	GrpE-like 2, mitochondrial	18		protein folding			IEA	IPR000740 IPR009012 	J:72247 	
+MGI:95921	H2-DMa	histocompatibility 2, class II, locus DMa	17		chaperone cofactor-dependent protein refolding			IDA		J:68798 J:88528 	
+MGI:95921	H2-DMa	histocompatibility 2, class II, locus DMa	17		chaperone cofactor-dependent protein refolding			IMP	MGI:1861933 	J:31625 	
+MGI:95921	H2-DMa	histocompatibility 2, class II, locus DMa	17		chaperone cofactor-dependent protein refolding			IMP	MGI:2652160 	J:31786 J:72827 	
+MGI:95922	H2-DMb1	histocompatibility 2, class II, locus Mb1	17		chaperone cofactor-dependent protein refolding			IDA		J:68798 	
+MGI:95923	H2-DMb2	histocompatibility 2, class II, locus Mb2	17		chaperone cofactor-dependent protein refolding			IDA		J:68798 	
+MGI:96250	Hsp90aa1	heat shock protein 90, alpha (cytosolic), class A member 1	12		protein folding			IBA	PTN000163527 	J:265628 	
+MGI:96250	Hsp90aa1	heat shock protein 90, alpha (cytosolic), class A member 1	12		protein folding			IMP		J:276383 	
+MGI:96250	Hsp90aa1	heat shock protein 90, alpha (cytosolic), class A member 1	12		protein refolding			TAS		J:113936 	
+MGI:96247	Hsp90ab1	heat shock protein 90 alpha (cytosolic), class B member 1	17		protein folding			IBA	PTN000163527 	J:265628 	
+MGI:96247	Hsp90ab1	heat shock protein 90 alpha (cytosolic), class B member 1	17		protein folding			IMP		J:276383 	
+MGI:98817	Hsp90b1	heat shock protein 90, beta (Grp94), member 1	10		protein folding			IBA	PTN000163527 	J:265628 	
+MGI:96244	Hspa1a	heat shock protein 1A	17		chaperone cofactor-dependent protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:96244	Hspa1a	heat shock protein 1A	17		protein folding			IDA		J:276383 	
+MGI:96244	Hspa1a	heat shock protein 1A	17		protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:99517	Hspa1b	heat shock protein 1B	17		chaperone cofactor-dependent protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:99517	Hspa1b	heat shock protein 1B	17		protein folding			IDA		J:276383 	
+MGI:99517	Hspa1b	heat shock protein 1B	17		protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:96231	Hspa1l	heat shock protein 1-like	17		chaperone cofactor-dependent protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:96231	Hspa1l	heat shock protein 1-like	17		protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:96231	Hspa1l	heat shock protein 1-like	17		protein refolding			ISO	P34931 	J:164563 	
+MGI:96243	Hspa2	heat shock protein 2	12		chaperone cofactor-dependent protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:96243	Hspa2	heat shock protein 2	12		protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:96243	Hspa2	heat shock protein 2	12		protein refolding			ISO	P54652 	J:164563 	
+MGI:107422	Hspa4l	heat shock protein 4 like	3		protein folding			ISO	RGD:1306528 	J:155856 	
+MGI:95835	Hspa5	heat shock protein 5	2		chaperone cofactor-dependent protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:95835	Hspa5	heat shock protein 5	2		protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:105384	Hspa8	heat shock protein 8	9		chaperone cofactor-dependent protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:105384	Hspa8	heat shock protein 8	9		chaperone cofactor-dependent protein refolding			IGI	MGI:1931874 	J:86751 	
+MGI:105384	Hspa8	heat shock protein 8	9		chaperone-mediated protein folding	happens in presynapse,happens in brain		IDA		J:169031 	
+MGI:105384	Hspa8	heat shock protein 8	9		chaperone-mediated protein folding	happens in presynapse,happens in brain		IEP		J:169031 	
+MGI:105384	Hspa8	heat shock protein 8	9		chaperone-mediated protein folding	happens in presynapse,happens in brain		IMP		J:169031 	
+MGI:105384	Hspa8	heat shock protein 8	9		chaperone-mediated protein folding	happens in presynapse,happens in brain		IPI		J:169031 	
+MGI:105384	Hspa8	heat shock protein 8	9		chaperone-mediated protein folding			ISO	RGD:621725 	J:155856 	
+MGI:105384	Hspa8	heat shock protein 8	9		positive regulation of protein refolding			ISO	RGD:621725 	J:155856 	
+MGI:105384	Hspa8	heat shock protein 8	9		protein folding			IDA		J:82317 	
+MGI:105384	Hspa8	heat shock protein 8	9		protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:105384	Hspa8	heat shock protein 8	9		protein refolding			ISO	P11142 	J:164563 	
+MGI:96245	Hspa9	heat shock protein 9	18		chaperone cofactor-dependent protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:96245	Hspa9	heat shock protein 9	18		protein folding			IEA	IPR012725 	J:72247 	
+MGI:96245	Hspa9	heat shock protein 9	18		protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:1309463	Hspa13	heat shock protein 70 family, member 13	16		chaperone cofactor-dependent protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:1309463	Hspa13	heat shock protein 70 family, member 13	16		protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:1354164	Hspa14	heat shock protein 14	2		chaperone cofactor-dependent protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:1354164	Hspa14	heat shock protein 14	2		protein refolding			IBA	PTN002321897 	J:265628 	
+MGI:96240	Hspb1	heat shock protein 1	5		chaperone-mediated protein folding			ISO	P04792 	J:164563 	
+MGI:2685325	Hspb6	heat shock protein, alpha-crystallin-related, B6	7		chaperone-mediated protein folding			ISO	O14558 	J:164563 	
+MGI:96242	Hspd1	heat shock protein 1 (chaperonin)	1		protein folding			IBA	PTN000143677 	J:265628 	
+MGI:96242	Hspd1	heat shock protein 1 (chaperonin)	1		protein refolding			ISO	P10809 	J:164563 	
+MGI:104680	Hspe1	heat shock protein 1 (chaperonin 10)	1		chaperone cofactor-dependent protein refolding			IBA	PTN000080668 	J:265628 	
+MGI:104680	Hspe1	heat shock protein 1 (chaperonin 10)	1		protein folding			IEA	IPR018369 IPR020818 IPR037124 	J:72247 	
+MGI:105053	Hsph1	heat shock 105kDa/110kDa protein 1	5		chaperone cofactor-dependent protein refolding			IDA		J:86751 	
+MGI:1891421	Mesd	mesoderm development LRP chaperone	7		protein folding			IDA		J:103781 	
+MGI:1891421	Mesd	mesoderm development LRP chaperone	7		protein folding			IMP		J:175504 J:287028 	
+MGI:1891421	Mesd	mesoderm development LRP chaperone	7		protein folding			ISO	Q14696 	J:164563 	
+MGI:1891836	Mkks	McKusick-Kaufman syndrome	2		protein folding			IEA	IPR028790 	J:72247 	
+MGI:97346	Nktr	natural killer tumor recognition sequence	9		protein folding			IBA	PTN002594282 	J:265628 	
+MGI:97367	Nppa	natriuretic peptide type A	4		protein folding			ISO	P01160 	J:164563 	
+MGI:97368	Nppb	natriuretic peptide type B	4		protein folding			ISO	P16860 	J:164563 	
+MGI:97369	Nppc	natriuretic peptide type C	1		protein folding			ISO	P23582 	J:164563 	
+MGI:106014	Nudc	nudC nuclear distribution protein	4		protein folding			IBA	PTN000270240 	J:265628 	
+MGI:1277103	Nudcd2	NudC domain containing 2	11		protein folding			IBA	PTN000270240 	J:265628 	
+MGI:2144158	Nudcd3	NudC domain containing 3	11		protein folding			IBA	PTN000270240 	J:265628 	
+MGI:1888921	P3h1	prolyl 3-hydroxylase 1	4		protein folding			ISO	Q32P28 	J:164563 	
+MGI:97464	P4hb	prolyl 4-hydroxylase, beta polypeptide	11		protein folding			IBA	PTN000432607 	J:265628 	
+MGI:97464	P4hb	prolyl 4-hydroxylase, beta polypeptide	11		protein folding in endoplasmic reticulum			ISO	P07237 	J:164563 	
+MGI:1913538	Pdcd5	programmed cell death 5	7		negative regulation of chaperone-mediated protein folding			ISO	O14737 	J:164563 	
+MGI:1914716	Pdcl	phosducin-like	2		negative regulation of protein refolding			ISO	RGD:621135 	J:155856 	
+MGI:1914716	Pdcl	phosducin-like	2		protein folding			ISO	RGD:621135 	J:155856 	
+MGI:1916083	Pdcl3	phosducin-like 3	1		chaperone-mediated protein folding			ISO	Q9H2J4 	J:164563 	
+MGI:1916083	Pdcl3	phosducin-like 3	1		negative regulation of chaperone-mediated protein folding			ISO	Q9H2J4 	J:164563 	
+MGI:1916083	Pdcl3	phosducin-like 3	1		protein folding			ISO	RGD:1309663 	J:155856 	
+MGI:1916441	Pdia2	protein disulfide isomerase associated 2	17		protein folding			IBA	PTN000432607 	J:265628 	
+MGI:95834	Pdia3	protein disulfide isomerase associated 3	2		positive regulation of protein folding			ISO	RGD:68430 	J:155856 	
+MGI:95834	Pdia3	protein disulfide isomerase associated 3	2		protein folding			IBA	PTN000432607 	J:265628 	
+MGI:104864	Pdia4	protein disulfide isomerase associated 4	6		chaperone-mediated protein folding			ISO	RGD:619835 	J:155856 	
+MGI:104864	Pdia4	protein disulfide isomerase associated 4	6		positive regulation of protein folding			ISO	RGD:619835 	J:155856 	
+MGI:104864	Pdia4	protein disulfide isomerase associated 4	6		protein folding			IBA	PTN000432607 	J:265628 	
+MGI:1919849	Pdia5	protein disulfide isomerase associated 5	16		protein folding			ISO	Q14554 	J:164563 	
+MGI:1919080	Pdilt	protein disulfide isomerase-like, testis expressed	7		protein folding			IBA	PTN000432607 	J:265628 	
+MGI:1915809	Pdrg1	p53 and DNA damage regulated 1	2		protein folding			IEA	IPR002777 	J:72247 	
+MGI:1334458	Pex19	peroxisomal biogenesis factor 19	1		chaperone-mediated protein folding			ISO	P40855 	J:164563 	
+MGI:1914449	Pfdn1	prefoldin 1	18		protein folding			IBA	PTN002325135 	J:265628 	
+MGI:1914449	Pfdn1	prefoldin 1	18		protein folding			ISO	O60925 	J:164563 	
+MGI:1276111	Pfdn2	prefoldin 2	1		protein folding			IBA	PTN000329566 	J:265628 	
+MGI:1276111	Pfdn2	prefoldin 2	1		protein folding			IDA		J:48636 	
+MGI:1276111	Pfdn2	prefoldin 2	1		protein folding			ISO	Q9UHV9 	J:164563 	
+MGI:1923512	Pfdn4	prefoldin 4	2		protein folding			ISO	Q9NQP4 	J:164563 	
+MGI:1928753	Pfdn5	prefoldin 5	15		protein folding			ISO	Q99471 	J:164563 	
+MGI:95908	Pfdn6	prefoldin subunit 6	17		protein folding			IBA	PTN000484524 	J:265628 	
+MGI:95908	Pfdn6	prefoldin subunit 6	17		protein folding			ISO	O15212 	J:164563 	
+MGI:1916863	Pofut2	protein O-fucosyltransferase 2	10		positive regulation of protein folding			ISO	Q9Y2G5 	J:164563 	
+MGI:97749	Ppia	peptidylprolyl isomerase A	11		protein folding			IBA	PTN002594282 	J:265628 	
+MGI:97750	Ppib	peptidylprolyl isomerase B	9		protein folding			IBA	PTN002594282 	J:265628 	
+MGI:97751	Ppic	peptidylprolyl isomerase C	18		protein folding			IBA	PTN002594282 	J:265628 	
+MGI:1914988	Ppid	peptidylprolyl isomerase D (cyclophilin D)	3		chaperone-mediated protein folding			ISO	Q08752 	J:164563 	
+MGI:1914988	Ppid	peptidylprolyl isomerase D (cyclophilin D)	3		protein folding			IBA	PTN002594282 	J:265628 	
+MGI:1917118	Ppie	peptidylprolyl isomerase E (cyclophilin E)	4		protein folding			IBA	PTN002594282 	J:265628 	
+MGI:2145814	Ppif	peptidylprolyl isomerase F (cyclophilin F)	14		protein folding			IBA	PTN002594282 	J:265628 	
+MGI:2445173	Ppig	peptidyl-prolyl isomerase G (cyclophilin G)	2		protein folding			IBA	PTN002594282 	J:265628 	
+MGI:106499	Ppih	peptidyl prolyl isomerase H	4		protein folding			IBA	PTN002594282 	J:265628 	
+MGI:1916066	Ppil1	peptidylprolyl isomerase (cyclophilin)-like 1	17		protein folding			IEA	IPR020892 	J:72247 	
+MGI:2447857	Ppil2	peptidylprolyl isomerase (cyclophilin)-like 2	16		protein folding			IEA	IPR020892 	J:72247 	
+MGI:1917475	Ppil3	peptidylprolyl isomerase (cyclophilin)-like 3	1		protein folding			IEA	IPR020892 	J:72247 	
+MGI:1920325	Ppil6	peptidylprolyl isomerase (cyclophilin)-like 6	10		protein folding			IBA	PTN002594282 	J:265628 	
+MGI:1859815	Prdx4	peroxiredoxin 4	X		protein maturation by protein folding			IGI	MGI:1354385 MGI:1914725 	J:191281 	
+MGI:1929282	Ptges3	prostaglandin E synthase 3	10		chaperone cofactor-dependent protein refolding			ISO	Q15185 	J:164563 	
+MGI:1929282	Ptges3	prostaglandin E synthase 3	10		protein folding			IBA	PTN000532593 	J:265628 	
+MGI:1916146	Ptges3l	prostaglandin E synthase 3 like	11		protein folding			IBA	PTN000532593 	J:265628 	
+MGI:1330818	Qsox1	quiescin Q6 sulfhydryl oxidase 1	1		protein folding			IBA	PTN000528008 	J:265628 	
+MGI:2387194	Qsox2	quiescin Q6 sulfhydryl oxidase 2	2		protein folding			IBA	PTN000528008 	J:265628 	
+MGI:894323	Ranbp2	RAN binding protein 2	10		protein folding			IEA	IPR020892 	J:72247 	
+MGI:108019	Sdf2	stromal cell derived factor 2	11		chaperone cofactor-dependent protein refolding			ISO	Q99470 	J:164563 	
+MGI:2149842	Sdf2l1	stromal cell-derived factor 2-like 1	16		chaperone cofactor-dependent protein refolding			ISO	Q9HCN8 	J:164563 	
+MGI:1927947	Selenof	selenoprotein F	3		'de novo' posttranslational protein folding			TAS		J:114069 	
+MGI:1098703	Sgta	small glutamine-rich tetratricopeptide repeat (TPR)-containing, alpha	10		chaperone-mediated protein folding			ISO	RGD:620815 	J:155856 	
+MGI:1859730	Sh3glb1	SH3-domain GRB2-like B1 (endophilin)	3		'de novo' posttranslational protein folding	uses Bax		IDA		J:102178 	
+MGI:1917606	St13	suppression of tumorigenicity 13	15		chaperone cofactor-dependent protein refolding			IBA	PTN001876995 	J:265628 	
+MGI:1917606	St13	suppression of tumorigenicity 13	15		chaperone cofactor-dependent protein refolding			ISO	RGD:621312 	J:155856 	
+MGI:1917606	St13	suppression of tumorigenicity 13	15		negative regulation of protein refolding			ISO	RGD:621312 	J:155856 	
+MGI:1891731	Stub1	STIP1 homology and U-Box containing protein 1	17		protein folding			TAS		J:104594 	
+MGI:107549	Tbca	tubulin cofactor A	13		post-chaperonin tubulin folding pathway			IEA	IPR004226 IPR036126 	J:72247 	
+MGI:107549	Tbca	tubulin cofactor A	13		protein folding			IBA	PTN000487182 	J:265628 	
+MGI:1919976	Tbcc	tubulin-specific chaperone C	17		post-chaperonin tubulin folding pathway			ISO	Q15814 	J:164563 	
+MGI:1919976	Tbcc	tubulin-specific chaperone C	17		protein folding			IBA	PTN000388691 	J:265628 	
+MGI:1919686	Tbcd	tubulin-specific chaperone d	11		post-chaperonin tubulin folding pathway			ISO	Q9BTW9 	J:164563 	
+MGI:1919686	Tbcd	tubulin-specific chaperone d	11		protein folding			IBA	PTN000291965 	J:265628 	
+MGI:1919686	Tbcd	tubulin-specific chaperone d	11		protein folding			ISO	Q9BTW9 	J:164563 	
+MGI:1917680	Tbce	tubulin-specific chaperone E	13		post-chaperonin tubulin folding pathway			IBA	PTN000388740 	J:265628 	
+MGI:1917680	Tbce	tubulin-specific chaperone E	13		post-chaperonin tubulin folding pathway			ISO	Q15813 	J:164563 	
+MGI:1917680	Tbce	tubulin-specific chaperone E	13		protein folding			TAS		J:80606 	
+MGI:1925543	Tbcel	tubulin folding cofactor E-like	9		post-chaperonin tubulin folding pathway			IBA	PTN000388740 	J:265628 	
+MGI:98535	Tcp1	t-complex protein 1	17		protein folding			IBA	PTN004253040 	J:265628 	
+MGI:98535	Tcp1	t-complex protein 1	17		protein folding			ISO	P17987 	J:164563 	
+MGI:1353568	Tor1a	torsin family 1, member A (torsin A)	2		chaperone cofactor-dependent protein refolding			IEA	IPR017378 	J:72247 	
+MGI:1353568	Tor1a	torsin family 1, member A (torsin A)	2		chaperone-mediated protein folding			ISO	O14656 	J:164563 	
+MGI:1353605	Tor1b	torsin family 1, member B	2		chaperone cofactor-dependent protein refolding			IEA	IPR017378 	J:72247 	
+MGI:1353596	Tor2a	torsin family 2, member A	2		chaperone cofactor-dependent protein refolding			IEA	IPR017378 	J:72247 	
+MGI:1915265	Trap1	TNF receptor-associated protein 1	16		protein folding			IBA	PTN000163527 	J:265628 	
+MGI:1927086	Ube4b	ubiquitination factor E4B	4		protein folding			NAS		J:81362 	
+MGI:102674	Umod	uromodulin	7		chaperone-mediated protein folding			IMP		J:289677 	
+MGI:2142246	Unc45a	unc-45 myosin chaperone A	7		chaperone-mediated protein folding			IBA	PTN000528779 	J:265628 	
+MGI:2142246	Unc45a	unc-45 myosin chaperone A	7		chaperone-mediated protein folding			IDA		J:137086 	
+MGI:2443377	Unc45b	unc-45 myosin chaperone B	11		chaperone-mediated protein folding			IBA	PTN000528779 	J:265628 	
+MGI:2443377	Unc45b	unc-45 myosin chaperone B	11		chaperone-mediated protein folding			IDA		J:136184 J:137086 	
+MGI:1333804	Vbp1	von Hippel-Lindau binding protein 1	X		protein folding			ISO	P61758 	J:164563 	
+MGI:2387863	Zmynd10	zinc finger, MYND domain containing 10	9		protein folding			IMP	MGI:6159883 	J:272245 	
+
