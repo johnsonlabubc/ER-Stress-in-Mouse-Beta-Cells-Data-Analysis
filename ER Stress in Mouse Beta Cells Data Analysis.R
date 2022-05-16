@@ -242,22 +242,19 @@ ggplot2::ggplot(df_NDvsT2D_common_ordered_combined, ggplot2::aes(x = transf.log.
                       alpha = 0.8, 
                       stroke = 1,
                       fill = "#848484",
-                      data = df_NDvsT2D_common_ordered_combined[df_NDvsT2D_common_ordered_combined$significance == "< 0.01",]
-  ) +
+                      data = df_NDvsT2D_common_ordered_combined[df_NDvsT2D_common_ordered_combined$significance == "< 0.01",]) +
   
   ggplot2::geom_point(ggplot2::aes(colour = "1",
                                    shape = significance, 
                                    size = Gene.ratio),
                       stroke = 1,
-                      data = df_NDvsT2D_common_ordered_combined[df_NDvsT2D_common_ordered_combined$significance == "0.01-0.05",]
-  ) +
+                      data = df_NDvsT2D_common_ordered_combined[df_NDvsT2D_common_ordered_combined$significance == "0.01-0.05",]) +
   
   ggplot2::geom_point(ggplot2::aes(shape = significance, 
                                    size = Gene.ratio), 
                       stroke = 1,
                       colour = "#848484", 
-                      data = df_NDvsT2D_common_ordered_combined[df_NDvsT2D_common_ordered_combined$significance == "> 0.05",]
-  ) +
+                      data = df_NDvsT2D_common_ordered_combined[df_NDvsT2D_common_ordered_combined$significance == "> 0.05",]) +
   
   ggplot2::coord_cartesian(xlim = c(left_limit, right_limit), ylim = c(0.5, 20.5), expand = FALSE, clip = "off") +
   
@@ -266,10 +263,10 @@ ggplot2::ggplot(df_NDvsT2D_common_ordered_combined, ggplot2::aes(x = transf.log.
   
   ggplot2::annotate(geom = "segment", x = left_limit, xend = 0, y = 21, yend = 21, colour = "#DDDDDD", size = 8) +
   ggplot2::annotate(geom = "segment", x = 0, xend = right_limit, y = 21, yend = 21, colour = "#AAAAAA", size = 8) +
-  ggplot2::annotate(geom = "segment", x = -0.06*2, xend = 0.06*2, y = 21, yend = 21, colour = "#FFFFFF", size = 8) +
+  ggplot2::annotate(geom = "segment", x = -0.06 * 2, xend = 0.06 * 2, y = 21, yend = 21, colour = "#FFFFFF", size = 8) +
   ggplot2::annotate(geom = "text", x = left_limit/2, y = 21, label = c("ND")) +
   ggplot2::annotate(geom = "text", x = right_limit/2, y = 21, label = c("T2D")) +
-  ggplot2::annotate(geom = "text", x = left_limit-0.65, y = 21, label = c("Condition"), hjust = 1) +
+  ggplot2::annotate(geom = "text", x = left_limit - 0.65, y = 21, label = c("Condition"), hjust = 1) +
   
   ggplot2::scale_color_manual(values = c("#848484")) +
   
@@ -390,10 +387,10 @@ ggplot2::ggplot(df_NDvsT2D_female_ordered_combined, ggplot2::aes(x = transf.log.
   
   ggplot2::annotate(geom = "segment", x = left_limit, xend = 0, y = 21, yend = 21, colour = "#DDDDDD", size = 8) +
   ggplot2::annotate(geom = "segment", x = 0, xend = right_limit, y = 21, yend = 21, colour = "#AAAAAA", size = 8) +
-  ggplot2::annotate(geom = "segment", x = -0.06*4, xend = 0.06*4, y = 21, yend = 21, colour = "#FFFFFF", size = 8) +
+  ggplot2::annotate(geom = "segment", x = -0.06 * 4, xend = 0.06 * 4, y = 21, yend = 21, colour = "#FFFFFF", size = 8) +
   ggplot2::annotate(geom = "text", x = left_limit/2, y = 21, label = c("ND")) +
   ggplot2::annotate(geom = "text", x = right_limit/2, y = 21, label = c("T2D")) +
-  ggplot2::annotate(geom = "text", x = left_limit-0.65, y = 21, label = c("Condition"), hjust = 1) +
+  ggplot2::annotate(geom = "text", x = left_limit - 0.65, y = 21, label = c("Condition"), hjust = 1) +
   
   ggplot2::scale_color_manual(values = c("#E7B91E")) +
   
@@ -516,10 +513,10 @@ ggplot2::ggplot(df_NDvsT2D_male_ordered_combined, ggplot2::aes(x = transf.log.1.
   
   ggplot2::annotate(geom = "segment", x = left_limit, xend = 0, y = 21, yend = 21, colour = "#DDDDDD", size = 8) +
   ggplot2::annotate(geom = "segment", x = 0, xend = right_limit, y = 21, yend = 21, colour = "#AAAAAA", size = 8) +
-  ggplot2::annotate(geom = "segment", x = -0.06*4, xend = 0.06*4, y = 21, yend = 21, colour = "#FFFFFF", size = 8) +
+  ggplot2::annotate(geom = "segment", x = -0.06 * 4, xend = 0.06 * 4, y = 21, yend = 21, colour = "#FFFFFF", size = 8) +
   ggplot2::annotate(geom = "text", x = left_limit/2, y = 21, label = c("ND")) +
   ggplot2::annotate(geom = "text", x = right_limit/2, y = 21, label = c("T2D")) +
-  ggplot2::annotate(geom = "text", x = left_limit-0.65, y = 21, label = c("Condition"), hjust = 1) +
+  ggplot2::annotate(geom = "text", x = left_limit - 0.65, y = 21, label = c("Condition"), hjust = 1) +
   
   ggplot2::scale_color_manual(values = c("#84B429")) +
   
@@ -4097,8 +4094,7 @@ ggplot2::ggplot(df_12hr_DMSOvsTg, ggplot2::aes(y = Pathway)) +
                 colour = "Sex", 
                 fill = "Sex", 
                 size = "Gene Ratio", 
-                shape = "Significance"
-  ) +
+                shape = "Significance") +
   
   ggplot2::scale_shape_manual(values = c(21, 1, 1)) +
   
@@ -4131,8 +4127,7 @@ ggplot2::ggplot(df_12hr_DMSOvsTg, ggplot2::aes(y = Pathway)) +
                  legend.key.width = grid::unit(0.75, "cm"),
                  legend.margin = ggplot2::margin(t = 0.5, r = 0, b = 0, l = 0.5, "cm"),
                  legend.box.margin = ggplot2::margin(t = 0, r = 0, b = 0, l = 0, "cm"),
-                 aspect.ratio = (nrow(df_12hr_DMSOvsTg) + 1)/5
-  )
+                 aspect.ratio = (nrow(df_12hr_DMSOvsTg) + 1)/5)
 
 
 ### Figure 5 - Supplement 3 ###
@@ -4435,8 +4430,7 @@ ggplot2::ggplot(data_interaction_F_plotted_Sig_FC, ggplot2::aes(x = Index)) +
     color = ggplot2::guide_legend(override.aes = list(size = 4, fill = "white")),
     fill = ggplot2::guide_legend(override.aes = list(size = 4, shape = 21, alpha = 1, colour = c("grey70", "blue"))),
     alpha = "none",
-    size = "none"
-  ) +
+    size = "none") +
   
   ggplot2::theme_bw() +
   
@@ -4770,8 +4764,7 @@ ggplot(data_interaction_M_plotted_Sig_FC, ggplot2::aes(x = Index)) +
     color = ggplot2::guide_legend(override.aes = list(size = 4, fill = "white")),
     fill = ggplot2::guide_legend(override.aes = list(size = 4, shape = 21, alpha = 1, colour = c("grey70", "blue"))),
     alpha = "none",
-    size = "none"
-  ) +
+    size = "none") +
   
   ggplot2::theme_bw() +
   ggplot2::theme(
