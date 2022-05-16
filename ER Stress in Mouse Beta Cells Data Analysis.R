@@ -9,9 +9,13 @@ library(gridSVG)
 library(pcaMethods)
 library(scales)
 library(stringr)
+library(this.path)
 library(tidyr)
 library(VennDiagram)
 library(zoo)
+
+#set working directory to location of this R script
+setwd(dirname(this.path::this.path()))
 
 
 ### Figure 1 ###
