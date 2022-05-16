@@ -4150,8 +4150,8 @@ data_interaction_F <- subset(data_interaction_F, !is.na(interaction_padj_Female)
 
 #categorize interaction change
 data_interaction_F <- data_interaction_F %>%
-  mutate(
-    category = case_when(
+  dplyr::mutate(
+    category = dplyr::case_when(
       interaction_padj_Female > 0.05 & FC_Female_6hr_TGvsDMSO > 0 & FC_Female_12hr_TGvsDMSO > 0 ~ 1,
       interaction_padj_Female > 0.05 & FC_Female_6hr_TGvsDMSO < 0 & FC_Female_12hr_TGvsDMSO < 0 ~ 2,
       interaction_padj_Female < 0.05 & deltaFC_Female < 0 & FC_Female_6hr_TGvsDMSO > 0 & FC_Female_12hr_TGvsDMSO > 0 ~ 3,
@@ -4485,8 +4485,8 @@ data_interaction_M <- subset(data_interaction_M, !is.na(interaction_padj_Male))
 
 #categorize interaction change
 data_interaction_M <- data_interaction_M %>%
-  mutate(
-    category = case_when(
+  dplyr::mutate(
+    category = dplyr::case_when(
       interaction_padj_Male > 0.05 & FC_Male_6hr_TGvsDMSO > 0 & FC_Male_12hr_TGvsDMSO > 0 ~ 1,
       interaction_padj_Male > 0.05 & FC_Male_6hr_TGvsDMSO < 0 & FC_Male_12hr_TGvsDMSO < 0 ~ 2,
       interaction_padj_Male < 0.05 & deltaFC_Male < 0 & FC_Male_6hr_TGvsDMSO > 0 & FC_Male_12hr_TGvsDMSO > 0 ~ 3,
